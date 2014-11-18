@@ -1,0 +1,35 @@
+import web
+from web import form
+from web.contrib.template import render_mako
+
+render = web.template.render('templates/')
+
+urls = ('/', 'index')
+app = web.application(urls, globals())
+
+makos = render_mako(
+        directories=['templates'],
+        input_encoding='utf-8',
+        output_encoding='utf-8',
+        )
+
+login = form.Form(
+    form.Textbox('Usuario'),
+    form.Textbox('Contrasena'))
+
+class index:
+    def GET(self):
+        login_form = login()
+
+        return makos.mako_template(form = login_form) 
+
+    def POST(self):
+        login_form = login()
+        if not form.validates():
+            return makos.mako_template(form = login_form)        
+        else:
+            return "Pronto contactaremos con usted %s!  Le enviaremos un email a: %s" % (form['Nombre'].value, form['Email'].value)
+
+if __name__=="__main__":
+    web.internalerror = web.debugerror
+    app.run()

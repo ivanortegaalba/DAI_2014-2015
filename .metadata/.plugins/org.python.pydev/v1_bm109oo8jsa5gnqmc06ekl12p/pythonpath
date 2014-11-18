@@ -7,3 +7,6 @@
 /System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload
 /System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/PyObjC
 /Library/Python/2.7/site-packages
+/Library/Python/2.7/site-packages/web.py-0.37-py2.7.egg
+/Library/Python/2.7/site-packages/Mako-1.0.0-py2.7.egg
+/Library/Python/2.7/site-packages/MarkupSafe-0.23-py2.7-macosx-10.10-intel.egg

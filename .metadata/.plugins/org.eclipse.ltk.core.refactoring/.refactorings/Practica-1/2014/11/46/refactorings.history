@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Practica-1/src/templates/mako-template.html&apos; to &apos;mako_template.html&apos;" description="Rename resource &apos;mako-template.html&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/templates/mako-template.html" name="mako_template.html" stamp="1415605416117" updateReferences="true"/>
+</session>

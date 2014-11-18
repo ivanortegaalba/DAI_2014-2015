@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<title>Mi Periodico</title>
+<meta charset="utf-8">
+<link rel="stylesheet" href="../static/estilo.css">
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet"
+	href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css">
+
+<!-- Optional theme -->
+<link rel="stylesheet"
+	href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap-theme.min.css">
+
+<!-- Latest compiled and minified JavaScript -->
+<script
+	src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+<
+<style>
+form * {
+	margin: 5px;
+}
+
+.error, .wrong {
+	color: red;
+}
+
+#header {
+	background-color: blue;
+}
+
+#login {
+	background-color: green;
+}
+
+#contain-body {
+	background-color: purple;
+}
+
+#footer {
+	background-color: green;
+}
+</style>
+</head>
+<body>
+
+	<div class="container">
+		<section id="header" class="row">
+			<div class="col-md-8">
+				<h1>Header</h1>
+				<h2>Sub-header</h2>
+			</div>
+			<div class="col-md-4">
+				<form id="login" name="login" method="POST">
+					% if message: 
+						${message} 
+					% endif 
+					% if form: 
+						${form.render()} 
+					%endif 
+					<input class="button form-control" type="submit" />
+				</form>
+			</div>
+		</section>
+		<section id="contain-body" class="row">
+			<div class="col-md-2 col-xs-2">
+				<h5>MENU</h5>
+				<ul class="nav nav-pills nav-stacked" role="tablist">
+					<li><a href="/">Inicio</a></li>
+					<li><a href="/pagina1">Página 1</a></li>
+					<li><a href="/pagina2">Página 2</a></li>
+					<li><a href="/pagina3">Página 3</a></li>
+					<li><a href="/pagina4">Página 4</a></li>
+				</ul>
+			</div>
+			<div class="col-md-8">
+				%if tittle:
+				<h3>${titulo}</h3>
+				%endif %if content:
+				<h3>${content}</h3>
+				%endif
+			</div>
+		</section>
+
+		<section id="footer" class="row"></section>
+
+	</div>
+	</form>
+	</div>

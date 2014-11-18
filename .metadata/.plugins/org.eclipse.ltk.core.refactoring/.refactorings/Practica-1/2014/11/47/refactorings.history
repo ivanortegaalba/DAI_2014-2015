@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Practica-1/src/Copy of persistencia-mongo-10.py&apos; to &apos;persistencia-mongo-10.py&apos;" description="Rename resource &apos;Copy of persistencia-mongo-10.py&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/Copy of persistencia-mongo-10.py" name="persistencia-mongo-10.py" stamp="1416292610343" updateReferences="true"/>
+</session>

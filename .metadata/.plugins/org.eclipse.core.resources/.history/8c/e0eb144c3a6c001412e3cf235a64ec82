@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>Usando plantillas mako</title>
+		<meta charset="utf-8">
+		
+		
+		<!-- Latest compiled and minified CSS -->
+		<link rel="stylesheet"
+			href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css">
+		
+		<!-- Optional theme -->
+		<link rel="stylesheet"
+			href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap-theme.min.css">
+		
+		<!-- Latest compiled and minified JavaScript -->
+		<script
+			src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+		<style>
+			form * {
+				margin: 5px;
+			}
+			form a{
+				padding: 5px;
+			}
+			.error, .wrong {
+				color: red;
+			}
+			
+			#header {
+				background-color: #AC58FA;
+				color: white;
+			}
+			
+			#login {
+				background-color: #7401DF;
+				border-radius: 10px;			}
+			
+			#contain-body {
+				background-color: white;
+			}
+			
+			#footer {
+				background-color: grey;
+				color: white;
+				position: fixed;
+				bottom:0;
+				width:100%;			
+			}
+		</style>
+	</head>
+<body>
+
+	<div class="container-fluid">
+		<section id="header" class="row">
+			<div class="col-md-12">
+				<div class ="col-md-8">
+					<h1>Header</h1>
+					<h6>Sub-header</h6>
+				</div>
+				<div class="col-md-4">
+				<form id="login" name="login" method="POST">
+					% if message: 
+						${message} 
+					% endif 
+					% if form: 
+						${form.render()} 
+					%endif 
+				</form>
+			</div>
+			</div>
+			
+		</section>
+		<section id="contain-body" class="row">
+			<div class="col-md-2 col-xs-2">
+				<h5>MENU</h5>
+				<ul class="nav nav-pills nav-stacked" role="tablist">
+					% if ultimas: 
+						<li><a href="/">Páginas disponibles</a></li>
+						<li><a href="/pagina1">Página 1</a></li>
+						<li><a href="/pagina2">Página 2</a></li>
+						<li><a href="/pagina3">Página 3</a></li>
+						<li><a href="/pagina4">Página 4</a></li>
+						<li><a href="/">últimas visitadas</a></li>
+						
+					% else:
+						<li><a href="/">últimas visitadas</a></li>
+						${ultimas} 
+					%endif
+				</ul>
+			</div>
+			<div class="col-md-8">
+				%if tittle:
+				<h3>${titulo}</h3>
+				%endif 
+				%if content:
+				<h3>${content}</h3>
+				%endif
+			</div>
+		</section>
+
+		
+	</div>
+<footer id="footer" class="row text-center">
+			<h6>Iván Ortega Alba - ivanortegaalba@gmail.com - Licencia MIT</h6>
+</footer>
