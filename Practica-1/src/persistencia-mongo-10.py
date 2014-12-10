@@ -3,7 +3,7 @@ import web
 from web import form
 from web.contrib.template import render_mako
 import anydbm
-from warnings import catch_warnings
+from pymongo import MongoClient
 
 web.config.debug = True
 
@@ -317,18 +317,17 @@ class Registro:
 			aux = web.input()
 
 			db_usuarios = {
-				"nombre": aux.nombre,
-				"apellidos": aux.apellidos,
-				"dni": aux.dni,
-				"correo": aux.correo,
-				"visa": aux.visa,
-				"dia": aux.dia,
-				"mes": aux.mes,
-				"ano": aux.ano,
-				"descripcion": aux.descripcion,
-				"contrasena": aux.contrasena,
-				"contrasena2": aux.contrasena2,
-				"pago": aux.pago,
+				"nombre": aux.Nombre,
+				"apellidos": aux.Apellidos,
+				"email": aux.Email,
+				"visa": aux.Visa,
+				"dia": aux.Dia,
+				"mes": aux.Mes,
+				"ano": aux.Ano,
+				"direccion": aux.Direccion,
+				"contrasena": aux.Contrasena,
+				"contrasena2": aux.Contrasena2,
+				"pago": aux.Pago,
 			}
 
 			db.insert(db_usuarios)

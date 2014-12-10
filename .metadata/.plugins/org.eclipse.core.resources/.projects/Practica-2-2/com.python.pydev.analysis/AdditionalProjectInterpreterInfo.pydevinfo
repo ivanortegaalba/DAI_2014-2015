@@ -1,0 +1,27 @@
+-- VERSION_4
+-- START DISKCACHE
+/Users/ivanortegaalba/Dropbox/UNIVERSIDAD_14-15/DAI/PRACTICAS/python_exercises/.metadata/.plugins/org.eclipse.core.resources/.projects/Practica-2-2/com.python.pydev.analysis/v2_indexcache
+graficos|1418228368000|/Users/ivanortegaalba/Dropbox/UNIVERSIDAD_14-15/DAI/PRACTICAS/python_exercises/Practica-2-2/graficos.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+2=index
+1=graficos
+-- END DICTIONARY
+-- START TREE 1
+9
+app|1|app!11@
+cli|1|client!11@
+db|1|db!11@
+ind|1|index!9@
+myf|1|myform!11@
+ren|1|render!11@
+url|1|urls!11@
+val|0|
+web|1|web!11@
+-- END TREE
+-- START TREE 2
+2
+get|1|GET!2&10@
+pos|1|POST!2&10@
+-- END TREE

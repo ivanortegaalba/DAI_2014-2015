@@ -1,0 +1,38 @@
+'''
+Created on 2/12/2014
+
+@author: ivanortegaalba
+'''
+
+# etree sax parser
+from lxml import etree
+
+class ParseRssNews ():
+	noticias = 0;
+	imagenes = 0;
+	def __init__ (self):
+		print('Principio del archivo------------------------')
+				
+	def start (self, tag, attrib):  # Etiquetas de inicio
+		print (' < %s > ' % tag)
+		if(tag == 'image'):
+			print ('--------------imagen encontrada--------------')
+# 		for k in attrib:
+# 			print (' %s=" %s"' % (k, attrib[k]))
+	def end (self, tag):  # Etiquetas de fin
+		print (' </ %s > ' % tag)
+		if (tag == 'item'):
+			self.noticias = self.noticias + 1;
+			print('HEMOS ENCONTRADO: ' + str(self.noticias) + 'NOTICIAS') 
+
+	def data (self, data):  # texto
+		print (' - %s - ' % data)
+
+	def close (self):
+		print ('HEMOS ENCONTRADO' + self.imagenes + 'IMAGENES')
+		print (' - - - -Fin del archivo')
+
+parser = etree.XMLParser (target=ParseRssNews ())
+etree.parse ('portada.xml', parser)
+#'portada.xml' es un rss en
+# http://ep00.epimg.net/rss/elpais/portada.xml

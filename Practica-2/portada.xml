@@ -1,0 +1,913 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+  <title><![CDATA[Portada de EL PAÍS]]></title>
+  <link><![CDATA[http://elpais.com/rss/elpais/portada.xml]]></link>
+  <description><![CDATA[Portada de EL PAÍS]]></description>
+  <lastBuildDate>Tue, 2 Dec 2014 01:20:28 +0100</lastBuildDate>
+  <pubDate>Tue, 2 Dec 2014 01:20:28 +0100</pubDate>
+  <language>es</language>
+  <copyright><![CDATA[Copyright 2014, Ediciones EL PAÍS]]></copyright>
+  <ttl>5</ttl>
+  <image>
+      <url>http://ep00.epimg.net/iconos/v1.x/v1.0/logos/cabecera_portada.png</url>
+      <title>Logotipo de EL PAÍS</title>
+      <link>http://elpais.com/</link>
+  </image>
+  <item>
+    <title><![CDATA[Hacienda crea un impuesto para gravar la salida de España de ricos]]></title>
+    <link><![CDATA[http://elpais.com/economia/2014/12/01/actualidad/1417463062_644105.html]]></link>
+    <guid isPermaLink="true"><![CDATA[http://elpais.com/economia/2014/12/01/actualidad/1417463062_644105.html]]></guid>
+    <dc:creator><![CDATA[Jesús Sérvulo González]]></dc:creator>
+    <description><![CDATA[Francia, Alemania, Dinamarca o Estados Unidos ya tienen un tributo similar. El nuevo gravamen solo se aplica a acciones y participaciones]]></description>
+    <pubDate><![CDATA[Tue, 2 Dec 2014 00:00:29 +0100]]></pubDate>
+    <category><![CDATA[Reforma fiscal]]></category>
+    <category><![CDATA[IRGF]]></category>
+    <category><![CDATA[Ministerio de Hacienda]]></category>
+    <category><![CDATA[Política fiscal]]></category>
+    <category><![CDATA[Reformas políticas]]></category>
+    <category><![CDATA[IRPF]]></category>
+    <category><![CDATA[Impuestos]]></category>
+    <category><![CDATA[Ministerios]]></category>
+    <category><![CDATA[Tributos]]></category>
+    <category><![CDATA[Finanzas públicas]]></category>
+    <category><![CDATA[Política]]></category>
+    <category><![CDATA[Administración Estado]]></category>
+    <category><![CDATA[Finanzas]]></category>
+    <category><![CDATA[Administración pública]]></category>
+    <content:encoded><![CDATA[<p>El pasado jueves se publicaron las tres leyes que conforman <a href="http://elpais.com/tag/reforma_fiscal/a/">la reforma fiscal</a> del Gobierno —la del IRPF, Sociedades e IVA— en el <a href="https://www.boe.es/" target="_blank">Boletín Oficial del Estado (BOE)</a>. Entre la catarata de cambios fiscales se encuentra un nuevo tributo para gravar la salida de las grandes fortunas de España, el conocido como <em>exit tax</em>. Este impuesto, regulado en el artículo 95 de la Ley de IRPF, se aplica sobre aquellos contribuyentes —con más de cuatro millones de acciones o un millón si mantienen una participación superior al 25% de la sociedad— que trasladan su residencia habitual fuera de España si han vivido en nuestro país 10 de los últimos 15 años.</p>
+<p>Estos ciudadanos tendrán que pagar por la diferencia entre el valor de compra de sus valores y el que estos tengan cuando salgan de España aunque no hayan vendido esas acciones. Es decir, tendrán que declarar como renta del ahorro —con un tipo de gravamen de hasta el 24% en 2015— las plusvalías latentes.</p>
+<p>Se trata de un impuesto antielusión de capitales que ya tienen algunos países de nuestro entorno como Francia, Alemania, Dinamarca, Holanda o incluso Estados Unidos, según recuerdan en el Ministerio de Hacienda. El impuesto español solo afecta a los grandes patrimonios, a diferencia de lo que ocurre en Alemania y Dinamarca, donde el límite de aplicación es menor.</p>
+<p>La figura creada por Hacienda se aplica a un conjunto de bienes reducido: acciones y participaciones mientras que, por ejemplo, el exit tax de Estados Unidos se aplica a todo el patrimonio del ciudadano o en Dinamarca a un conjunto amplio de valores que incluye inmuebles o aportaciones a planes de pensiones.</p>
+<p>Para evitar que el impuesto sea confiscatorio, como denuncian algunas asociaciones de inversores, el Ejecutivo ha previsto que el impuesto no será exigible si el traslado del contribuyente se produce a otro Estado dentro de la Unión Europea. Además, en el caso de que transcurran 10 años desde el cambio de país y no se hayan vendido las participaciones el impuesto quedará sin efecto y la Agencia Tributaria devolverá el dinero. Esto se hace para garantizar que no existe ánimo especulativo.</p>
+<p>Para evitar perjuicios para los trabajadores que sean trasladados por motivos laborales se permite que estos no tengan que pagarlo salvo si permanecen más de 10 años fuera. Además, en caso de retorno sin haber vendido las participaciones o acciones quedará anulado el impuesto. Si ya lo había pagado se le devolverá junto con los intereses correspondientes, en caso de que hubiera pedido un aplazamiento el impuesto quedará sin vigor.</p>
+<p>Pese a que este nuevo tributo está diseñado como un impuesto para las grandes fortunas que llegan a España a invertir con la intención de mudarse a otro país con una fiscalidad más favorable donde trasladar los beneficios generados por sus inversiones españolas para apenas tributar, la medida ha causado cierta polémica.</p>
+<p>La <a href="http://www.asinver.org/" target="_blank">Asociación Europea de Inversores Profesionales</a> (Asinver) denunció la semana pasada a España ante la Comisión Europea por este gravamen al considerar que vulnera el derecho comunitario porque restringe la libertad de movimiento y establecimiento dentro de la UE. Asinver considera que este impuesto “tiene carácter confiscatorio y representa una discriminación fiscal”.</p>
+<p><a href="http://www.fundacionic.com/" target="_blank">La Fundación Impuestos y Competitividad</a>, integrada por los grandes despachos de abogados del país, también ha cuestionado el exit tax porque considera que podría suponer un lastre para la competitividad de las empresas y la expansión exterior.</p>
+<p>Incluso el famoso empresario y emprendedor Martin Varsavsky, fundador de Jazztel, Fon o Ya.com, ha censurado el nuevo impuesto. Algunos inversores creen que el tributo puede perjudicar la aparición de <em>start-ups</em>, pero es difícil que los accionistas de estas compañías cumplan las condiciones para que se les aplique el impuesto.</p>
+<p>Sin embargo, la nueva figura tributaria aprobada por el Gobierno está basada en la que ya existe en otros países europeos. Incluso, aseguran en Hacienda, es respetuosa con el principio de no discriminación del derecho comunitario.</p>
+<p>En Alemania, por ejemplo, se aplica a los ciudadanos que estuvieran viviendo en aquel país al menos 10 años y que en los últimos cinco años hayan poseído acciones o participaciones de sociedades de al menos el 1% tanto de compañías residentes en España como de sociedades extranjeras.</p>
+<p>En Hacienda defienden la configuración del nuevo impuesto comparado con el que existe en otros países como Francia, Alemania o Dinamarca, porque solo afecta a grandes patrimonios y se aplica sobre un conjunto de bienes limitados.</p>]]></content:encoded>
+    <enclosure url="http://ep00.epimg.net/economia/imagenes/2014/12/01/actualidad/1417463062_644105_1417463448_miniatura_normal.jpg" length="4137" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/economia/imagenes/2014/12/01/actualidad/1417463062_644105_1417463448_noticia_normal.jpg" length="19182" type="image/jpeg"  />
+    <comments><![CDATA[http://eskup.elpais.com/C1417463062-82943d809ceb0549d22e7e0cce66f918]]></comments>
+  </item>
+  <item>
+    <title><![CDATA[El desplome del crudo amenaza a los nuevos productores de EE UU]]></title>
+    <link><![CDATA[http://elpais.com/economia/2014/12/01/actualidad/1417462246_547465.html]]></link>
+    <guid isPermaLink="true"><![CDATA[http://elpais.com/economia/2014/12/01/actualidad/1417462246_547465.html]]></guid>
+    <dc:creator><![CDATA[Sandro Pozzi]]></dc:creator>
+    <description><![CDATA[Los precios a ambos lados del Atlántico han caído casi un 20% en un mes. El barril por debajo de los 70 dólares amenaza la supervivencia de los extractores más pequeños]]></description>
+    <pubDate><![CDATA[Tue, 2 Dec 2014 00:00:12 +0100]]></pubDate>
+    <category><![CDATA[Fracturación hidráulica]]></category>
+    <category><![CDATA[Mercado materias primas]]></category>
+    <category><![CDATA[Petróleo]]></category>
+    <category><![CDATA[Estados Unidos]]></category>
+    <category><![CDATA[Producción energía]]></category>
+    <category><![CDATA[Materias primas]]></category>
+    <category><![CDATA[Combustibles fósiles]]></category>
+    <category><![CDATA[Norteamérica]]></category>
+    <category><![CDATA[Mercados financieros]]></category>
+    <category><![CDATA[Combustibles]]></category>
+    <category><![CDATA[América]]></category>
+    <category><![CDATA[Energía no renovable]]></category>
+    <category><![CDATA[Fuentes energía]]></category>
+    <category><![CDATA[Finanzas]]></category>
+    <category><![CDATA[Industria]]></category>
+    <category><![CDATA[Energía]]></category>
+    <content:encoded><![CDATA[<p><a href="http://economia.elpais.com/economia/2014/11/28/actualidad/1417164824_818755.html">El desplome del precio del petróleo</a> empieza a recordar en Wall Street al preludio del estallido de la burbuja tecnológica, hace 15 años. Esta vez las víctimas de su propio éxito pueden ser los jóvenes productores que emergieron durante los últimos años con el renacer energético de Estados Unidos, gracias a las nuevas técnicas de extracción. Un precio inferior a los 70 dólares (56 euros) el barril amenaza la supervivencia de los pequeños y favorece a los más grandes.</p>
+<p>El petróleo de referencia en EE UU, el barril Texas, arrancó diciembre tratando de mantener los 65 dólares, tras perder más de un 10% de su valor en los dos días previos a la reunión de la Organización de Países Productores y Exportadores de Petróleo. En todo noviembre, los precios del barril Texas y el Brent, la referencia europea, cayeron casi un 20% del precio. Ayer en cambio, recuperó terreno. El Brent subió un 2,7%, hasta los 72 dólares.</p>
+<p>Este <a href="http://economia.elpais.com/economia/2014/10/15/actualidad/1413375976_030825.html">es una buena noticia para el consumidor</a> justo al inicio de la temporada de compras navideñas. Sin embargo, la volatilidad reciente en el mercado de la energía plantea serios problemas a los cientos de productores de <em>fracking</em> y <em>shale</em> en EE UU. Los yacimientos de referencia para los analistas son Eagle Ford y Permian, al sur de Texas, y Bakken, en las montañas de Dakota del Norte. El primero, como indican desde Scotiabank, sigue siendo rentable a los precios actuales. Los otros dos, en cambio, están ya en color rojo.</p>
+<p><a href="http://economia.elpais.com/economia/2014/11/27/actualidad/1417082430_991292.html">La decisión del cártel de mantener la producción intacta</a> hizo temblar a los productores en los yacimientos de Dakota del Norte. El petróleo es muy fácil de extraer del suelo en Arabia Saudí, hasta el punto de que pueden soportar un precio del barril a 10 dólares para ser rentables. En Alaska, las petroleras pueden tolerar precios a 40 dólares. En Canadá, hasta 50 dólares.</p>
+<p>Sin embargo, la situación se complica cuando se baja al sur de EE UU. El nivel de rentabilidad medio en Bakken y Permian ronda los 40 y los 70 dólares dependiendo del productor y de la zona de extracción, mientras que en Eagle Ford pueden tolerar que baje a los 60 dólares. Lo que está por ver es cuánto tiempo tiene que pasar a estos niveles para que se produzca una reducción en la actividad de extracción de crudo en estas áreas clave.</p>
+<p>Bank of America anticipa seis meses de volatilidad como mínimo en el mercado del petróleo, porque hay un exceso de capacidad evidente. Es algo que señaló también la Agencia Internacional de la Energía en su último informe anual. Solo en los yacimientos de Eagle Ford hay cerca de 200 operadores, muchos de ellos independientes de las grandes petroleras y que pueden sufrir de liquidez si la situación se prolonga.</p>
+<p>Uno de los detalles en los que se fijan los analistas, por eso, es el nivel de deuda que acumularon estas compañías para poder dar vida a los proyectos de extracción. Deustche Bank da casi por hecho que el precio del barril de West Texas puede bajar aún a los 60 dólares. Bank of America ve posible incluso que se acerque a los 50 dólares. Pero en ambos casos, más allá de un precio concreto, coinciden en que habrá volatilidad durante cuatro o cinco años.</p>
+<p>Visto de otra manera, la carencia de estabilidad en el precio puede ser un problema mayor para los pequeños productores de petróleo porque eso no da certidumbre a sus inversiones. Por eso, desde Bank of America, anticipan que el desplome en el precio del petróleo provocará un cambio a la hora de operar este sector y puede provocar que se inicie una ola de consolidación en el sector.</p>
+<p>La OPEP dejó claro el jueves que no quiere hacer sola el trabajo de dar estabilidad al precio del petróleo, <a href="http://economia.elpais.com/economia/2014/11/27/actualidad/1417082430_991292.html">especialmente Irán y Arabia Saudí</a>. La cuestión es hasta qué punto EE UU y Canadá están dispuestas en esta situación a ayudar a equilibrar el mercado o a rebajar la tensión dando cifras claras sobre la producción real derivada de las nuevas técnicas de extracción. Los analistas de Citigroup, sin embargo, no creen que la situación vaya a cambiar.</p>
+<p>EE UU está cambiando por completo el juego de fuerza global en el tablero de la energía. El recorte en las importaciones de crudo durante los últimos años equivale a la producción combinada de Arabia Saudí y Nigeria, según Citigroup. El ritmo al que avanza la producción de hidrocarburos en el país hará que su balanza comercial energética no tenga ya déficit en 2018.</p>
+<p>La reflexión de los analistas es que la OPEP tiene cada vez menos sentido limitada a 11 miembro, y controlada por los saudíes. Una opción para mantener su relevancia pasaría por integrar a Rusia, que también sufre esta situación. La esperanza en Wall Street, señalan desde Nomura, es que el modelo de los productores de <em>shale</em> se muestre más resistente ante la última jugada del cártel.</p>]]></content:encoded>
+    <enclosure url="http://ep00.epimg.net/economia/imagenes/2014/12/01/actualidad/1417462246_547465_1417462904_miniatura_normal.jpg" length="3664" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/economia/imagenes/2014/12/01/actualidad/1417462246_547465_1417462904_noticia_normal.jpg" length="16649" type="image/jpeg"  />
+    <comments><![CDATA[http://eskup.elpais.com/C1417462246-afca319877ed2d1a0d83a70563e9e421]]></comments>
+  </item>
+  <item>
+    <title><![CDATA[El rublo sufre la peor caída en un día desde 1999 por el petróleo]]></title>
+    <link><![CDATA[http://elpais.com/economia/2014/12/01/actualidad/1417461067_867121.html]]></link>
+    <guid isPermaLink="true"><![CDATA[http://elpais.com/economia/2014/12/01/actualidad/1417461067_867121.html]]></guid>
+    <dc:creator><![CDATA[Pilar Bonet]]></dc:creator>
+    <description><![CDATA[La moneda rusa llega a caer más de un 8% frente al dólar]]></description>
+    <pubDate><![CDATA[Mon, 1 Dec 2014 23:22:39 +0100]]></pubDate>
+    <category><![CDATA[Cotización divisas]]></category>
+    <category><![CDATA[Banco Central de Rusia]]></category>
+    <category><![CDATA[Mercado divisas]]></category>
+    <category><![CDATA[Rusia]]></category>
+    <category><![CDATA[Europa este]]></category>
+    <category><![CDATA[Petróleo]]></category>
+    <category><![CDATA[Mercados financieros]]></category>
+    <category><![CDATA[Combustibles fósiles]]></category>
+    <category><![CDATA[Empresas]]></category>
+    <category><![CDATA[Europa]]></category>
+    <category><![CDATA[Combustibles]]></category>
+    <category><![CDATA[Economía]]></category>
+    <category><![CDATA[Energía no renovable]]></category>
+    <category><![CDATA[Finanzas]]></category>
+    <category><![CDATA[Fuentes energía]]></category>
+    <category><![CDATA[Energía]]></category>
+    <content:encoded><![CDATA[<p>El rublo siguió devaluándose este lunes lastrado por la <a href="http://elpais.com/tag/petroleo/a/">caída del precio del petróleo</a>. La divisa rusa llegó a sufrir su mayor caída con relación al dólar desde enero de 1999, al alcanzar un descenso intradía del 8%, si bien luego moderó el descenso hasta el 4,4%. El dólar, que por primera vez había superado los 50 rublos por unidad el pasado viernes, continuó ganando terreno el lunes al abrirse la bolsa de Moscú y llegó a tocar los 53,20 rublos.</p>
+<p>Al final, la moneda nacional rusa recuperó algo de terreno y cada <em>billete verde</em> se cambió por 51,6 rublos. Mientras tanto, el euro, que el viernes se cotizó a 61,41 rublos, se disparó hasta 66,40 rublos y acabó quedando en los 64,5. Suponen pérdidas de dos y 2,9 rublos respectivamente con relación al viernes.</p>
+<p>Mientras tanto, un grupo de diputados de la Duma Estatal (cámara baja del parlamento ruso) se dirigieron a la Fiscalía del Estado para que investigue <a href="http://elpais.com/tag/banco_central_de_rusia/a/">el papel del Banco Central</a> en el mercado de divisas. En opinión del legislador Yevgueni Fédorov, el Banco Central incumple las funciones que le han sido dadas por la constitución, a saber defender y mantener la estabilidad del rublo, según informó el servicio RBC. El pasado 10 de noviembre el Banco Central anunció que renunciaba a intervenir en el mercado para sostener el cambio del rublo. No obstante, la entidad reguladora se ha reservado la posibilidad de intervenir, si se produce una amenaza para la estabilidad financiera. Para evitar la especulación, el Banco Central no ha desvelado cuáles son magnitudes de los cuatro parámetros que se ha fijado para hacerlo.</p>
+<p>A fecha de 1 de enero de 2014, el dólar se cotizaba a 32,64 rublos y el euro, a 45,05 rublos, pero desde entonces un conjunto de factores, entre ellos sobre todo el descenso de los precios del petróleo, ha llevado al rublo a mínimos históricos. El descenso de los precios del crudo se ha acelerado después de que los países de la OPEP, en su reunión del 27 de noviembre, decidieran no reducir sus cuotas y seguir lanzando al mercado 30 millones de barriles por día. Debido a su política en Ucrania, Rusia tiene que vérselas también con las sanciones occidentales y el deterioro del clima inversor.</p>
+<p>La vicepresidenta del Banco Central de Rusia, Ksenia Yudáieva, vaticinó el lunes que los precios del crudo continuarán descendiendo y señaló que el banco tiene planes de emergencia basados en un precio medio del petróleo de hasta 60 dólares por barril para el periodo 2015-2017. El presupuesto ruso se elaboró a partir del precio de 93 dólares por barril, señaló la alta funcionaria.</p>
+<p>En vista de que el rublo se ha devaluado un 40% frente al dólar y entre un 20% y un 30% frente al euro, Yudáieva pronosticó un aumento de la inflación “a un nivel al que no estábamos acostumbrados en los últimos tiempos”. Inicialmente se calculaba que la inflación en Rusia iba a alcanzar un 5% en 2014, pero ese pronóstico ha sido corregido por el Banco Central hasta el 9%. Yudáieva calcula que la cifra real se acercará al 10%. La devaluación del rublo no se refleja mecánicamente sobre los precios, puesto que Rusia, en parte debido a las sanciones y contrasanciones impuestas por ella misma a las importaciones occidentales, está sustituyendo parte de las mercancías que importaba por productos de producción propia. Desde el pasado verano los precios del crudo se han rebajado en más de un 30%.</p>]]></content:encoded>
+    <enclosure url="http://ep00.epimg.net/economia/imagenes/2014/12/01/actualidad/1417461067_867121_1417461657_miniatura_normal.jpg" length="8216" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/economia/imagenes/2014/12/01/actualidad/1417461067_867121_1417461657_noticia_normal.jpg" length="44112" type="image/jpeg"  />
+    <comments><![CDATA[http://eskup.elpais.com/C1417461067-ddae3bbc76f8cc03a60a81b234b0bf85]]></comments>
+  </item>
+  <item>
+    <title><![CDATA[Mas distingue entre “legitimidad de la democracia” y la del Estado de derecho]]></title>
+    <link><![CDATA[http://elpais.com/ccaa/2014/12/01/catalunya/1417448513_203754.html]]></link>
+    <guid isPermaLink="true"><![CDATA[http://elpais.com/ccaa/2014/12/01/catalunya/1417448513_203754.html]]></guid>
+    <dc:creator><![CDATA[Miquel Noguer]]></dc:creator>
+    <description><![CDATA[CDC defiende que el presidente de la Generalitat encabece la lista unitaria tras el apoyo de ANC]]></description>
+    <pubDate><![CDATA[Tue, 2 Dec 2014 00:21:51 +0100]]></pubDate>
+    <category><![CDATA[Artur Mas]]></category>
+    <category><![CDATA[Consulta catalana 2014]]></category>
+    <category><![CDATA[Autodeterminación]]></category>
+    <category><![CDATA[Generalitat Cataluña]]></category>
+    <category><![CDATA[Referéndum]]></category>
+    <category><![CDATA[Cataluña]]></category>
+    <category><![CDATA[España]]></category>
+    <category><![CDATA[Elecciones]]></category>
+    <category><![CDATA[Administración autonómica]]></category>
+    <category><![CDATA[Conflictos políticos]]></category>
+    <category><![CDATA[Juicios]]></category>
+    <category><![CDATA[Política]]></category>
+    <category><![CDATA[Proceso judicial]]></category>
+    <category><![CDATA[Justicia]]></category>
+    <category><![CDATA[Administración pública]]></category>
+    <content:encoded><![CDATA[<p><a href="http://elpais.com/tag/artur_mas/a/" target="_blank">El presidente de la Generalitat, Artur Mas</a>, llamó ayer a no “confrontar” la legitimidad democrática y la legalidad del Estado de derecho; porque eso supone “llevar las cosas al límite”, según dijo en un acto que presidió junto al fiscal superior de Cataluña, quien ha firmado la querella contra él. Mas defendió la necesidad de “soldar y juntar” legitimidad y legalidad e insistió en que su proyecto pasa por “casar la legitimidad de la democracia con la legitimidad del Estado de derecho, y el voto ciudadano con la legalidad”. Lo hizo en su discurso en el acto de entrega de los premios del Día de la Justicia, que presidió <a href="http://politica.elpais.com/politica/2014/11/21/actualidad/1416568294_207719.html" target="_blank">junto al fiscal superior de Cataluña, José María Romero de Tejada</a>, y el presidente del <a href="http://elpais.com/tag/tsjc_tribunal_superior_justicia_cataluna/a/" target="_blank">Tribunal Superior de Justicia de Cataluña</a>, Miguel Ángel Gimeno, uno de los tres magistrados que debe decidir sobre la admisión a trámite de la querella por la consulta del 9-N.</p>
+<p>Tras su discurso, que Romero de Tejada no aplaudió, él y Mas intercambiaron un breve saludo durante unos segundos, aunque durante el acto de entrega de premios no se dirigieron la palabra.</p>
+<p>El apoyo que <a href="http://www.google.es/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CCMQFjAA&url=http%3A%2F%2Felpais.com%2Ftag%2Fanc_asamblea_nacional_cataluna%2Fa%2F&ei=pOV8VLrWBqq27gaP2IHoDA&usg=AFQjCNEDHfciCXm1bzlF0XWpEwrsNtCnxw&sig2=FAb6mblcXGZC6GP7pHwunQ&bvm=bv.80642063,d.ZGU" target="_blank">la Asamblea Nacional Catalana (ANC)</a> brindó el pasado fin de semana al plan independista de Mas ha dado aire a Convergència Democràtica, que ayer pidió para el presidente de la Generalitat el primer puesto de la candidatura soberanista unitaria si esta llega a formalizarse. El <em>president</em> ya dijo la semana pasada que la lista debería estar encabezada por alguien que sea “conocido a nivel internacional” y ayer su partido apostó claramente por él. “Nadie entendería que la lista no la encabezara el presidente Mas”, dijo la portavoz de CDC, Mercè Conesa.</p>
+<p>La dirigente de Convergència pidió esto a todas las formaciones soberanistas después de la reunión de la cúpula del partido. Los dirigentes de CDC se mostraron satisfechos por el apoyo de la principal entidad privada independentista, que hasta ahora había simpatizado más con los planes de Esquerra Republicana.</p>
+<p><a href="http://www.google.es/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0CCsQFjAB&url=http%3A%2F%2Fccaa.elpais.com%2Fccaa%2F2014%2F11%2F29%2Fcatalunya%2F1417262059_217749.html&ei=2eV8VNXqMqXV7AblyIDwDg&usg=AFQjCNHVXXGdeE7NuTXZLY9bbVPQWiDujQ&sig2=nOf2cSYo4vKSx4yuuI1y9A&bvm=bv.80642063,d.ZGU" target="_blank">La ANC dijo el sábado que apoya la candidatura transversal</a> que propone Mas, con independentistas de varios partidos y de la sociedad civil. Esto llevó ayer a Convergència a dejar claras sus intenciones. En cuanto al tiempo, según Conesa, lo único que se ha descartado es que las elecciones catalanas coincidan con las municipales de mayo. Los alcaldes convergentes siempre han rechazado la coincidencia de comicios por entender que esto favorecería a ERC y les perjudicaría a ellos. Lo que siguió sin aclarar Conesa es si las elecciones se celebrarán antes de las municipales o después.</p>
+<p>Mas asistirá hoy <a href="http://www.google.es/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0CCwQFjAB&url=http%3A%2F%2Fccaa.elpais.com%2Fccaa%2F2014%2F11%2F26%2Fcatalunya%2F1416997098_548779.html&ei=8-V8VOi-IbCP7Aar_YGADg&usg=AFQjCNHe-nm_auSDEmtZjaaQQ_L76MQUOg&sig2=1WN41QrcLzaJ-1u4KiVlsQ&bvm=bv.80642063,d.ZGU" target="_blank">a la conferencia que pronunciará Oriol Junqueras, líder de ERC</a>, para exponer su plan hacia la independencia. Los republicanos recordaron ayer que su opción pasa por presentarse en una lista separada con un programa conjunto sobre la independencia. Esta fórmula, insisten, permitiría recabar más votos y formar después un Gobierno de unidad independentista.</p>]]></content:encoded>
+    <enclosure url="http://ep00.epimg.net/ccaa/imagenes/2014/12/01/catalunya/1417448513_203754_1417450490_miniatura_normal.jpg" length="5095" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/ccaa/imagenes/2014/12/01/catalunya/1417448513_203754_1417450490_noticia_normal.jpg" length="21167" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/ccaa/imagenes/2014/12/01/catalunya/1417448513_203754_1417450490_noticia_grande.jpg" length="52149" type="image/jpeg"  />
+    <comments><![CDATA[http://eskup.elpais.com/C1417449715-8a26b54e0e57c406978f4446822f56d5]]></comments>
+  </item>
+  <item>
+    <title><![CDATA[Esquerra salva a Mas de ir a declarar en la ‘comisión Pujol’]]></title>
+    <link><![CDATA[http://elpais.com/ccaa/2014/12/01/catalunya/1417459639_195039.html]]></link>
+    <guid isPermaLink="true"><![CDATA[http://elpais.com/ccaa/2014/12/01/catalunya/1417459639_195039.html]]></guid>
+    <dc:creator><![CDATA[Pere Ríos]]></dc:creator>
+    <description><![CDATA[Aprobada la comparecencia de los expresidentes González y Aznar]]></description>
+    <pubDate><![CDATA[Tue, 2 Dec 2014 00:01:47 +0100]]></pubDate>
+    <category><![CDATA[Caso Pujol]]></category>
+    <category><![CDATA[Paraísos fiscales]]></category>
+    <category><![CDATA[Jordi Pujol]]></category>
+    <category><![CDATA[Corrupción política]]></category>
+    <category><![CDATA[Cataluña]]></category>
+    <category><![CDATA[Corrupción]]></category>
+    <category><![CDATA[España]]></category>
+    <category><![CDATA[Delitos fiscales]]></category>
+    <category><![CDATA[Tributos]]></category>
+    <category><![CDATA[Finanzas públicas]]></category>
+    <category><![CDATA[Delitos]]></category>
+    <category><![CDATA[Política]]></category>
+    <category><![CDATA[Finanzas]]></category>
+    <category><![CDATA[Justicia]]></category>
+    <content:encoded><![CDATA[<p>Esquerra Republicana evitó este lunes que el presidente de la Generalitat, Artur Mas, haya de comparecer en la comisión que investiga el fraude fiscal, la corrupción política, <a href="http://ccaa.elpais.com/ccaa/2014/11/03/catalunya/1415023860_015152.html" target="_blank">así como los negocios de la familia de Jordi Pujol</a>. El portavoz republicano, Oriol Amorós, argumentó su oposición “por lo que representa la figura del presidente”, y reclamó que Mas acuda a la comisión de asuntos institucionales, para explicar su política en esas materias. Solo CiU se sumó a la idea de salvar al president de la comparecencia, pero bastó con ello por la aritmética parlamentaria.</p>
+<p>“No tenemos nada que esconder, pero queremos un país limpio y no de justicieros”, explicó Meritxell Borràs, portavoz nacionalista, en una intervención leída en la que reclamó que la comisión no se convierta en un circo mediático.</p>
+<p>La comisión arrancó sus trabajos con la comparecencia de Miguel Ángel Mayo, coordinador en Cataluña del Sindicato de Técnicos de Hacienda, quien aseguró que el fraude fiscal representa el 24,6 % de su PIB, es decir, entre 16.000 y 18.000 millones de euros anuales. “Uno de cada cuatro euros escapa al control fiscal”, insistió Mayo, para quien la corrupción política tiene un coste negativo en la obtención de inversiones por la “imagen exterior” que se proyecta.</p>
+<p>Tras su intervención se aprobó la comparecencia de otras 43 personas. Entre ellas, las de <a href="http://www.google.es/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CCMQFjAA&url=http%3A%2F%2Felpais.com%2Ftag%2Ffelipe_gonzalez_marquez%2Fa%2F&ei=Jrh8VNS-IojX7Aby3oBo&usg=AFQjCNHFsa220RdPbzRxjeNkV0rxjJYUQg&sig2=V3nAz9b0KyYfasaGqDOQvw&bvm=bv.80642063,d.ZGU" target="_blank">los expresidentes del Gobierno Felipe González</a> y <a href="http://www.google.es/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CCQQFjAA&url=http%3A%2F%2Felpais.com%2Ftag%2Fjose_maria_aznar%2Fa%2F&ei=Obh8VP2ZCauv7AbVvYCICw&usg=AFQjCNGOANcdEsPX8vx6MaRQAePfo156nQ&sig2=YW90Y2b4T7qpxRcISaamOw&bvm=bv.80642063,d.ZGU" target="_blank">José María Aznar</a>. El presidente de la comisión, el diputado de la CUP David Fernández, calificó a Aznar de “el comisionista de Abengoa” antes de votar, lo que provocó las críticas del diputado del PSC Jordi Terrades y Sergio Santamaría, del PP. Los dos partidos votaron en contra de llamar a los expresidentes, pero la abstención de CiU fue decisiva para que se aprobara, y supone un cambio de posicionamiento respecto a la semana pasada, en que los nacionalistas se opusieron. El Estatuto establece en su artículo 59 que las personas llamadas “han de comparecer obligatoriamente”. Ahora se les comunicará el acuerdo para que designen la fecha en que puedan acudir</p>
+<p>Entre las comparecencias aprobadas este lunes  se incluye también la del <a href="http://www.google.es/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CCEQFjAA&url=http%3A%2F%2Felpais.com%2Ftag%2Ffelip_puig%2Fa%2F&ei=lrh8VMyIIsbX7Qa7x4HABw&usg=AFQjCNEHWfoc_w4wvqADMySosrxedCgd0w&sig2=byyjftRhNRUkTnc7wmpg2g&bvm=bv.80642063,d.ZGU" target="_blank">consejero de Empresa y Empleo de la Generalitat, Felip Puig</a>, así como la del <a href="http://www.google.es/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CCEQFjAA&url=http%3A%2F%2Felpais.com%2Ftag%2Fmacia_alavedra%2Fa%2F&ei=qrh8VIa0NMnV7QaJ9IDIAw&usg=AFQjCNHdkbk1LTjmIBhikZHvjzLbOlf6ow&sig2=fXvpIXBjfExsuswkYz7Zzw&bvm=bv.80642063,d.ZGU" target="_blank">exconsejero de Economía de CiU Macià Alavedra</a>, la del exsecretario general de la Presidencia de la Generalitat <a href="http://www.google.es/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CCEQFjAA&url=http%3A%2F%2Felpais.com%2Ftag%2Flluis_prenafeta%2Fa%2F&ei=v7h8VMz2JMyv7AaonYCYBg&usg=AFQjCNG29ZUJ7kCnQ2w_iaCnA23mYMex9w&sig2=u4605XOwjCc1Z_aln_cY6w&bvm=bv.80642063,d.ZGU" target="_blank">Lluís Prenafeta</a> y la de los saqueadores confesos <a href="http://www.google.es/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CCEQFjAA&url=http%3A%2F%2Felpais.com%2Ftag%2Ffelix_millet%2Fa%2F&ei=0bh8VOKrI9LZ7Qarp4HAAw&usg=AFQjCNFNUlk6c8P3i0v5C2tg6CCMbK5l4g&sig2=SoOktdhKfshMzEDvGaf43g&bvm=bv.80642063,d.ZGU" target="_blank">del Palau de la Música Fèlix Millet</a> y <a href="http://www.google.es/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CCQQFjAA&url=http%3A%2F%2Felpais.com%2Ftag%2Fjordi_montull%2Fa%2F&ei=4Lh8VNyULK2N7AbT6IGQDA&usg=AFQjCNF97nQHtwVoQUoY1XDzGZMf_Ir7gQ&sig2=hEMLwj1wM-prL6qDEmMRzA&bvm=bv.80642063,d.ZGU" target="_blank">Jordi Montull</a>. También han sido llamados el exjuez prevaricador <a href="http://www.google.es/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CCEQFjAA&url=http%3A%2F%2Felpais.com%2Ftag%2Fluis_pascual_estevill%2Fa%2F&ei=_bh8VKj0AvHd7Qbp8oHABg&usg=AFQjCNHE3rrmBr6LkyA7UHEeM5W1upPtPQ&sig2=O7-fKO3q2k-VTd2MNqw_YA&bvm=bv.80642063,d.ZGU" target="_blank">Lluis Pasqual Estevill</a>, <a href="http://www.google.es/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CCEQFjAA&url=http%3A%2F%2Felpais.com%2Ftag%2Fjavier_de_la_rosa%2Fa%2F&ei=C7l8VPOcJ4uu7gbTtYGYAw&usg=AFQjCNHeTdulRA2nwgPuuRZJ48uIsWKT9Q&sig2=czWN6B0BgiU3g58QzV7QaQ&bvm=bv.80642063,d.ZGU" target="_blank">el financiero Javier de la Rosa</a> o <a href="http://www.google.es/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CCEQFjAA&url=http%3A%2F%2Felpais.com%2Ftag%2Ffidel_pallerols%2Fa%2F&ei=JLl8VLO0MMfT7Abv2IDYCA&usg=AFQjCNEuHuUxR6nB8-kLfRpmU1DhlhYbEA&sig2=pNvfyGLr-_ELSDH810PCpw&bvm=bv.80642063,d.ZGU" target="_blank">el empresario condenado Fidel Pallerols</a>.</p>
+<p>En la lista de citados aparece también Joan Piqué Vidal, el que fuera abogado de Jordi Pujol en el <em>caso Banca Catalana</em>, el extesorero de CDC Daniel Osàcar, el exalcalde de Santa Coloma de Gramenet Bartomeu Muñoz, o el empresario Josep Maria Penin. En todos estos casos, las comparecencias habían sido solicitadas por Esquerra, ICV, Ciutadans y la CUP.</p>
+<p>Como el PSC anunció hace días que las apoyaría, CiU replicó ayer con la petición de otras ocho comparecencias, entre ellas la <a href="http://www.google.es/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CCEQFjAA&url=http%3A%2F%2Felpais.com%2Ftag%2Fjosep_lluis_carod_rovira%2Fa%2F&ei=Vrl8VPGnLMms7AbZo4DQDg&usg=AFQjCNFUcVajjpbwe5e35DaqSg6ba2hB4g&sig2=BbMqNkWn07Ro0lnJOqxQhQ&bvm=bv.80642063,d.ZGU" target="_blank">del exvicepresidente de la Generalitat y exlíder de Esquerra, Josep Lluís Carod-Rovira</a>. Tanto socialistas como nacionalistas insistieron en que no existía ningún “pacto de silencio” entre ellos, después de que la semana pasada, se pusieran de acuerdo para vetar los nombres que finalmente se aprobaron este lunes.</p>]]></content:encoded>
+    <enclosure url="http://ep00.epimg.net/ccaa/imagenes/2014/12/01/catalunya/1417459639_195039_1417471053_miniatura_normal.jpg" length="5341" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/ccaa/imagenes/2014/12/01/catalunya/1417459639_195039_1417471053_noticia_normal.jpg" length="31715" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/ccaa/imagenes/2014/12/01/catalunya/1417459639_195039_1417471053_noticia_grande.jpg" length="85662" type="image/jpeg"  />
+    <comments><![CDATA[http://eskup.elpais.com/C1417460342-70d0b5625033d4739e5a02ceca876fb4]]></comments>
+  </item>
+  <item>
+    <title><![CDATA[Carlos Fabra ingresa en la prisión de Aranjuez por fraude fiscal]]></title>
+    <link><![CDATA[http://elpais.com/politica/2014/12/01/actualidad/1417421424_144619.html]]></link>
+    <guid isPermaLink="true"><![CDATA[http://elpais.com/politica/2014/12/01/actualidad/1417421424_144619.html]]></guid>
+    <dc:creator><![CDATA[María Fabra, Lorena Ortega]]></dc:creator>
+    <description><![CDATA[El expresidente de la Diputación de Castellón ha de cumplir una pena de cuatro años de cárcel]]></description>
+    <pubDate><![CDATA[Mon, 1 Dec 2014 16:54:19 +0100]]></pubDate>
+    <category><![CDATA[Caso Fabra]]></category>
+    <category><![CDATA[Corrupción política]]></category>
+    <category><![CDATA[PP]]></category>
+    <category><![CDATA[Casos judiciales]]></category>
+    <category><![CDATA[Corrupción]]></category>
+    <category><![CDATA[Prisiones]]></category>
+    <category><![CDATA[España]]></category>
+    <category><![CDATA[Centros penitenciarios]]></category>
+    <category><![CDATA[Partidos políticos]]></category>
+    <category><![CDATA[Delitos]]></category>
+    <category><![CDATA[Régimen penitenciario]]></category>
+    <category><![CDATA[Política]]></category>
+    <category><![CDATA[Justicia]]></category>
+    <content:encoded><![CDATA[<p>Once años después de que estallara el <a href="http://ccaa.elpais.com/tag/caso_fabra/a/"><em>caso Fabra</em></a>, el expresidente de la Diputación de Castellón y del PP provincial, Carlos Fabra, ingresó ayer en prisión. Lo hizo en el centro penitenciario de Aranjuez (Madrid), en cumplimiento de <a href="http://ccaa.elpais.com/ccaa/2013/11/25/valencia/1385380883_196537.html">la sentencia que le condenó</a>, en noviembre de 2013, a una pena de cuatro años de cárcel por otros tantos delitos fiscales. Fabra fue declarado culpable de haber defraudado cerca de 700.000 euros a Hacienda, en los ejercicios fiscales de 1999 a 2003.</p>
+<p>Fabra entró en la cárcel por no haber declarado 3,3 millones de euros cuyo origen no pudo justificar ni en sus cuentas ni en las de su entonces esposa, María Amparo Fernández, que también fue condenada por un delito fiscal que no la llevará a prisión.</p>
+<p>La condena le obligó, además, a abonar casi 1,4 millones de multa e indemnización que aún no ha pagado.</p>
+<p>El, en otro tiempo, todopoderoso Fabra apuró el plazo de cinco días otorgado por <a href="http://politica.elpais.com/politica/2014/09/18/actualidad/1411048269_568863.html">la Audiencia de Castellón</a>, el tribunal que le condenó, para que ingresara de forma voluntaria en prisión. Aprovechó el fin de semana para despedirse de amigos y familiares antes de viajar a Aranjuez, una cárcel cercana al domicilio de sus hijos.</p>
+<p>Al conocer el cumplimiento de la orden de entrada en la cárcel, el presidente del Gobierno valenciano, Alberto Fabra, quien apoyó al ahora preso hasta que él mismo decidió dejar la política, habló de “sentimientos contrapuestos”. “Le conocemos desde hace mucho tiempo y sabemos lo que ha trabajado y lo que ha hecho por Castellón. A nadie nos hubiera gustado verlo en esta situación, pero al final se demuestra que la justicia llega a todas las personas”, apuntó el presidente.</p>
+<p>Por la tarde, en apenas dos horas, alrededor de 200 personas se concentraron frente al edificio de la Diputación de Castellón para celebrar el ingreso en prisión de Carlos Fabra. La cita, con cava incluido, se convocó por las redes sociales pero tuvo escasa difusión. “Hemos visto hoy que la justicia ha comenzado a funcionar, a pesar del retraso. Es un día grande para la libertad y la democracia en Castellón”, dijo Paco, un miembro del colectivo de los <em>yayoflautas</em> que acudió a la cita con una imagen de Fabra dentro de una “jaula dorada”. La celebración prosiguió durante algo más de una hora con <em>mascletàs</em> y gritos de “nos ha tocado el Gordo”.</p>
+<p>La forma de operar del matrimonio Fabra-Fernández fue calificada en el juicio por un perito de Hacienda como “la primera que se incluye en los <a href="http://ccaa.elpais.com/ccaa/2013/10/23/valencia/1382523692_388099.html">manuales de estudio de afloración de dinero negro</a>”. El <em>caso Fabra</em> comenzó con la denuncia del empresario Vicente Vilar, que le acusó de cobrarle cantidades millonarias a cambio de favores políticos. Los tribunales consideraron no probados ni el tráfico de influencias ni el cohecho de los que también estaba acusado.</p>
+<p>En nueve meses, Fabra podrá comenzar a pedir permisos, pero debería cumplir en prisión, al menos, tres de los cuatro años a los que fue condenado (uno por cada fraude cometido).</p>]]></content:encoded>
+    <enclosure url="http://ep00.epimg.net/politica/imagenes/2014/12/01/actualidad/1417421424_144619_1417423737_miniatura_normal.jpg" length="6033" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/politica/imagenes/2014/12/01/actualidad/1417421424_144619_1417423737_noticia_normal.jpg" length="28528" type="image/jpeg"  />
+    <comments><![CDATA[http://eskup.elpais.com/C1417449049-1def5335c5b1c664d91eced2afbafa41]]></comments>
+  </item>
+  <item>
+    <title><![CDATA[Un accidente en la AP-1 deja 18 heridos, dos de ellos graves]]></title>
+    <link><![CDATA[http://elpais.com/politica/2014/12/01/actualidad/1417460830_764379.html]]></link>
+    <guid isPermaLink="true"><![CDATA[http://elpais.com/politica/2014/12/01/actualidad/1417460830_764379.html]]></guid>
+    <dc:creator><![CDATA[Eneko Ruiz Jiménez]]></dc:creator>
+    <description><![CDATA[La mayoría de los viajeros eran trabajadores de la empresa Fundiciones Gelma, recogidos por el vehículo de la fábrica]]></description>
+    <pubDate><![CDATA[Mon, 1 Dec 2014 20:14:47 +0100]]></pubDate>
+    <category><![CDATA[Álava]]></category>
+    <category><![CDATA[Accidentes]]></category>
+    <category><![CDATA[País Vasco]]></category>
+    <category><![CDATA[España]]></category>
+    <category><![CDATA[Sucesos]]></category>
+    <content:encoded><![CDATA[<p>La conductora oyó un ruido "extraño" y paró en la cuneta para comprobarlo. Cuando se disponía a poner los triángulos reflectantes, el microbús que conducía, con 17 pasajeros, fue abatido por un camión. Así describía la empresa de autocares alavesa Hijos de Erro el accidente de tráfico que ayer dejó 18 personas heridas, dos de ellas graves, en la autopista AP-1, a la altura del municipio alavés de Arrazua-Ubarrundia y en sentido Vitoria.</p>
+<p>El microbús había recogido a los trabajadores de la empresa Fundiciones Gelma, como cada día, en su planta en Mondragón (Gipuzkoa). El conductor del camión, que chocó por el trasero lateral, resultó ileso, pero todos los trabajadores pasaron a atendidos por los servicios médicos, en la mayoría de los casos por causas leves como golpes y roturas, informaba ayer el departamento de Seguridad del Gobierno vasco.</p>
+<p>Los heridos más graves fueron trasladados en ambulancias a Vitoria, dos al hospital de Txagorritxu y dos al de Santiago, mientras que otros dos fueron evacuados al centro hospitalario del Alto Deba, en Gipuzkoa. El diagnóstico de todos fue cambiando a leve, salvo el de dos pacientes con politraumatismos craneales y una fractura importante en la pierna, confirmaron los bomberos de Vitoria que ayudaron a rescatar a los atrapados. Los once heridos leves fueron valorados y atendidos en el ambulatorio de la localidad alavesa de Legutiano, próxima al lugar del accidente.</p>
+<p>La parte trasera del lateral izquierdo del microbús quedó totalmente destrozada después del siniestro que se produjo a eso de las 14.20 horas. Seguridad no ha querido facilitar más detalles antes de que se lleve a cabo la investigación.</p>
+<p>El tráfico de la AP-1 en este tramo, antes de la salida de la autopista hacia Legutiano, se cortó en sentido Vitoria en los primeros momentos tras el accidente, aunque al poco se abrió al tráfico un carril. Tras la retirada del microbús, los operarios siguieron en el lugar para evacuar el camión siniestrado.</p>]]></content:encoded>
+    <enclosure url="http://ep00.epimg.net/politica/imagenes/2014/12/01/actualidad/1417460830_764379_1417461080_miniatura_normal.jpg" length="9594" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/politica/imagenes/2014/12/01/actualidad/1417460830_764379_1417461080_noticia_normal.jpg" length="87746" type="image/jpeg"  />
+    <comments><![CDATA[http://eskup.elpais.com/C1417460830-0b8d7f35f6f344487a79b7bba3fba6ee]]></comments>
+  </item>
+  <item>
+    <title><![CDATA[El PSOE y Podemos se disputan la hegemonía de la izquierda]]></title>
+    <link><![CDATA[http://elpais.com/politica/2014/12/01/actualidad/1417465610_125717.html]]></link>
+    <guid isPermaLink="true"><![CDATA[http://elpais.com/politica/2014/12/01/actualidad/1417465610_125717.html]]></guid>
+    <dc:creator><![CDATA[Francesco Manetto]]></dc:creator>
+    <description><![CDATA[Pedro Sánchez exige a Pablo Iglesias que defina su ideología. El nuevo partido asegura dirigirse a la “mayoría social” y rechaza la etiqueta de extremista]]></description>
+    <pubDate><![CDATA[Mon, 1 Dec 2014 21:26:50 +0100]]></pubDate>
+    <category><![CDATA[Pablo Iglesias Turrión]]></category>
+    <category><![CDATA[Pedro Sánchez]]></category>
+    <category><![CDATA[Podemos]]></category>
+    <category><![CDATA[PSOE]]></category>
+    <category><![CDATA[Movimientos sociales]]></category>
+    <category><![CDATA[España]]></category>
+    <category><![CDATA[Partidos políticos]]></category>
+    <category><![CDATA[Política]]></category>
+    <category><![CDATA[Sociedad]]></category>
+    <content:encoded><![CDATA[<p>El <a href="http://politica.elpais.com/tag/psoe_partido_socialista_obrero_espanol/a/" target="_blank">PSOE</a> y <a href="http://politica.elpais.com/politica/2014/11/30/actualidad/1417373210_752548.html" target="_blank">Podemos</a> exhibieron ayer una disputa que lleva semanas soterrada. Los socialistas y el partido de Pablo Iglesias se lanzaron unas acusaciones que los identifican como rivales en la conquista de un espacio político parecido dentro de la izquierda. Ambas formaciones quieren llegar al votante medio que tradicionalmente ha apoyado al principal partido de la oposición y se sitúa en el terreno ideológico de la socialdemocracia. <a href="http://politica.elpais.com/politica/2014/12/01/actualidad/1417438916_931454.html" target="_blank">Y, mientras el PSOE trata de situar a Podemos a la izquierda de IU</a>, atribuyéndole la etiqueta de “extremista”, la nueva fuerza intenta desvincularse de la coalición de Cayo Lara para ocupar “la centralidad del tablero” de la que habla Iglesias.</p>
+<p>Ayer comenzó esa batalla. Primero, el secretario general de los socialistas, Pedro Sánchez, exigió a los portavoces de Podemos —al que calificó de “oportunista”— que se defina ideológicamente. Desmontó durante su intervención en el Foro Cinco Días <a href="http://politica.elpais.com/politica/2014/11/28/actualidad/1417166426_203839.html" target="_blank">el borrador económico elaborado por los economistas Juan Torres y Vicenç Navarro,</a> rechazó con rotundidad la propuesta de reducir a 35 horas la jornada laboral y llegó a acusar a Iglesias de copiar algunos elementos del programa del PSOE. Horas más tarde, la cúpula de Podemos, que reconoce haber emprendido un viraje hacia planteamientos de inspiración socialdemócrata, intentó dejar claro que su objetivo es “dirigirse a la mayoría social”. “El problema con nuestro programa es que tienen miedo a la gente”, opinó en una breve comparecencia Rafael Mayoral, secretario de Relaciones con la Sociedad Civil.</p>
+<p><a href="http://politica.elpais.com/politica/2014/12/01/actualidad/1417424709_043101.html" target="_blank">Sánchez defendió un plan de “izquierda transformadora, no conservadora”,</a> y aseguró que solo puede llevarlo a cabo su formación. “Ningún proyecto puede construirse sobre el cinismo, la confrontación y el miedo”, afirmó en su intervención inicial. Preguntado expresamente por Podemos, se mostró descreído sobre su estrategia. Recordó que nació como movimiento vinculado a la “izquierda anticapitalista”, después eludió “definirse ni de izquierdas ni de derechas” y ahora se sitúa en la estela de la tradición socialdemócrata de los países nórdicos, cada vez más presentes en las referencias de sus portavoces.</p>
+<p>“Me alegro”, dijo el líder del <a href="http://politica.elpais.com/tag/psoe_partido_socialista_obrero_espanol/a/" target="_blank">PSOE</a>, “de que Podemos reconozca que la socialdemocracia es la fórmula para salir de la crisis”. No obstante, consideró que “sería interesante saber cuál es su posición ideológica”. “A mí me parece que más allá del oportunismo ideológico, Podemos lo que tiene que hacer es ser más consistente para saber exactamente cuáles son sus propuestas”, agregó.</p>
+<p>Entre esas propuestas hay algunas que el PSOE rechaza sin matices. <a href="http://politica.elpais.com/politica/2014/11/28/actualidad/1417166426_203839.html" target="_blank">Por ejemplo, la reducción de la jornada laboral a 35 horas semanales.</a> En opinión de Sánchez, la aplicación de esa medida “supondría seguir devaluando salarialmente las condiciones laborales de los trabajadores o elevar los costes del trabajo”. También rechazó la jubilación a los 65 años, como defiende ahora Podemos, y se mostró partidario de mantenerla en los 67. A pesar de eso, Sánchez llegó a acusar a la formación de Iglesias de copiarle ideas, como la propuesta del derecho alimentario que, según dijo, defendió el PSOE hace unos meses, o la de la creación de un banco público —aunque en este caso el principal partido de la oposición plantea un banco de inversión mientras que Podemos opta por bancos de depósito—.</p>
+<p>La dirección socialista, muy preocupada por el ascenso del partido de Pablo Iglesias, dio la orden de dejar de llamar populistas a sus dirigentes para situarles en la extrema izquierda. Aun así, un argumentario interno pide cautela para no ofender a sus votantes y simpatizantes, puesto que, según sus datos, al menos un tercio de ellos votaron en algún momento al PSOE.</p>
+<p>En este contexto, la cúpula de Podemos aseguró ayer que su objetivo consiste en dirigirse “a la mayoría social”, rechazando así ser situada en la extrema izquierda como busca la estrategia que ha puesto en marcha el principal partido de la oposición. Rafael Mayoral, secretario de Relaciones con la Sociedad Civil, consideró que “tampoco tienen que ser tan extremistas” algunas propuestas de Podemos como la derogación del artículo 135 de la Constitución —<a href="http://politica.elpais.com/politica/2014/11/24/actualidad/1416849910_452980.html" target="_blank">reforma pactada en 2011 por PP y PSOE,</a> que establece el principio de estabilidad presupuestaria— cuando Sánchez anunció la semana pasada que tratará de “corregirlo”. El secretario general de los socialistas también se pronunció ayer sobre esta cuestión y recordó que su formación no propone en ningún caso la derogación de ese artículo, sino una reforma, porque “no refleja los ideales de sociedad que tiene la socialdemocracia española”.</p>
+<p>En cualquier caso, la dirección de Podemos está convencida de que este tipo de decisiones están relacionadas con su afianzamiento en el panorama político. “Estamos encantados de que la agenda política esté marcada por la mayoría social”, prosiguió Mayoral. El abogado y miembro del Consejo de Coordinación del partido eludió abundar en una reflexión sobre una posible convergencia con IU para las elecciones generales. “No nos planteamos a fecha de hoy hacer una sopa de siglas”, se limitó a reiterar.</p>
+<p><a href="http://ccaa.elpais.com/ccaa/2014/11/29/madrid/1417276226_167912.html" target="_blank">En referencia a la victoria de Tania Sánchez</a> en las primarias de la coalición de izquierdas en la Comunidad de Madrid, Mayoral recordó que Podemos se presentará con marca propia en todas las autonomías. La formación de Iglesias trata de desvincularse del legado, al menos simbólico, de IU. Pero es ese espacio ideológico, y no en el de la socialdemocracia, donde el PSOE intentará situarla en los próximos meses.</p>]]></content:encoded>
+    <enclosure url="http://ep00.epimg.net/politica/imagenes/2014/12/01/actualidad/1417465610_125717_1417465857_miniatura_normal.jpg" length="4836" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/politica/imagenes/2014/12/01/actualidad/1417465610_125717_1417465857_noticia_normal.jpg" length="29145" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/politica/imagenes/2014/12/01/actualidad/1417465610_125717_1417465857_noticia_grande.jpg" length="78653" type="image/jpeg"  />
+    <comments><![CDATA[http://eskup.elpais.com/C1417465609-35e3df2b23204219638be539bd7308f6]]></comments>
+  </item>
+  <item>
+    <title><![CDATA[El PSOE insta a sus candidatos a estar “en calle y en redes sociales”]]></title>
+    <link><![CDATA[http://elpais.com/politica/2014/12/01/actualidad/1417462153_318850.html]]></link>
+    <guid isPermaLink="true"><![CDATA[http://elpais.com/politica/2014/12/01/actualidad/1417462153_318850.html]]></guid>
+    <dc:creator><![CDATA[Anabel Díez]]></dc:creator>
+    <description><![CDATA[Esta es la instrucción del secretario de Organización y Acción Electoral, César Luena, para todas las federaciones]]></description>
+    <pubDate><![CDATA[Mon, 1 Dec 2014 23:54:37 +0100]]></pubDate>
+    <category><![CDATA[Candidaturas políticas]]></category>
+    <category><![CDATA[Elecciones municipales]]></category>
+    <category><![CDATA[PSOE]]></category>
+    <category><![CDATA[PP]]></category>
+    <category><![CDATA[Elecciones]]></category>
+    <category><![CDATA[Partidos políticos]]></category>
+    <category><![CDATA[España]]></category>
+    <category><![CDATA[Política]]></category>
+    <content:encoded><![CDATA[<p>La primera tarea de los <a href="http://elpais.com/tag/elecciones_autonomicas_2015/a/">candidatos socialistas a las elecciones municipales y autonómicas</a>, culminado <a href="http://elpais.com/tag/elecciones_primarias/a/">el proceso de elecciones primarias</a>, salvo en cinco ciudades, es hacerse muy presentes. “Sacar y abrir el PSOE a la calle está siendo la clave de esta nueva etapa. Las redes sociales, la calle, los movimientos ciudadanos, las asociaciones...”. Esta es <a href="http://elpais.com/tag/cesar_luena_lopez/a/">la instrucción del secretario de Organización y Acción Electoral, César Luena</a>, para todas las federaciones, según el documento de estrategia electoral que recibieron. Los socialistas consideran clave las elecciones de mayo como palanca para llegar a las generales en buen estado. Ahora y luego ofrecerán “cambio con seguridad”, con <a href="http://elpais.com/tag/pedro_sanchez_perez_castejon/a/">Pedro Sánchez</a> como cabeza visible del nuevo proyecto.</p>
+<p>“El trabajo de recuperación de la confianza de los ciudadanos pasará por las elecciones locales y autonómicas”, señala el documento, que tiene tintes muy realistas. “Pero sería ingenuo e ilusorio esperar un vuelco en los datos; es imposible recuperar en ocho meses todo el apoyo perdido”. Aun así, el texto da por seguro que “la sangría se ha detenido y la revitalización ha comenzado”. El objetivo es obtener un buen resultado en <a href="http://elpais.com/tag/elecciones_generales_2015/a/">las elecciones generales de 2015</a>, pero antes les resulta imprescindible obtener un buen resultado en las locales y regionales de mayo. “La recuperación del proyecto nacional vendrá acompañada de más Ayuntamientos y comunidades gobernadas por el PSOE; es de esperar que en mayo de 2015 se observen indicadores de esta mejoría”.</p>
+<p>Estos son los objetivos y los deseos, y ahora queda la estrategia para alcanzarlos. Como apunte, se dice a los candidatos que el PSOE “va a ser ejemplar y radical en la defensa de la democracia y la persecución de la corrupción: trabajando en la calle, del lado de las clases medias y trabajadoras”. Además, se añade, los socialistas ofrecerán al país “cambio, no demolición”, con fiabilidad y seguridad, en referencia a Podemos.</p>
+<p>La buena acogida que Pedro Sánchez tiene en las federaciones es aprovechada en el documento para señalar sin ambages que su liderazgo “es uno de los valores en estos momentos de la organización”. Su fortaleza radica en que es percibido como un cambio, pero “con seguridad”, dando por supuesto que los españoles “no apoyan los cambios radicales”. El PSOE se centrará en cuatro campos: la mejora de la vida de los españoles —incluido el empleo—, “reformas radicales” de regeneración democrática, mayor justicia social y “limitar el poder económico a las élites”.</p>
+<p>Los candidatos tienen como tarea desterrar la idea que propagarán sus adversarios por la izquierda de que PP y PSOE son lo mismo. Y por la derecha, se les advierte de que el PP apelará “al voto del miedo”, siguiendo la línea de estos años de Gobierno en los que ha culpado al PSOE de la situación que vive España, por lo que dirá a los ciudadanos que “no vuelvan atrás”. Ante esto, el PSOE sacará todo el listado de recortes sociales, además de blandir la reforma laboral como una de las causas de despidos masivos y baratos.</p>]]></content:encoded>
+    <comments><![CDATA[http://eskup.elpais.com/C1417462153-9351360d9484c89438602d385bc76609]]></comments>
+  </item>
+  <item>
+    <title><![CDATA[¿Modelo escandinavo?]]></title>
+    <link><![CDATA[http://elpais.com/economia/2014/12/01/actualidad/1417460658_837785.html]]></link>
+    <guid isPermaLink="true"><![CDATA[http://elpais.com/economia/2014/12/01/actualidad/1417460658_837785.html]]></guid>
+    <dc:creator><![CDATA[Santiago Carbó]]></dc:creator>
+    <description><![CDATA[El plan económico de Podemos sería negativo para España, y es contradictorio, falto de rigor y poco realista]]></description>
+    <pubDate><![CDATA[Tue, 2 Dec 2014 00:00:26 +0100]]></pubDate>
+    <category><![CDATA[Opinión]]></category>
+    <category><![CDATA[Estado bienestar]]></category>
+    <category><![CDATA[Podemos]]></category>
+    <category><![CDATA[Crisis económica]]></category>
+    <category><![CDATA[Recesión económica]]></category>
+    <category><![CDATA[Movimientos sociales]]></category>
+    <category><![CDATA[Coyuntura económica]]></category>
+    <category><![CDATA[Política económica]]></category>
+    <category><![CDATA[Partidos políticos]]></category>
+    <category><![CDATA[España]]></category>
+    <category><![CDATA[Economía]]></category>
+    <category><![CDATA[Sociedad]]></category>
+    <category><![CDATA[Política]]></category>
+    <content:encoded><![CDATA[<p>Podemos nació realizando una crítica feroz a la situación política y, vendiéndola de forma muy astuta, ganó muchos miles de adeptos. Capitalizó la indignación ciudadana y, sin tener aún un programa económico, se colocó ya en una posición destacada en intención de voto. Llegó finalmente el programa y, en mi opinión, no es otra cosa que una forma de ir de la indignación a una falta de realismo potencialmente peligrosa en muchas de sus líneas maestras. Seamos honestos, objetivamente este es el recetario de la que hasta hace poco era, a mucha distancia de las dos primeras, la tercera fuerza política de España, también de izquierdas. Con caras nuevas que intentan conseguir que un importante número de ciudadanos que nunca hubiera votado a este partido con otras siglas, lo haga ahora bajo las suyas.</p>
+<p>Sinceramente, escribir sobre el programa económico de Podemos es una obligación por el apoyo que este partido ha recibido y que merece un respeto. Pero también por las implicaciones negativas que tendría para la economía española. Considero ese plan económico contradictorio, falto de rigor y poco realista. Me surge la duda de si al escribir sobre él contribuyo, aunque sea marginal y modestamente, a aumentar esa especie de mercadotecnia de la indignación. Parece lógico reconocer que muchos españoles no tienen una referencia ilusionante y antes que elegir entre alternativas que no le satisfacen, prefieren probar algo nuevo. El problema es que no hay nada novedoso aquí. La corrupción y la desigualdad provocan estupefacción, pero esto no justifica tomar el camino más corto. A ciegas. Es verdad que los programas de los partidos políticos al uso pueden ser criticados también en su origen o en su grado de cumplimiento pero al menos es preciso ceñirse a las bandas de confianza del realismo.</p>
+<p>Sería injusto criticar el programa económico de Podemos por ser poco elaborado en muchas de las propuestas. El problema es que los enunciados ya, de por sí, presentan graves problemas. Es como plantear un modelo sueco pero sólo con los derechos, sin obligaciones. Sin conexión con el mundo exterior. Hace muchos años que se sabe que la banca pública no es útil ni eficiente y que el crédito tiene una gran parte de obligación y no se puede hablar solamente de un derecho. Y, como curva de aprendizaje para el futuro, no parece oportuno hacer quitas a la deuda privada en un país rico en el que ésta ha ido disminuyendo en los últimos años. Se está corrigiendo el apalancamiento con esfuerzo privado. Con un coste de oportunidad, claro, pero dentro de lo posible. Las consecuencias de una quita serían imprevisibles. Más aún si fuera, como también se propone, sobre la deuda pública. En este punto, querer deshacer la reforma del artículo 135 de la Constitución, como proponen otros ahora, es también muy peligroso.</p>
+<p>Me haría ilusión que un partido explicara con la crudeza suficiente que el Estado del Bienestar no es gratis y que muchos derechos son programáticos, algo a lo que aspirar y a lo que orientar políticas… pero siempre bajo los incentivos adecuados. Que se reconociera que si se devolviera todo el dinero de los rescates a la banca y lo hurtado por la corrupción se harían muchas cosas… pero los problemas de fondo seguirían ahí.</p>
+<p>El Estado del bienestar no está “subfinanciado”, como sugiere el programa de Podemos. Está subvalorado por los que piensan que es un derecho que surge de la nada. En los países escandinavos tienen muy claro lo que cuesta y no creen que se sostenga poniendo más impuestos a los ricos. Estos países saben que se puede jugar a un Robin Hood de ida… pero no de vuelta.</p>]]></content:encoded>
+    <comments><![CDATA[http://eskup.elpais.com/C1417460658-18aa3329de54b78010c9fd6447483b01]]></comments>
+  </item>
+  <item>
+    <title><![CDATA[Empleo usa otros 8.000 millones del Fondo de las pensiones]]></title>
+    <link><![CDATA[http://elpais.com/economia/2014/12/01/actualidad/1417460231_842887.html]]></link>
+    <guid isPermaLink="true"><![CDATA[http://elpais.com/economia/2014/12/01/actualidad/1417460231_842887.html]]></guid>
+    <dc:creator><![CDATA[Manuel V. Gómez]]></dc:creator>
+    <description><![CDATA[La Seguridad Social recurre a la 'hucha de las pensiones' para pagar la extra de Navidad]]></description>
+    <pubDate><![CDATA[Mon, 1 Dec 2014 19:58:55 +0100]]></pubDate>
+    <category><![CDATA[Crisis económica]]></category>
+    <category><![CDATA[Recesión económica]]></category>
+    <category><![CDATA[Coyuntura económica]]></category>
+    <category><![CDATA[Pensiones]]></category>
+    <category><![CDATA[España]]></category>
+    <category><![CDATA[Prestaciones]]></category>
+    <category><![CDATA[Economía]]></category>
+    <category><![CDATA[Seguridad Social]]></category>
+    <category><![CDATA[Política laboral]]></category>
+    <category><![CDATA[Trabajo]]></category>
+    <category><![CDATA[Administración pública]]></category>
+    <content:encoded><![CDATA[<p>La <a href="http://elpais.com/tag/seguridad_social/a/">Seguridad Social</a> ha sacado 8.000 millones de euros del Fondo de Reserva de las pensiones. Ante el déficit persistente del instituto público, el Ministerio de Empleo lleva recurriendo a la <em>hucha de las pensiones</em>desde 2012 para pagar las pensiones. En cambio, esta es la ocasión que más dinero saca de una sola tacada.</p>
+<p>En los últimos tres años, la Seguridad Social ha recurrido al Fondo de Reserva en repetidas ocasiones, que suelen coincidir con las pagas extraordinarias de julio y de diciembre. Sin embargo, hasta ahora no había tenido que usar 8.000 millones de golpe. Por ejemplo, en julio, <a href="http://economia.elpais.com/economia/2014/03/27/actualida">recurrió a la <em>hucha</em> en dos ocasiones</a>: una, el primer día del mes, cuando sacó 5.500, y otra, el vigesimoprimero, en que apenas tocó 500 millones.</p>
+<p>La cantidad utilizada en esta ocasión viene a coincidir casi milimétricamente con el monto total de la nómina mensual, que el mes pasado ascendió a 8.078 millones.</p>
+<p>Con esta última operación, el Fondo de Reserva ha quedado menguado hasta los 42.675,98 millones, cantidad equivalente a un 4,07%, según apunta la Seguridad Social en un comunicado.</p>
+<p>En él, explica el instituto público que diciembre suele ser un mes de fuertes necesidades financieras, puesto que tiene que hacer frente al pago de la mensualidad normal y a la paga extra de Navidad.</p>
+<p>La destrucción de empleo y, en consecuencia, la caída de ingresos de la Seguridad Social ha llevado al instituto público a tener déficit desde 2011. Los números rojos de ese año se pudieron cubrir con el remanente de la Tesorería, pero ya en 2012, el instuto público tuvo que echar mano de lo ahorrado durante la época de crecimiento. En principio, lo que se utilizó fue el dinero acumulado en el Fondo de Prevención, el dinero sobrante de las cotizaciones de accidentes y bajas laborales. Ya a finales de ese ejercicio, el Ministerio de Empleo recurrió al Fondo de Reserva. <a href="http://economia.elpais.com/economia/2014/03/27/actualidad/1395915241_056576.html">Y en 2013 tuvo que volver a hacerlo</a>, en concreto el año pasado usó 11.648 millones de euros.</p>
+<p>Lo más probable es que el recurso a la hucha de las pensiones continúe en los próximos años. En el presupuesto del año que viene, el Gobierno vuelve a contemplar mayores gastos que ingresos en el sistema de pensiones. Y no será el último. En un informe emitido la semana pasada sobre el índice de revalorización anual de las pensiones, la Autoridad Independiente de Responsabilidad Fiscal pronosticaba que el desequilibrio entre ingresos y gastos, en favor de estos últimos, se mantendría, al menos, hasta 2020.</p>]]></content:encoded>
+    <enclosure url="http://ep00.epimg.net/economia/imagenes/2014/12/01/actualidad/1417460231_842887_1417462066_miniatura_normal.jpg" length="7116" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/economia/imagenes/2014/12/01/actualidad/1417460231_842887_1417462066_noticia_normal.jpg" length="14629" type="image/jpeg"  />
+    <comments><![CDATA[http://eskup.elpais.com/C1417460231-35dfcf2b897862507bfd82e6e64ad312]]></comments>
+  </item>
+  <item>
+    <title><![CDATA[Putin anula el proyecto de un gasoducto clave para Europa]]></title>
+    <link><![CDATA[http://elpais.com/internacional/2014/12/01/actualidad/1417459894_673112.html]]></link>
+    <guid isPermaLink="true"><![CDATA[http://elpais.com/internacional/2014/12/01/actualidad/1417459894_673112.html]]></guid>
+    <dc:creator><![CDATA[Pilar Bonet]]></dc:creator>
+    <description><![CDATA[El mandatario ruso acusa a Bruselas de obstaculizar el trazado del South Stream y ofrece una alternativa a través de Turquía]]></description>
+    <pubDate><![CDATA[Mon, 1 Dec 2014 20:17:19 +0100]]></pubDate>
+    <category><![CDATA[Conflicto Crimea]]></category>
+    <category><![CDATA[Comisión Europea]]></category>
+    <category><![CDATA[Gas]]></category>
+    <category><![CDATA[Rusia]]></category>
+    <category><![CDATA[Ucrania]]></category>
+    <category><![CDATA[Europa este]]></category>
+    <category><![CDATA[Conflictos territoriales]]></category>
+    <category><![CDATA[Combustibles fósiles]]></category>
+    <category><![CDATA[UE]]></category>
+    <category><![CDATA[Combustibles]]></category>
+    <category><![CDATA[Europa]]></category>
+    <category><![CDATA[Organizaciones internacionales]]></category>
+    <category><![CDATA[Conflictos]]></category>
+    <category><![CDATA[Energía no renovable]]></category>
+    <category><![CDATA[Relaciones exteriores]]></category>
+    <category><![CDATA[Fuentes energía]]></category>
+    <category><![CDATA[Energía]]></category>
+    <content:encoded><![CDATA[<p>Rusia ha renunciado a la Corriente del Sur (South Stream), el gran proyecto de gasoducto que llegara directamente a Europa meridional a través del mar Negro. En los planes rusos, la Corriente del Sur debería haber complementado la Corriente del Norte (North Stream), que suministra gas a Alemania por el Báltico, y ambos estaban destinados a esquivar los riesgos de tránsito por Ucrania.</p>
+<p>En Ankara, donde se encontraba en visita oficial, el presidente Vladímir Putin anunció este lunes que Moscú renuncia a construir la Corriente del Sur debido a la "posición no constructiva" de la Comisión Europea, y que el combustible será redirigido hacia otras regiones y hacia proyectos de licuefacción. "Consideramos que la posición de la Comisión Europea no era constructiva", dijo el líder ruso, que acusó a Bruselas de "poner impedimentos" al proyecto. "Si Europa no quiere realizarlo, quiere decir que no se realizará", afirmó Putin, poniendo así punto y final a uno de los puntales de la estrategia rusa para asegurar el suministro energético hacia Europa.</p>
+<p>En una rueda de prensa conjunta con su colega Recep Tayyip Erdogan, Putin manifestó que Rusia no podía comenzar a construir el tramo marítimo del gasoducto porque Bulgaria no ha dado permiso. "Resulta absurdo comenzar a construir para llegar a la costa búlgara y pararse [allí]", subrayó. La Corriente del Sur debería haber llegado al puerto búlgaro de Varna y de allí continuar hacia los Balcanes y bifurcarse en dos ramas, una en dirección a Italia y otra hacia Austria. La capacidad de transporte prevista era de 63.000 millones de metros cúbicos anuales y su coste se calculaba en 16.000 millones de euros.</p>
+<p>En abril, sobre el telón de fondo de la intervención rusa en Ucrania y la política de diversificación energética de Bruselas, el Parlamento Europeo instó a renunciar al proyecto. Rusia responde a esta política con sus propios planes de diversificación energética, hacia China y hacia Turquía.</p>
+<p>A juzgar por las declaraciones de Putin y de Alexéi Miller, el director ejecutivo de Gazprom (el monopolio ruso de exportación de gas), Moscú ha encontrado un sustituto para la Corriente del Sur y ha llegado a un acuerdo con Turquía para construir un gasoducto submarino con la misma capacidad de transporte que la Corriente del Sur. Turquía se reservará cerca de 14.000 millones de metros cúbicos y el resto irá a la frontera turca con Grecia. Miller manifestó que el proyecto de la Corriente del Sur había quedado "cerrado" y que se había firmado un memorando de entendimiento con la empresa turca Botas para construir un gasoducto. Señaló también que Rusia rebajará el precio del gas a Turquía a medida que se profundice en la cooperación y que a la larga Ankara puede tener el nivel de precios del que disfruta actualmente Alemania.</p>
+<p>Putin, a su vez, aconsejó a Bulgaria que exigiera a la Unión Europea una compensación. "Si Bulgaria ha sido privada de la posibilidad de comportarse como un Estado soberano, que por lo menos pida a la Unión Europea dinero por el lucro cesante, porque los beneficios directos del tránsito para el presupuesto de Bulgaria hubieran sido un mínimo de 400 millones de euros al año", señaló.</p>
+<p>El líder del Kremlin dijo también que Rusia aumentará sus suministros de gas a Turquía en 3.000 millones de metros cúbicos y le hará una rebaja del 6% en el precio. Por su parte, el ministro de Desarrollo Económico de Rusia, Alexéi Uliukaev, opinó que la construcción del gasoducto ayudará a rebajar los riesgos derivados del tránsito de gas por Europa a través de Ucrania.</p>]]></content:encoded>
+    <enclosure url="http://ep00.epimg.net/internacional/imagenes/2014/12/01/actualidad/1417459894_673112_1417460014_miniatura_normal.jpg" length="5817" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/internacional/imagenes/2014/12/01/actualidad/1417459894_673112_1417460014_noticia_normal.jpg" length="27431" type="image/jpeg"  />
+    <comments><![CDATA[http://eskup.elpais.com/C1417459894-3eb8552d95b491141b8afd03149df82d]]></comments>
+  </item>
+  <item>
+    <title><![CDATA[Hacia un ambicioso acuerdo global]]></title>
+    <link><![CDATA[http://elpais.com/politica/2014/12/01/actualidad/1417466496_099890.html]]></link>
+    <guid isPermaLink="true"><![CDATA[http://elpais.com/politica/2014/12/01/actualidad/1417466496_099890.html]]></guid>
+    <dc:creator><![CDATA[Miguel Arias Cañete, El País]]></dc:creator>
+    <description><![CDATA[Es preciso actuar con urgencia para promover un menor uso del carbón en la economía mundial]]></description>
+    <pubDate><![CDATA[Mon, 1 Dec 2014 21:41:36 +0100]]></pubDate>
+    <category><![CDATA[Carbón]]></category>
+    <category><![CDATA[España]]></category>
+    <category><![CDATA[Combustibles fósiles]]></category>
+    <category><![CDATA[Cambio climático]]></category>
+    <category><![CDATA[Europa]]></category>
+    <category><![CDATA[Combustibles]]></category>
+    <category><![CDATA[Problemas ambientales]]></category>
+    <category><![CDATA[Política]]></category>
+    <category><![CDATA[Energía no renovable]]></category>
+    <category><![CDATA[Fuentes energía]]></category>
+    <category><![CDATA[Medio ambiente]]></category>
+    <category><![CDATA[Energía]]></category>
+    <content:encoded><![CDATA[<p>En ningún momento del pasado ha estado más próximo de lo que parece estarlo hoy un acuerdo planetario contra el cambio climático. El pasado mes de octubre, los líderes de la UE acordaron para 2030 una serie de ambiciosos objetivos climáticos y energéticos, incluido el de reducir obligatoriamente en al menos un 40% las emisiones de gases de efecto invernadero de origen doméstico.</p>
+<p>Nuestro anuncio dio un nuevo impulso a las negociaciones climáticas mundiales y, muy recientemente, Estados Unidos y China han hecho públicos también sus objetivos de futuro. Aunque estas noticias son ciertamente alentadoras, este mes será también de capital importancia si queremos garantizar a nivel mundial una respuesta vinculante y efectiva frente al cambio climático.</p>
+<p>El 1 de diciembre ha comenzado en Lima una conferencia de gran trascendencia que reunirá durante dos semanas a representantes de cada uno de los países de la comunidad internacional. En dicha conferencia se tratarán de establecer las bases de la estrategia global contra el cambio climático que los líderes mundiales se han comprometido a acordar en París el próximo año por estas mismas fechas.</p>
+<p>No hay ninguna duda de que es preciso actuar con urgencia para promover la descarbonización de la economía mundial y avanzar de forma duradera en la lucha contra un desafío planetario sin precedentes. Desde el deshielo de los grandes glaciares de Sudamérica hasta el retroceso del hielo marino del Ártico, los efectos del cambio climático se están sintiendo ya en los cinco continentes.</p>
+<p>La influencia del hombre sobre el clima es evidente. En su quinto informe de evaluación, el Grupo Intergubernamental de Expertos sobre el Cambio Climático (IPCC) muestra que las concentraciones de dióxido de carbono en la atmósfera han alcanzado niveles hasta ahora desconocidos. Y, cuanto más tiempo sigamos perturbando el clima, mayores serán los riesgos a los que tendremos que hacer frente y mayores los costes necesarios para adaptarnos a los cambios.</p>
+<p>En todo caso, lo que resulta claro del informe del IPCC es que es posible alcanzar nuestro objetivo, internacionalmente acordado, de mantener el calentamiento global por debajo de 2 grados centígrados. Y debemos garantizar que esto se refleje en ambiciosas contribuciones al acuerdo mundial contra el cambio climático.</p>
+<p>El nuevo acuerdo debe reflejar la evolución de las responsabilidades nacionales en la economía mundial, así como las realidades geopolíticas del momento actual y la capacidad de contribución de los distintos países. De capital importancia aquí es lograr que todas las naciones se comprometan a participar en aquello que les corresponda.</p>
+<p>De ahí que la cumbre de Lima sea esencial. En ella se podrá presionar a otros países, especialmente a los demás miembros del G-20, para que presenten en breve sus propios objetivos. Cuanto antes lo hagan, más tiempo tendremos todos para valorar si los compromisos contraídos contribuyen efectivamente a lo que, según los científicos, sería necesario para mantener el calentamiento global por debajo de 2 grados centígrados.</p>
+<p>En la cumbre, los países estudiarán también la metodología que deba aplicarse para evaluar las diferentes contribuciones y asegurarse de que sean justas y se sumen al esfuerzo global que precisamos. En ella, además, se analizará el importante tema de la financiación destinada a los países más vulnerables para la lucha contra el cambio climático.</p>
+<p>El Secretario General de las Naciones Unidas, Ban Ki-moon, ha instado a los líderes mundiales a emprender la acción necesaria para que "el cambio climático, que es el mayor desafío colectivo al que se enfrenta hoy la humanidad, pase a convertirse en la mayor oportunidad de avance común hacia un futuro sostenible". Para poder alcanzar ese objetivo, debemos tener el coraje político que nos permita actuar colectivamente y desde ahora con tanta decisión como ambición.</p>
+<p class="nota_pie"><strong>Federica Mogherini</strong> es alta representante para la Política Exterior de la UE. <strong>Miguel Arias Cañete</strong> es comisario europeo de Acción Climática y Energía.</p>]]></content:encoded>
+    <comments><![CDATA[http://eskup.elpais.com/C1417466496-768a60d7366273fa99f773bb9ea54833]]></comments>
+  </item>
+  <item>
+    <title><![CDATA[La ONU busca un nuevo protocolo de Kioto contra el calentamiento]]></title>
+    <link><![CDATA[http://elpais.com/politica/2014/12/01/actualidad/1417438089_803916.html]]></link>
+    <guid isPermaLink="true"><![CDATA[http://elpais.com/politica/2014/12/01/actualidad/1417438089_803916.html]]></guid>
+    <dc:creator><![CDATA[Jacqueline Fowks, Manuel Planelles]]></dc:creator>
+    <description><![CDATA[La cumbre de Lima debate cómo limitar la subida de la temperatura del planeta. La UE espera un acuerdo "vinculante"]]></description>
+    <pubDate><![CDATA[Mon, 1 Dec 2014 20:29:17 +0100]]></pubDate>
+    <category><![CDATA[Emisión gases]]></category>
+    <category><![CDATA[Cumbres internacionales]]></category>
+    <category><![CDATA[Contaminación atmosférica]]></category>
+    <category><![CDATA[Relaciones internacionales]]></category>
+    <category><![CDATA[ONU]]></category>
+    <category><![CDATA[Cambio climático]]></category>
+    <category><![CDATA[España]]></category>
+    <category><![CDATA[Contaminación]]></category>
+    <category><![CDATA[Organizaciones internacionales]]></category>
+    <category><![CDATA[Problemas ambientales]]></category>
+    <category><![CDATA[Europa]]></category>
+    <category><![CDATA[Relaciones exteriores]]></category>
+    <category><![CDATA[Medio ambiente]]></category>
+    <content:encoded><![CDATA[<p>En poco más de un mes, las tres potencias que más CO2 lanzan a la atmósfera (China, EE UU y la Unión Europea) han puesto sobre la mesa compromisos —más o menos concretos y más o menos ambiciosos— <a href="http://elpais.com/elpais/2014/11/12/ciencia/1415809849_052747.html" target="_blank">para intentar reducir sus emisiones</a>. Hace un mes, el informe del Grupo Intergubernamental de Expertos sobre el Cambio Climático (IPCC) despejaba las dudas científicas <a href="http://elpais.com/elpais/2014/11/02/ciencia/1414927955_896799.html" target="_blank">sobre el origen humano del calentamiento global</a>. Este es el prólogo de <a href="http://www.cop20.pe/" target="_blank">la cumbre sobre el clima de la ONU</a> —la vigésima reunión de este tipo que se celebra desde 1994— que se ha abierto este lunes en Lima (Perú). De esta cita, en la que participarán durante dos semanas más de 10.000 expertos y responsables políticos de 196 países, debe salir el borrador del documento de compromisos que sustituirá al malogrado <a href="http://elpais.com/tag/protocolo_kioto/a/" target="_blank">protocolo de Kioto</a>.</p>
+<p>El objetivo global que se plantea de partida es que el calentamiento no rebase los dos grados centígrados. El último informe del IPCC alertaba de que la temperatura a finales de siglo podría incrementarse entre 3,7 y 4,8 grados si no se frena la emisión de gases contaminantes.</p>
+<p>Rajendra Pachauri, responsable del IPCC, ha advirtido este lunes de que "se está cerrando la ventana de oportunidad" para que los Estados adopten los compromisos que permitan estabilizar las concentraciones atmosféricas de gases, mitigar los daños y conseguir que la temperatura global no supere esos dos grados. Y, si no se cambia el modelo, los riesgos son "la escasez de alimentos y de agua, el desplazamiento de la población y posibles conflictos". "2014 amenaza con ser el año más caliente de la historia humana", ha añadido en la inauguración de la cumbre Christiana Figueres, secretaria ejecutiva de Naciones Unidas para el Cambio Climático.</p>
+<p>El acuerdo que se cierre estos días en Perú no será el definitivo. Dentro de un año la ONU celebrará en París la reunión decisiva en la que se debe aprobar el documento que sustituirá al protocolo de Kioto, que caduca en 2020 tras ser prorrogado. Casi todos los actores implicados coinciden que los nuevos compromisos de lucha contra el cambio climático no pueden ser una reedición de Kioto.</p>
+<p>Este protocolo, que data de 1997, se ha ido diluyendo con el paso del tiempo. No lo han hecho suyo ni Estados Unidos ni China ni Rusia. Finalmente, <a href="http://sociedad.elpais.com/sociedad/2012/12/08/actualidad/1354983912_139921.html" target="_blank">solo los países integrantes de la Unión Europea, Australia, Noruega y Croacia</a> han permanecido dentro de Kioto.</p>
+<p>Por eso este lunes los representantes de la Unión Europea han insistido en que el nuevo acuerdo que surja debe ser "jurídicamente vinculante". También la ministra española de Medio Ambiente, <a href="http://elpais.com/tag/isabel_garcia_tejerina/a/" target="_blank">Isabel García Tejerina</a>, ha incidido en este punto. En su opinión, lo que salga dentro de dos semanas de la cumbre de Lima tiene que ser "un escrito jurídicamente vinculante a nivel global". España, según la ministra, tiene ahora el reto de "consolidarse en 2020 como una economía sostenible e integradora".</p>]]></content:encoded>
+    <enclosure url="http://ep00.epimg.net/politica/imagenes/2014/12/01/actualidad/1417438089_803916_1417438767_miniatura_normal.jpg" length="5829" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/politica/imagenes/2014/12/01/actualidad/1417438089_803916_1417438766_noticia_normal.jpg" length="28512" type="image/jpeg"  />
+    <comments><![CDATA[http://eskup.elpais.com/C1417438089-9cc13309b08f0fe4d0980e1150cbfd21]]></comments>
+  </item>
+  <item>
+    <title><![CDATA[El Rey visitará Cataluña el viernes]]></title>
+    <link><![CDATA[http://elpais.com/politica/2014/12/01/actualidad/1417450506_403385.html]]></link>
+    <guid isPermaLink="true"><![CDATA[http://elpais.com/politica/2014/12/01/actualidad/1417450506_403385.html]]></guid>
+    <dc:creator><![CDATA[Luis Doncel]]></dc:creator>
+    <description><![CDATA[Felipe VI irá a la planta de Seat de Martorell, donde se conmemorarán los 30 años del lanzamiento del Seat Ibiza]]></description>
+    <pubDate><![CDATA[Mon, 1 Dec 2014 20:17:27 +0100]]></pubDate>
+    <category><![CDATA[Joachim Gauck]]></category>
+    <category><![CDATA[Reina Letizia]]></category>
+    <category><![CDATA[Visitas oficiales]]></category>
+    <category><![CDATA[Contactos oficiales]]></category>
+    <category><![CDATA[Alemania]]></category>
+    <category><![CDATA[Felipe VI]]></category>
+    <category><![CDATA[Europa central]]></category>
+    <category><![CDATA[Familia Real]]></category>
+    <category><![CDATA[Jefe de Estado]]></category>
+    <category><![CDATA[Casa Real]]></category>
+    <category><![CDATA[Europa]]></category>
+    <category><![CDATA[Política]]></category>
+    <category><![CDATA[Relaciones exteriores]]></category>
+    <content:encoded><![CDATA[<p>En su primera visita a Alemania como <a href="http://elpais.com/tag/felipe_vi/a/">Rey de España</a>, don Felipe ha alertado de la necesidad imperiosa de retornar a una senda de crecimiento sostenible. “No se trata solo de un desafío económico. Es también un aspecto que afecta al funcionamiento de las instituciones, a su credibilidad y a la percepción de nuestros pueblos respecto a su eficacia”, dijo Felipe VI en la recepción oficial que ofreció el lunes el presidente alemán, Joachim Gauck. Fuentes de la Casa Real informaron durante el viaje a Berlín que el Rey viajará a Cataluña el próximo viernes para visitar la planta de Seat de Martorell, donde se conmemorarán los 30 años del lanzamiento del Seat Ibiza. Este será el segundo acto de Felipe VI en Cataluña <a href="http://elpais.com/especiales/2014/felipe-vi/">desde su proclamación</a>, en el que está previsto que coincida con el presidente de la Generalitat, Artur Mas.</p>
+<p>Después de verse con Gauck, don Felipe y doña Letizia pasearon por un gélido Berlín bajo la Puerta de Brandeburgo junto al alcalde de la ciudad, el socialdemócrata Klaus Wowereit. Tras la recepción de la canciller Angela Merkel, más tarde solo tuvieron que recorrer unos metros para visitar el Bundestag, la Cámara Baja del Parlamento alemán.</p>
+<p>Durante la recepción en el Palacio de Bellevue, sede de la presidencia de la República Federal de Alemania, los jefes de Estado de los dos países pronunciaron sus discursos. Gauck –un pastor protestante procedente de la antigua RDA <a href="http://internacional.elpais.com/internacional/2014/11/12/actualidad/1415819888_543434.html">que se caracteriza por un estilo directo que en ocasiones le ha valido críticas</a>- alabó las reformas estructurales emprendidas por España en los últimos años y afirmó que los datos económicos reflejan que el país va “por el buen camino”.</p>
+<p>El Rey Felipe VI centró su breve discurso en la necesidad de retomar la senda del crecimiento y en la disposición de España para asumir sus responsabilidades internacionales, una vez que el próximo 1 de enero tome posesión de su puesto en el Consejo de Seguridad de la ONU. “Cuenten con nosotros con total lealtad”, lanzó don Felipe a Gauck. La nota de color la pusieron las decenas de escolares alemanes estudiantes de español que agitaban banderitas de los dos países, y a los que los dos jefes de Estado y sus esposas se acercaron a saludar.</p>
+<p>Tanto Gauck como Felipe VI destacaron las buenas relaciones hispano-alemanas y ambos recordaron el apoyo que el Gobierno español brindó al alemán en el proceso para unificar el país tras la caída del Muro de Berlín, de la que el mes pasado se celebró el 25 aniversario. Como recuerda en sus memorias el excanciller Helmut Kohl, el entonces jefe del Gobierno español, Felipe González, fue de los pocos que desde el principio mostró su respaldo sin fisuras a la reunificación alemana.</p>
+<p>Tras la recepción de la tarde del lunes en la embajada española con una representación de la sociedad alemana, el Rey continuará el martes su estancia en el país. Visitará el Centro de Investigación y Desarrollo que el fabricante español de componentes de automoción Gestamp tiene en Bielefeld, en el Oeste de Alemania. Desde ahí, Felipe VI se trasladará a la cercana ciudad de Gütersloh para visitar la sede central del grupo de comunicación Bertelsmann, que cuenta con una plantilla de más de 100.000 empleados en todo el mundo.</p>]]></content:encoded>
+    <enclosure url="http://ep00.epimg.net/politica/imagenes/2014/12/01/actualidad/1417450506_403385_1417454209_miniatura_normal.jpg" length="6927" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/politica/imagenes/2014/12/01/actualidad/1417450506_403385_1417455909_portadilla_normal.jpg" length="14450" type="image/jpeg"  />
+    <comments><![CDATA[http://eskup.elpais.com/C1417450506-b612e91202b78b67ba239d8a9663b51c]]></comments>
+    <enclosure url="http://ep00.epimg.net/politica/videos/2014/12/01/actualidad/1417450506_403385_1417454881.mp4" length="7312928" type="video/m4v"  />
+  </item>
+  <item>
+    <title><![CDATA[El Gobierno de unidad palestino no logra convocar elecciones]]></title>
+    <link><![CDATA[http://elpais.com/internacional/2014/12/01/actualidad/1417465042_024534.html]]></link>
+    <guid isPermaLink="true"><![CDATA[http://elpais.com/internacional/2014/12/01/actualidad/1417465042_024534.html]]></guid>
+    <dc:creator><![CDATA[Patricia R. Blanco]]></dc:creator>
+    <description><![CDATA[El desacuerdo entre las dos facciones, enfrentadas desde 2006, frena los esfuerzos para la reconstrucción de la Franja de Gaza]]></description>
+    <pubDate><![CDATA[Mon, 1 Dec 2014 21:47:04 +0100]]></pubDate>
+    <category><![CDATA[Autoridad Palestina]]></category>
+    <category><![CDATA[Al Fatah]]></category>
+    <category><![CDATA[Hamás]]></category>
+    <category><![CDATA[Territorios palestinos]]></category>
+    <category><![CDATA[Geopolítica]]></category>
+    <category><![CDATA[Palestina]]></category>
+    <category><![CDATA[Oriente próximo]]></category>
+    <category><![CDATA[Partidos políticos]]></category>
+    <category><![CDATA[Asia]]></category>
+    <category><![CDATA[Política]]></category>
+    <content:encoded><![CDATA[<p>El plazo de seis meses que los dos grandes movimientos palestinos, Fatah y Hamás, se fijaron para la convocatoria de elecciones presidenciales y legislativas, tras la creación el pasado 2 de junio de un Gobierno de unidad nacional, concluye hoy sin la perspectiva de celebrar comicios en un horizonte cercano. Aunque fuentes de Fatah afirman que nunca se acordó que el nuevo Ejecutivo palestino durara solo seis meses, Hamás disiente. “El mandato expira el 2 de diciembre”, afirmó la semana pasada un dirigente de Hamás.</p>
+<p>Según Fatah, el acuerdo que supuso la reconciliación entre las dos facciones palestinas, que llevaban siete años enfrentadas tras una breve guerra civil en 2007, se creó con “una serie de objetivos”, entre ellos, la “celebración de elecciones en un plazo de seis meses”. Pero no se llegó a pactar que el nuevo Ejecutivo palestino se disolviera si no cumplía sus propósitos en medio año. “Si Hamás se ha retractado del acuerdo, eso ya es algo diferente”, afirmó este lunes Faisal Abu Shalal, miembro de Fatah, a la agencia palestina Maan.</p>
+<p>Las últimas elecciones presidenciales en los Territorios Palestinos se celebraron en 2005, con Mahmud Abbas como vencedor, mientras que los últimos comicios legislativos, en los que Hamás fue el partido más votado, tuvieron lugar en 2006. En ambos casos el mandato de cuatro años expiró hace mucho tiempo.</p>
+<p>Sin embargo, la convocatoria de comicios no es el único fin del Gobierno de unidad. Según acordaron Fatah y Hamás el pasado septiembre, la Autoridad Palestina, que gobierna en Cisjordania, debería asumir “de forma inmediata” también el Gobierno en Gaza y unificar en un solo Ejecutivo una Administración doble que opera de forma paralela por un lado en Cisjordania y por otro en la Franja. Pero Hamás, considerada una organización terrorista por EE UU y la Unión Europea, no ha cedido el mando.</p>
+<p>“No existe ningún progreso en la marcha de las negociaciones”, explica Gassan Al Jatib, exministro palestino y profesor de la Universidad de Birzeit (Cisjordania). Según él, “ninguno de los elementos que formaban parte del acuerdo se ha cumplido, porque ni se ha unificado el Gobierno de Cisjordania y Gaza ni se han convocado elecciones”.</p>
+<p>Como parte de ese acuerdo, Fatah debería haber tomado el control del paso fronterizo de Rafah en Gaza, asfixiada por el bloqueo israelí y egipcio, y uno de los puntos del alto el fuego indefinido que puso fin a la última operación del Ejército israelí contra Hamás en la Franja. Tampoco las dos facciones palestinas han alcanzado un consenso para crear un único cuerpo de seguridad, bajo el mando de la Autoridad Palestina, que integre a las fuerzas de Hamás. “Sólo habrá un cambio real cuando Hamás ceda su poder en Gaza”, apunta el periodista y profesor palestino Daoud Kuttab.</p>
+<p>Desde un punto de vista práctico, que afecta de forma directa a la vida de los ciudadanos de Gaza, devastada tras la Operación Margen Protector del pasado verano, Fatah debía gestionar la reconstrucción de la Franja y pagar los salarios que unos 40.000 funcionarios no cobran desde hace meses. Pero según el exministro Al Jatib la reconstrucción no tiene “grandes expectativas” de prosperar. “En la conferencia internacional de donantes celebrada tras la última guerra en Gaza, se acordó que la Autoridad Palestina gestionaría los fondos para la reconstrucción, pero como no gobierna en Gaza esos fondos tampoco llegan”, lamenta Al Jatib. Según el exministro palestino, “durante la guerra de Gaza hubo cooperación entre Fatah y Hamás pero, una vez terminada, las dos facciones se han dedicado únicamente a intercambiar acusaciones poniendo en riesgo las negociaciones para una reconciliación verdadera y definitiva”.</p>
+<p>Las recriminaciones entre los dos bandos son constantes. El presidente de la Autoridad Palestina, Mahmud Abbas, ha acusado a Hamás de permitir ataques con explosivos contra casas y vehículos de dirigentes de Fatah en Gaza. Los islamistas recriminan a Fatah pasividad ante la ocupación israelí y le piden que “abra una investigación” antes de señalar a miembros de su organización. Pero a pesar de las acusaciones, ninguno se atreve a romper los puentes de diálogo.</p>
+<p> </p>]]></content:encoded>
+    <enclosure url="http://ep00.epimg.net/internacional/imagenes/2014/12/01/actualidad/1417465042_024534_1417465739_miniatura_normal.jpg" length="5600" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/internacional/imagenes/2014/12/01/actualidad/1417465042_024534_1417465739_noticia_normal.jpg" length="33535" type="image/jpeg"  />
+    <comments><![CDATA[http://eskup.elpais.com/C1417465042-66c8b3a87ec220f77e08ca3fb7ff0a08]]></comments>
+  </item>
+  <item>
+    <title><![CDATA[“No sé si Dilma es consciente del embudo en el que estamos”]]></title>
+    <link><![CDATA[http://elpais.com/internacional/2014/12/01/actualidad/1417448171_797578.html]]></link>
+    <guid isPermaLink="true"><![CDATA[http://elpais.com/internacional/2014/12/01/actualidad/1417448171_797578.html]]></guid>
+    <dc:creator><![CDATA[Antonio Jiménez Barca, Carla Jiménez]]></dc:creator>
+    <description><![CDATA[El sociólogo, diplomático y exministro de Hacienda señala la fragmentación política como causa de los problemas que vive el país]]></description>
+    <pubDate><![CDATA[Mon, 1 Dec 2014 18:36:58 +0100]]></pubDate>
+    <category><![CDATA[Fernando Henrique Cardoso]]></category>
+    <category><![CDATA[Dilma Rousseff]]></category>
+    <category><![CDATA[Presidente Brasil]]></category>
+    <category><![CDATA[Caso Petrobras]]></category>
+    <category><![CDATA[Petrobras]]></category>
+    <category><![CDATA[Sobornos]]></category>
+    <category><![CDATA[Financiación ilegal]]></category>
+    <category><![CDATA[Corrupción política]]></category>
+    <category><![CDATA[Blanqueo dinero]]></category>
+    <category><![CDATA[Brasil]]></category>
+    <category><![CDATA[Presidencia Brasil]]></category>
+    <category><![CDATA[Policía]]></category>
+    <category><![CDATA[Corrupción]]></category>
+    <category><![CDATA[Sudamérica]]></category>
+    <category><![CDATA[Latinoamérica]]></category>
+    <category><![CDATA[Gobierno Brasil]]></category>
+    <category><![CDATA[Empresas]]></category>
+    <category><![CDATA[Partidos políticos]]></category>
+    <category><![CDATA[Fuerzas seguridad]]></category>
+    <category><![CDATA[América]]></category>
+    <category><![CDATA[Gobierno]]></category>
+    <category><![CDATA[Economía]]></category>
+    <category><![CDATA[Administración Estado]]></category>
+    <category><![CDATA[Política]]></category>
+    <content:encoded><![CDATA[<p>El <a href="http://elpais.com/tag/fernando_henrique_cardoso/a/">expresidente brasileño Fernando Henrique Cardos</a>o (Río de Janeiro, 1931) asiste como expectante espectador privilegiado al, según él, embudo histórico en el que se encuentra actualmente Brasil, a un mes de que <a href="http://internacional.elpais.com/internacional/2014/10/26/actualidad/1414347329_713433.html">Dilma Rousseff, del Partido de las Trabajadores (PT), comience su segundo mandato</a>, sacudido por las crecientes acusaciones de corrupción que minan <a href="http://elpais.com/tag/petrobras/a/">Petrobras</a>, paralizado desde el punto de vista económico y con un nuevo ministro de Economía que prevé ajustes y ahorro para el año que viene. Fue uno de los fundadores del Partido de la Socialdemocracia Brasileña (PSDB), <span>comandado por</span> <a href="http://elpais.com/tag/aecio_neves/a/">el senador Aécio Neves</a>, perdedor por poco en las últimas elecciones. Para el sociólogo, diplomático y exministro de Hacienda, el origen último de todos estos problemas se encuentra en la fragmentación política que vive el país, con un congreso triturado en más de veinte partidos. Elegante, distinguido, amable y atento, recibe a EL PAÍS en el instituto de estudios sociales que lleva su nombre, una tarde de explosiva tormenta primaveral en São Paulo.</p>
+<p><strong>Pregunta.</strong> El nombramiento del <a href="http://internacional.elpais.com/internacional/2014/11/27/actualidad/1417119499_120349.html">nuevo ministro de Economía, Joaquim Levy</a> preconiza un viraje económico de la presidenta. ¿Qué le parece?</p>
+<p><strong>Respuesta.</strong> Hay que entender el porqué de este cambio. La situación está muy difícil. Hubo casi una ruptura entre el Gobierno y los sectores empresariales. Ahora, Rousseff trata de recomponerlo, aunque los empresarios no se lo creen. Por otra parte, habrá que ver si el nuevo ministro disfruta de voz y de poder. El momento impone, sí o sí, algunas medidas de contención del gasto.</p>
+<p><strong>P.</strong> No hay alternativa…</p>
+<p><strong>R.</strong> No; La economía empezó a descarrilar hace mucho tiempo. La respuesta del Gobierno durante la crisis internacional fue la correcta. En aquel entonces era importante ampliar el crédito. Pero eso tiene un límite. Y ya hemos llegado. La mayoría tiene ya demasiadas deudas, así que el consumo ya no es suficiente como motor económico. <a href="http://economia.elpais.com/economia/2014/09/19/actualidad/1411145769_649686.html">Y el PIB no crece</a>. Así que hay que hacer algo.</p>
+<p><strong>P.</strong> ¿El qué?</p>
+<p><strong>R.</strong> Diría que nos acercamos a una etapa parecida a la que yo abordé cuando era ministro de Finanzas y todo estaba en desorden. Ahora todo camina también hacia el desorden. Pero hay un nudo político que desatar ¿Tendrá el Gobierno fuerza para poner en marcha esas medidas necesarias? El embrollo político es más delicado que el económico, porque el económico se sabe cómo hay que solucionarlo. Un país con veintitantos partidos en el Congreso y cuarenta ministerios esconde la receta del fracaso. Yo gobernaba básicamente con tres partidos. Los demás no contaban. Los nombramientos se daban en función de una agenda, los puestos claves no estaban en manos de los partidos. Y mi partido, el <a href="http://elpais.com/tag/psdb_partido_social_democracia_brasilena/a/">Partido de la Socialdemocracia Brasileña</a>, no influía tanto como lo hace el PT en Dilma. Yo tenía más libertad para designar.</p>
+<p><strong>P.</strong> ¿Ve a Rousseff muy presionada?</p>
+<p><strong>R.</strong> Mucho. Tiene un partido que exige un conjunto de alianzas con otros partidos muy amplio y no existe un consenso entre todos sobre lo que hay que hacer. Lo que le gusta al PT no es lo mismo que le gusta al PMDB y a los otros.</p>
+<p><strong>P.</strong> La misma Rousseff, la noche de las elecciones aludió a la proliferación de fuerzas como motor de avance…</p>
+<p><strong>R.</strong> Eso sería así si se dejara influir por los que perdieron. Y eso no se va a dar. ¿Qué pasó con las elecciones? Pues que quedó claro que hay dos Brasiles. Y no son el Brasil pobre y el Brasil rico (A Neves también le votaron los pobres. Nadie tiene 51 millones de votos sin los pobres. Nadie gana São Paulo sin los pobres), sino el Brasil más dependiente del Estado y el más independiente. No sólo los pobres, sino también los ricos, como las empresas que dependen del Gobierno… Muchos no son de derechas ni de izquierda, persiguen acercarse al aparato público para tener ventajas, son clientelistas. Y esos no están en un lado o en otro. Están con quien gane. Ahora, al lado del PT, no porque apoyen al PT, sino porque el PT controla el Estado. Si estuviésemos nosotros, nos apoyarían a nosotros. <a href="http://internacional.elpais.com/internacional/2014/10/07/actualidad/1412643723_475412.html">A Dilma le apoyó la población menos dinámica</a>. Y si el desafío es el crecimiento económico, pues Rousseff depende de los que perdieron. Es una contradicción. ¿Cuál sería la diferencia si hubiera ganado Aécio Neves?. La situación seguiría la misma, mala, difícil, pero habría una diferencia: la esperanza.</p>
+<p><strong>P.</strong> Hay quien teme que un sector de los que votaron a Neves se radicalice.</p>
+<p><strong>R.</strong> La responsabilidad sería del PT y de <a href="http://elpais.com/tag/luiz_inacio_da_silva/a/">Lula</a>, que jugaron a eso de ricos contra pobres, y eso ha despertado ganas a algunos de sentirse muy de derechas y de pedir que vuelvan los militares.</p>
+<p><strong>P.</strong> ¿Es peligroso ese movimiento?</p>
+<p><strong>R</strong>. No, no tienen reflejo en la vida política o parlamentaria. Hacen ruido pero no tienen poder. Aquí, en Brasil, muy pocos se reconocen de derechas.</p>
+<p><strong>P.</strong> ¿Su partido, el PSDB, dónde se ubica?</p>
+<p><strong>R.</strong> Los criterios europeos de derechas e izquierdas no funcionan en Brasil. Cuando formamos el PSDB lo definimos como un partido democrático, con compromisos sociales (reforma agraria, salud, etc) pero que asumiera también que el mercado existe.</p>
+<p><strong>P.</strong> ¿Esa sería la diferencia con el PT, lo del mercado?</p>
+<p><strong>R.</strong> Antes sí, ahora ya no tanto. El PT quiere ocupar el Estado. Y utilizar la palanca pública para impulsar la economía. El PSDB no considera eso tan importante. Prefiere servir de puente entre la sociedad y el Estado. Pero utilizando el esquema básico: No podemos aceptar eso que dice el PT de que ellos son el partido de los pobres y nosotros el de los ricos. Parte de ese estigma procede de que Lula viene de abajo y yo no. El PT salió de la izquierda, pasó por el centro-izquierda y ahora se acerca al centro. El PSDB fue empujado para el centro derecha, pero ahora está volviendo para el centro. ¿Quién creó más becas? Yo. ¿Quién hizo más reforma agraria? Yo. ¿Quién protegió más a los indígenas? Yo. Entonces, ¿por qué se nos llama de derechas? No tiene sentido. ¿Quién benefició más a los bancos? Lula. Lula no es de izquierdas.</p>
+<p><strong>P.</strong> ¿No?</p>
+<p><strong>R.</strong> Nunca lo fue. Él mismo lo ha dicho. Conozco a Lula desde que era líder sindical. Él tenía horror a los partidos, era un líder sindicalista auténtico, independiente, veía el sindicato como su casa, el partido llegaría después. Siempre fue muy favorable a los intereses de la mayoría, como yo y como todos. Él es conservador, no quiebra las instituciones, <a href="http://elpais.com/tag/hugo_chavez/a/">no es Chávez, no hará nunca lo que hizo Chávez</a>. Lula ni es antiamericano ni anticapitalista.</p>
+<p><strong>P.</strong> Así que Brasil nunca será Venezuela.</p>
+<p><strong>R.</strong> Nunca</p>
+<p><strong>P.</strong> Un empresario brasileño, Ricardo Semler, al respecto del escándalo de Petrobras, mantenía en un artículo reciente que en Brasil siempre se robó, y que ahora se roba menos. ¿Está de acuerdo?</p>
+<p><strong>R.</strong> Leí el artículo. No aportaba pruebas. En mi época de presidente puede que hubiera corrupción, de la que yo no me enteré. Pero la diferencia con el Petrobras de hoy es que <a href="http://internacional.elpais.com/internacional/2014/11/23/actualidad/1416777706_072872.html">hoy hay un sistema organizado en el que participan empresarios, directivos, altos cargos y agentes políticos</a>, es una especie de mafia, donde rige la <em>omertá</em>, la ley del silencio, con la bendición del poder. Aunque ahora empezaron a hablar.</p>
+<p><strong>P.</strong> Algunos incluyen al PSDB…</p>
+<p><strong>R.</strong> Nosotros no tenemos poder. ¿Por qué dar dinero quien no tiene poder?</p>
+<p><strong>P.</strong> La Fiscalía afirma que el esquema llevaba durando quince años…</p>
+<p><strong>R.</strong> Ya digo: no existía una red organizada entre partidos, Gobierno y Petrobras.</p>
+<p><strong>P.</strong> ¿Cree que Lula y Rousseff lo sabían?</p>
+<p><strong>R.</strong> No tengo elementos para afirmarlo. Pero si Dilma Roussef lo supo, trató de frenarlo. Ahora bien, todo esto de Petrobras va a explotar, porque la justicia ya ha entrado, y puede que salgan volando muchos partidos.</p>
+<p><strong>P.</strong> ¿Cómo va a terminar todo esto?</p>
+<p><strong>R.</strong> Va a afectar a políticos. No sé si Dilma tiene noción del embudo histórico que estamos viviendo. Los volúmenes de dinero son enormes. Sólo hay que fijarse en que un arrepentido está dispuesto a devolver 100 millones de dólares… ¿De qué volumen estamos hablando? ¿De mil millones? Este proceso va a ser largo. El país necesitará instituciones públicas fuertes y una prensa libre y activa. Pero no soy pesimista. Fíjense en el EEUU de los años 20, cuando la Ley Seca. Recuerde las mafias locales de entonces, a Al Capone. Y la cosa mejoró.</p>
+<p><strong>P.</strong> ¿Cree que se puede acusar a la presidenta por el caso de Petrobras y abocarla a un impeachment?</p>
+<p><strong>R.</strong> No creo. El impeachment es más un problema político. Es muy problemático quitar el poder a alguien que acaba de ganarlo en las urnas.</p>
+<p><strong>P.</strong> ¿Cuál es el papel del PSDB después de unas elecciones en las que, a pesar de haberlas perdido, sale reforzado?</p>
+<p><strong>R.</strong> En la cámara será difícil tener peso porque nuestro tamaño es pequeño. En el Senado es distinto. El PSDB tiene que mantener la misma actitud que Aécio Neves tuvo en campaña. Aunque será difícil: en Brasil, históricamente, los medios se ocupan del Gobierno, pero no de la oposición. Ahora bien, el PSDB no puede imaginarse solo. Tiene que ampliar sus alianzas y acercarse a lo nuevo, hacia la izquierda y el centro. A <a href="http://elpais.com/tag/marina_silva/a/">Marina Silva</a> y al nuevo partido socialista. Salvando las distancias, el partido de Marina Silva, Rede, ha jugado un papel parecido al de <a href="http://elpais.com/tag/podemos/a/">Podemos</a> en España. Silva aportó dos cosas al debate nacional: sustentabilidad y ética. Los jóvenes están mucho más atentos a ciertos comportamientos que a las estructuras de poder. Y el PSDB tiene que tener el espíritu abierto…</p>
+<p><strong>P.</strong> Pues en la campaña, Neves rehusó discutir ciertos temas polémicos como la legalización de la marihuana o el matrimonio entre homosexuales</p>
+<p><strong>R.</strong> Él piensa del mismo modo que yo. Hay quien sostiene que si entran en ciertos temas pierden votos. Yo creo que no. La sociedad ha avanzado más que los políticos.</p>
+<p><strong>P.</strong> ¿Usted es partidario de legalizar el <a href="http://elpais.com/tag/matrimonio_homosexual/a/">matrimonio entre homosexuales</a>?</p>
+<p><strong>R.</strong> Rotundamente sí.</p>
+<p><strong>P.</strong> ¿Y de la liberalización de la <a href="http://elpais.com/tag/marihuana/a/">marihuana</a>?</p>
+<p><strong>R.</strong> También. Soy precursor de eso en el mundo.</p>
+<p><strong>P.</strong> ¿Y de legalizar el <a href="https://www.google.com.mx/search?q=Fernando+Henrique+Cardoso+site%3Aelpais.com&oq=Fernando+Henrique+Cardoso+site%3Aelpais.com&aqs=chrome..69i57.4262j0j4&sourceid=chrome&es_sm=93&ie=UTF-8#q=+aborto+site:elpais.com">aborto</a>?</p>
+<p><strong>R.</strong> Eso es más complicado. Por la religión. Es algo que tiene que discutir la sociedad. Aunque nunca fui favorable a que estos temas entren en campaña electoral. Haga usted un plebiscito sobre la pena de muerte. Saldrá que sí. Nosotros hicimos uno sobre el derecho a llevar armas. Y salió que sí y perdimos. Son temas complejos que se prestan a manipulaciones.</p>
+<p><strong>P.</strong> Hace unos años se veía en el extranjero a Brasil como el país del futuro. Ahora, con la economía parada y el escándalo de Petrobras, nos da la impresión de vivir en un lugar diferente.</p>
+<p><strong>R.</strong> Es que es así. Los que mandaron en este país cuando crecía no supieron hacerlo bien. La semilla estaba ahí. Pero el PT no lo hizo bien porque no quiso. El PT es una organización burocrática que necesita dinero. Y hay mucha gente que obtenía dinero de corruptelas para el partido. Era una especie de visión política, un resabio de otras épocas, por así decir, revolucionarias: de aquello de que todo vale porque es para la revolución. Así, todo vale mientras vaya para el partido. Por otro lado: yo hice ajustes. Pero la renta per capita no cayó. Los hice sin que el pueblo pagara el coste. Ahora será difícil que el pueblo no pague ese ajuste que se avecina. Pero soy optimista. El país tiene instituciones que funcionan. El mismo PT es importante para el país. La presidenta va a atravesar un desierto, además perderá el control de la Cámara. Espero que ella no tenga una visión sectaria de la vida nacional y política.</p>
+<p><strong>P.</strong> Cuando ella fue reelegida dijo que sería la presidenta de Brasil y no del PT.</p>
+<p><strong>R.</strong> Fue un paso. Pero el PT es muy complicado. Y nunca se sabe muy bien dónde está Lula. Él no es una persona que tenga convicciones. Es alguien que ve su oportunidad y sabe sacarle provecho. Pero el momento pide convicciones.</p>]]></content:encoded>
+    <enclosure url="http://ep00.epimg.net/internacional/imagenes/2014/12/01/actualidad/1417448171_797578_1417449897_miniatura_normal.jpg" length="4652" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/internacional/imagenes/2014/12/01/actualidad/1417448171_797578_1417449897_noticia_normal.jpg" length="22469" type="image/jpeg"  />
+    <comments><![CDATA[http://eskup.elpais.com/C1417448171-2573409a95841bb7bb502bee08ca38ad]]></comments>
+  </item>
+  <item>
+    <title><![CDATA[El plan estrella educativo de Wert pincha en las autonomías del PP]]></title>
+    <link><![CDATA[http://elpais.com/politica/2014/11/28/actualidad/1417199883_337923.html]]></link>
+    <guid isPermaLink="true"><![CDATA[http://elpais.com/politica/2014/11/28/actualidad/1417199883_337923.html]]></guid>
+    <dc:creator><![CDATA[Pilar Álvarez]]></dc:creator>
+    <description><![CDATA[El 25% de plazas de la FP básica, prevista para frenar el abandono escolar, se queda sin cubrir. Cataluña y País Vasco no la aplican]]></description>
+    <pubDate><![CDATA[Fri, 28 Nov 2014 19:52:26 +0100]]></pubDate>
+    <category><![CDATA[José Ignacio Wert]]></category>
+    <category><![CDATA[Formación profesional]]></category>
+    <category><![CDATA[Lomce]]></category>
+    <category><![CDATA[Legislación educativa]]></category>
+    <category><![CDATA[Enseñanza general]]></category>
+    <category><![CDATA[Política educativa]]></category>
+    <category><![CDATA[Ministerios]]></category>
+    <category><![CDATA[España]]></category>
+    <category><![CDATA[Sistema educativo]]></category>
+    <category><![CDATA[Educación]]></category>
+    <category><![CDATA[Administración Estado]]></category>
+    <category><![CDATA[Administración pública]]></category>
+    <content:encoded><![CDATA[<p>La <a href="http://elpais.com/tag/fp_formacion_profesional/a/">Formación Profesional</a> básica, primera propuesta estrella de la reforma educativa del Gobierno como medida contra el abandono escolar, no ha cubierto las expectativas. El 27% de las plazas ofertadas —14.305 de 52.875— están vacías en su primer año de implantación, que ha sido más baja sobre todo en las comunidades gobernadas por el Partido Popular (PP).</p>
+<p>El Ministerio de Educación ha defendido los cambios previstos en la FP básica argumentando que es una herramienta para luchar contra el abandono escolar, que registra <a href="http://sociedad.elpais.com/sociedad/2014/09/11/actualidad/1410436044_156738.html">un porcentaje del 22,7%</a>, que deja España a la cola de Europa. El sistema sustituye a los Programas de Cualificación Profesional Inicial (PCPI), diseñados para los alumnos más rezagados y con dificultades para acabar la enseñanza obligatoria. Tienen dos años de duración a partir de tercero de la la Educación Secundaria obligatoria (ESO) o, en caso excepcional, después de segundo.</p>
+<p>En septiembre arrancó el primer curso después de que la mayoría de las comunidades autónomas aprobaran los contenidos del currículo a toda prisa durante el verano. Tres meses después, las tasas más bajas de ocupación se registran en Asturias (PSOE) y en la mayoría de las comunidades gobernadas por el PP (Galicia, Cantabria, Madrid, Castilla— La Mancha, Castilla y León, Baleares, Comunidad Valenciana y Extremadura). En todos estos casos el porcentaje de vacantes supera el 25% (ver gráfico).</p>
+<p>Los datos oficiales de las autonomías recabados por EL PAÍS difieren de los que ofreció el 25 de noviembre en el Senado el ministro de Educación. José Ignacio Wert aseguró que estaba “satisfecho” por la tasa de matriculación. Al día siguiente, agradeció en el Congreso de los Diputados, la “extraordinaria diligencia” y un “extraordinario compromiso” de la “inmensa mayoría” de las comunidades autónomas para la implantación de la FP básica. Según los datos que ofreció públicamente, se han ofertado unas 45.000 plazas de las que se han cubierto el 85%. Eso significa un 15% de plazas vacías, casi la mitad del porcentaje recogido por EL PAÍS. Un portavoz del ministerio señaló ayer que Educación “maneja datos oficiales facilitados por las comunidades autónomas” (igual que ha hecho este periódico) sin aclarar por qué su previsión de vacantes es más baja.</p>
+<p>La FP Básica no se ha comenzado a impartir en Cataluña ni en el País Vasco. El departamento de Enseñanza catalán (CiU) creó los programas de formación e inserción que han sustituido a los programas de calificación profesional inicial. Las diferencias radican en que son alumnos más mayores (entre los 16 y 21 años) y los cursos duran un año.</p>
+<p>El País Vasco (PNV) ha aplazado también la aplicación y mantiene una fórmula similar a los antiguos programas de cualificación, con 2.500 plazas ofertadas y 2.117 ocupadas. Un portavoz del Gobierno vasco señala que están desarrollando una normativa propia y aún no han cerrado si su modelo será un calco del nacional o tendrá matices.</p>
+<p>En Andalucía, <a href="http://ccaa.elpais.com/ccaa/2014/09/24/andalucia/1411583117_960726.html">donde el 20% de las plazas han quedado vacías</a>, el Gobierno regional (PSOE/IU), el consejero de Educación, Luciano Alonso, señaló que “las familias no han confiado” en el “milagro de la FP Básica”.</p>
+<p>Un portavoz de la Xunta señala que en Galicia (PP) ha influido la dispersión territorial. Las aulas, con 20 plazas, se mantienen si se cubren 12 vacantes en institutos urbanos pero solo se necesitan ocho en las zonas rurales. Es el mismo argumento que esgrimen desde Castilla y León.</p>
+<p>El Gobierno de Asturias (PSOE) señala que su Gobierno apuesta por mantener el mayor tiempo posible a los alumnos en las etapas obligatorias y recuerda que estos son derivados por un consejo orientador, es decir, les corresponde la decisión última corresponde a cada centro. Un portavoz de la Comunidad de Madrid (PP) recuerda también que son los orientadores los que valoran la idoneidad de derivar los alumnos de secundaria a FP básica, pero añade que la cobertura de plazas —una de cada tres han quedado libres— está por debajo de sus previsiones iniciales.</p>
+<p> </p>
+<p>Con información de <strong>Camilo S. Baquero</strong> (Barcelona), <strong>Manuel Planelles</strong> (Sevilla), <strong>Juanma Játiva</strong> (Valencia) y <strong>Elisa Silió</strong> (Madrid).</p>
+<p> </p>]]></content:encoded>
+    <comments><![CDATA[http://eskup.elpais.com/C1417199883-c3468510282f97377fb8cdedc9dfcbd3]]></comments>
+  </item>
+  <item>
+    <title><![CDATA[Los empresarios franceses se echan a la calle]]></title>
+    <link><![CDATA[http://elpais.com/internacional/2014/12/01/actualidad/1417462365_010006.html]]></link>
+    <guid isPermaLink="true"><![CDATA[http://elpais.com/internacional/2014/12/01/actualidad/1417462365_010006.html]]></guid>
+    <dc:creator><![CDATA[Carlos Yárnoz]]></dc:creator>
+    <description><![CDATA[Los patronos se movilizan en París y Toulouse contra "las trabas" a la actividad económica]]></description>
+    <pubDate><![CDATA[Mon, 1 Dec 2014 21:47:04 +0100]]></pubDate>
+    <category><![CDATA[Manuel Valls]]></category>
+    <category><![CDATA[Francia]]></category>
+    <category><![CDATA[Reformas políticas]]></category>
+    <category><![CDATA[Europa occidental]]></category>
+    <category><![CDATA[Empresas]]></category>
+    <category><![CDATA[Europa]]></category>
+    <category><![CDATA[Economía]]></category>
+    <category><![CDATA[Política]]></category>
+    <content:encoded><![CDATA[<p>Miles de empresarios franceses, uno de los escasos colectivos de peso que hasta ahora aplaudían <a href="http://economia.elpais.com/economia/2014/11/28/actualidad/1417190327_097373.html">la política reformista del Gobierno</a>, se lanzaron este lunes a la calle en París y Toulouse porque consideran "asfixiantes" los "bloqueos y trabas normativas" para su actividad económica. Iniciaron así una inédita semana de movilizaciones por toda <a href="http://elpais.com/tag/francia/a/">Francia</a>, que acorrala aún más a un Ejecutivo con escaso apoyo cuando la derecha y la ultraderecha se rearman para preparar el asalto al poder.</p>
+<p>La manifestación de París contó con la presencia de unas 6.000 personas, según la organización convocante, la Confederación General de la Pequeña y Mediana Empresa (CGPME), que agrupa a 600.000 sociedades con menos de 250 empleados. Las otras dos grandes asociaciones patronales, la Medef (Movimiento de Empresas de Francia) y la UPA (Unión de Artesanos) han organizado también una quincena de actos en otras tantas ciudades del país.</p>
+<p>En la capital, los manifestantes se congregaron cerca de Bercy, la sede de los ministerios de Economía y de Finanzas. Junto con pancartas con frases como "¿Quién pagará vuestros salarios?" o "Ya no nos queda nada", los congregados corearon gritos de "No se nos comprende, nos vamos a hacer oír" o "Pymes bloqueadas, liberemos nuestras empresas". "Estamos exasperados", insistía Jean-Eudes du Mesnil, secretario general de la CGPME.</p>
+<p>El patrón de patronos y líder de Medef, Pierre Gattaz, había calentado el ambiente en las horas previas: "Los empresarios no podemos más. Estamos asfixiados". Es el propio Gattaz el que en agosto pasado alababa <a href="http://elpais.com/elpais/2014/11/18/opinion/1416314686_268483.html">el plan del Gobierno</a>, que en los próximos tres años prevé unas ventajas para los patronos de 41.000 millones en rebajas de impuestos y cotizaciones sociales. Ahora, Gattaz asegura que, entre 2011 y 2013, la presión fiscal a las empresas ya subió en 36.000 millones y que en estos momentos se han puesto en marcha nuevas cargas que supondrán al menos otros 3.000 millones. Las organizaciones patronales afirman que más de 60.000 empresas cierran sus puertas cada año.</p>
+<p>Pero las quejas más contundentes ahora son tres. La primera es la llamada cuenta personal para trabajos penosos, que entrará en vigor en enero. Recoge 10 supuestos, que van desde trabajos en ambientes ruidosos o con altas temperaturas a labores repetitivas o en posiciones corporales perjudiciales. Los empleados en esas situaciones podrán jubilarse hasta dos años antes y tendrán derecho a cursos de formación periódicos y a reducir en el futuro sus horarios sin sufrir mermas salariales. "Es totalmente inaplicable", se quejan los empresarios. Según cálculos del Ejecutivo, puede afectar a más del 15% de los trabajadores.</p>
+<p>Una segunda medida prohíbe a los patronos firmar contratos temporales de un plazo inferior a 24 horas semanales. La tercera obliga a las empresas con menos de 250 empleados a informar a los trabajadores con dos meses de antelación de la intención de vender la sociedad.</p>
+<p>La movilización patronal, que como precedente más inmediato tiene la protesta de 1999 contra el límite de 35 horas semanales, forzó este lunes mismo movimientos en el Gobierno para amainar el vendaval. El ministro de Finanzas, Michel Sapin, difundió un documento titulado <em>Nueva gobernanza fiscal</em> en el que advierte que las recientes cargas fiscales a las que se refería Gattaz "no serán retrospectivas" y, por tanto, entrarán en vigor en 2015 y se anotarán en las declaraciones de 2016.</p>
+<p>El ministro de Economía, Emmanuel Macron, recibió por la tarde a una representación de los manifestantes. "Apenas nos ha tranquilizado", declaró a este periódico nada más salir Du Mesnil, el líder de la CGPME.</p>
+<p>En otra cesión gubernamental para calmar los ánimos, el Ejecutivo ya había anunciado que la cuenta de trabajos penosos solo se aplicará en 2015 a cuatro supuestos (nocturnidad, labores repetitivas, turnos de equipos continuos y buzos) y el resto, en 2016. "Si no hay acuerdo, seguiremos con movilizaciones", asegura Du Mesnil.</p>
+<p>Fuentes de Economía señalaron a este periódico que el ministro es "comprensivo" con la reacción de los empresarios, pero <a href="http://internacional.elpais.com/internacional/2014/11/18/actualidad/1416343088_119024.html">en el partido gubernamental conviven otras sensibilidades</a>. El portavoz del Ejecutivo, Stéphan Le Foll, comentó la semana pasada que era "poco entendible" la movilización, mientras el jefe del grupo socialista en la Asamblea Nacional, Bruno Le Roux, se quejó de que, pese a las ayudas a las empresas, estas no invertían y que, por lo tanto, podían reducirse las ventajas aprobadas.</p>]]></content:encoded>
+    <enclosure url="http://ep00.epimg.net/internacional/imagenes/2014/12/01/actualidad/1417462365_010006_1417463150_miniatura_normal.jpg" length="7691" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/internacional/imagenes/2014/12/01/actualidad/1417462365_010006_1417463150_noticia_normal.jpg" length="39769" type="image/jpeg"  />
+    <comments><![CDATA[http://eskup.elpais.com/C1417462364-00999ddcd786a973f557f8719b071d74]]></comments>
+  </item>
+  <item>
+    <title><![CDATA[El crédito a las familias crece mientras cae el de las empresas]]></title>
+    <link><![CDATA[http://elpais.com/economia/2014/12/01/actualidad/1417458570_058002.html]]></link>
+    <guid isPermaLink="true"><![CDATA[http://elpais.com/economia/2014/12/01/actualidad/1417458570_058002.html]]></guid>
+    <dc:creator><![CDATA[Íñigo de Barrón]]></dc:creator>
+    <description><![CDATA[Los expertos creen que se consolida la lenta recuperación de los préstamos]]></description>
+    <pubDate><![CDATA[Tue, 2 Dec 2014 00:00:56 +0100]]></pubDate>
+    <category><![CDATA[Opinión]]></category>
+    <category><![CDATA[Crisis económica]]></category>
+    <category><![CDATA[Recesión económica]]></category>
+    <category><![CDATA[Coyuntura económica]]></category>
+    <category><![CDATA[Crédito empresas]]></category>
+    <category><![CDATA[España]]></category>
+    <category><![CDATA[Créditos]]></category>
+    <category><![CDATA[Economía]]></category>
+    <category><![CDATA[Servicios bancarios]]></category>
+    <category><![CDATA[Banca]]></category>
+    <category><![CDATA[Finanzas]]></category>
+    <content:encoded><![CDATA[<p>Empresas y familias en España no volverán a tener 2,17 billones de endeudamiento total, como alcanzaron en noviembre de 2008, el máximo de la burbuja, según afirman los expertos financieros. Las empresas y familias siguen reduciendo deudas, ya sea por convicción o por obligación. Hasta octubre pasado, las sociedades tienen un 5,6% menos de crédito concedido que en el mismo mes de 2013, mientras que las familias disponen de un 4,7% menos de préstamos en el mismo periodo de tiempo, según los datos del Banco de España. Esto supone que la economía tiene ahora 460.000 millones menos de financiación.</p>
+<p>Esos son los saldos totales, que demuestran que los créditos que se devuelven a los bancos son mayores que los nuevos que se conceden. Pero si se baja más al detalle, se puede analizar qué está pasado con las nuevas operaciones. Las familias y hogares obtuvieron para la compra de vivienda en octubre pasado 2.352 millones, lo que supone un 23,4% más que los nuevos créditos recibidos en octubre de 2013. Estas cifras son la base de los que afirman que el sector hipotecario se está recuperando, si bien parte de unos niveles muy bajos.</p>
+<p>En los préstamos al consumo la subida interanual es mayor: un 37,5%, aunque las cantidades son más pequeñas, 1.713 millones. Por último, en “otros fines”, la subida es de un 40%.</p>
+<p>El mundo de las empresas es diferente. Los nuevos créditos de cantidades inferiores a un millón de euros, típicos de las pymes, crecen un 14,3% y se sitúan en 14.026 millones. Sin embargo, en los préstamos de más de un millón, se observa un brusco descenso del 30% y quedan en 13.840 millones.</p>
+<p>En opinión de Joaquín Maudos, catedrático de Análisis Económico de la Universidad de Valencia, “las tasas de crecimiento se están afianzando en general y en hogares, aun crece con más fuerza. Soy moderadamente optimista y creo que el problema de la reactivación del crédito ya no es de oferta, sino de demanda solvente”, apunta.</p>
+<p>Para este experto, la clave llegará en la segunda subasta de liquidez del BCE del 11 de diciembre. “Si la banca española solicita mucha financiación, será un indicador de que confía en la reactivación de la demanda de crédito solvente”, afirma.</p>]]></content:encoded>
+    <comments><![CDATA[http://eskup.elpais.com/C1417458570-9b667d8e177d79c640d22b91f7f75271]]></comments>
+  </item>
+  <item>
+    <title><![CDATA[“La segregación de la mujer no es la vía para incorporarla al trabajo”]]></title>
+    <link><![CDATA[http://elpais.com/internacional/2014/12/01/actualidad/1417438791_736473.html]]></link>
+    <guid isPermaLink="true"><![CDATA[http://elpais.com/internacional/2014/12/01/actualidad/1417438791_736473.html]]></guid>
+    <dc:creator><![CDATA[Ángeles Espinosa]]></dc:creator>
+    <description><![CDATA[La responsable de Asuntos de la Mujer y la Familia quiere alentar una mayor participación de las iraníes en la economía y la política]]></description>
+    <pubDate><![CDATA[Mon, 1 Dec 2014 14:25:56 +0100]]></pubDate>
+    <category><![CDATA[Irán]]></category>
+    <category><![CDATA[Mujeres]]></category>
+    <category><![CDATA[Oriente próximo]]></category>
+    <category><![CDATA[Asia]]></category>
+    <category><![CDATA[Estilo vida]]></category>
+    <category><![CDATA[Sociedad]]></category>
+    <category><![CDATA[Política]]></category>
+    <content:encoded><![CDATA[<p>La impronta femenina se percibe desde la antesala. Sólo mujeres en la recepción y la secretaría. Además, la luminosidad de su despacho, decorado en verde claro, contrasta con los marrones oscuros que son la norma entre sus compañeros de Gobierno. “La segregación de sexos no es la solución para incorporar a la mujer al trabajo”, declara Shahindokht Molaverdi, la vicepresidenta iraní para Asuntos de la Mujer y la Familia, que recibe a EL PAÍS en su oficina de la calle Vila, en el centro de Teherán.</p>
+<p>Molaverdi, de 48 años, es una de las tres vicepresidentas nombradas por Hasan Rohaní, junto a <a href="http://elpais.com/diario/2006/12/14/internacional/1166050810_850215.html">Masumeh Ebtekar</a>, que fue pionera en ese cargo con el reformista Mohamed Jatamí y ahora repite al frente de Medio Ambiente, y Elham Aminzadeh, responsable de Asuntos Legales. En realidad, se trata de carteras ministeriales encubiertas. Un Parlamento tan conservador como el actual difícilmente respaldaría a una ministra, pero el presidente no requiere su aprobación para los vicepresidentes. Su designación fue además aplaudida por el movimiento de mujeres, sin duda uno de los principales motores de cambio en Irán.</p>
+<p>“Rohaní prometió nombrar a más mujeres para cargos intermedios y ya tenemos dos gobernadoras provinciales y alguna alcaldesa”, señala en referencia a las responsables de Sistán y Baluchistán.</p>
+<p>“El reto de este Gobierno es capacitar a las mujeres en lo político y económico. Necesitamos incrementar su incorporación al trabajo”, expone tras el obligado repaso a los avances que para ellas ha supuesto la República Islámica. En Irán, apenas constituyen el 12% de la fuerza laboral y su paro duplica al de los hombres.</p>
+<p>El objetivo choca con la oposición de destacadas instancias del régimen. Recientemente, el jefe de la policía iraní, Khalil Helali, desató la polémica al recordar que “según la ley” <a href="http://www.sharghdaily.ir/1393/06/09/Files/PDF/13930609-2101-8-14.pdf">las mujeres no pueden trabajar como camareras.</a> También un oficial de los Pasdarán, Mohsen Kazemeini, ha pedido que se segregue a los trabajadores en las oficinas porque considera de mal gusto que “hombres y mujeres se sienten uno al lado del otro todo el día y hagan bromas”.</p>
+<p>“No es la política oficial del Gobierno, sino de un sector de nuestra sociedad”, señala Molaverdi sin perder la compostura. “Estamos de acuerdo en mejorar el ambiente laboral, pero la segregación no es la solución. También rechazamos que siempre que hay problemas se responsabilice a la mujer”, añade.</p>
+<p>Desde la revolución de 1979, niños y niñas se han educado separados en las escuelas. Sin embargo, en la universidad todos estudian juntos y tanto en las oficinas gubernamentales como en el sector privado trabajan codo con codo. Una de las razones esgrimidas para exigir que las mujeres se tapen la cabeza y oculten las formas del cuerpo es precisamente su participación en la vida pública.</p>
+<p>Molaverdi se cubre con <em>un chador,</em> la pieza de tela negra característica de las piadosas chiíes, pero el resto de las empleadas de su oficina optan por el habitual <em>uniforme</em> de bata hasta la rodilla y pañuelo en la cabeza. Por más que llame la atención fuera, esa imposición de vestimenta es el último de los problemas de las iraníes. Sin embargo, los recientes <a href="http://internacional.elpais.com/internacional/2014/10/31/actualidad/1414761395_347789.html">ataques con ácido a varias mujeres en Isfahán</a> se han atribuido al cada vez más habitual descuido de las chicas con los pañuelos.</p>
+<p>“Hay algunas pistas, pero aún no se han hecho públicas; no tengo información”, se disculpa la vicepresidenta. Aún así, no le cabe duda que el incidente, que creó una gran alarma social en todo el país, está relacionado con el debate en el Parlamento de una ley de “apoyo a quienes promocionan la virtud y combaten el vicio”, un texto al que se opone el Gobierno. También critica que “las autoridades no actuaron con la diligencia que se esperaba” y asegura que el presidente ha dado instrucciones para que se devuelva la seguridad a la población. Pocas horas después de la entrevista se conocía que la directora de un hospital de Teherán había sido víctima de una agresión similar.</p>
+<p>¿Qué opina de que se detuviera a una mujer por querer asistir a un partido de voleibol? “Si sólo es por eso, no se puede defender de ninguna forma”, responde. “Nos dijeron que había otras acusaciones, pero al final la chica, Ghoncheh Ghavami, ha quedado en libertad bajo fianza”, señala. La vicepresidenta confirma que el día de la detención de Ghavami había enviado a una representante que iba intentar entrar al estadio con el grupo de activistas.</p>
+<p>“Tengo dos hijas adolescentes que están reclamando legalmente poder asistir a los acontecimientos deportivos. No se les puede quietar ese derecho con la excusa de que el ambiente moral no es adecuado para las mujeres. Gestionemos el ambiente para que sea moral”, defiende.</p>
+<p>También cuenta que el Ministerio de Deportes ha formado un comité, en el que participa su departamento, para estudiar el asunto. “No podemos ignorar al sector religioso de la sociedad”, explica antes de precisar que en cualquier caso no van a incluir deportes como el boxeo o la natación. Aunque no lo dice, en ambos los participantes aparecen a pecho descubierto y el cuerpo desnudo sigue siendo un tabú.</p>]]></content:encoded>
+    <enclosure url="http://ep00.epimg.net/internacional/imagenes/2014/12/01/actualidad/1417438791_736473_1417452133_miniatura_normal.jpg" length="4947" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/internacional/imagenes/2014/12/01/actualidad/1417438791_736473_1417452132_noticia_normal.jpg" length="22959" type="image/jpeg"  />
+    <comments><![CDATA[http://eskup.elpais.com/C1417438791-51c4271bf2eb675bd8dd1231baf75c84]]></comments>
+  </item>
+  <item>
+    <title><![CDATA[Rajoy asegura que solo relevará a Mato y no hará más cambios]]></title>
+    <link><![CDATA[http://elpais.com/politica/2014/12/01/actualidad/1417445021_120053.html]]></link>
+    <guid isPermaLink="true"><![CDATA[http://elpais.com/politica/2014/12/01/actualidad/1417445021_120053.html]]></guid>
+    <dc:creator><![CDATA[Carlos E. Cué]]></dc:creator>
+    <description><![CDATA[El presidente español niega ser un aliado de Merkel en las políticas de austeridad y coincide con Hollande en hablar de "flexibilidad" y de la necesidad de que actúe ya el BCE]]></description>
+    <pubDate><![CDATA[Mon, 1 Dec 2014 17:14:20 +0100]]></pubDate>
+    <category><![CDATA[Mariano Rajoy]]></category>
+    <category><![CDATA[Discursos]]></category>
+    <category><![CDATA[Ana Mato]]></category>
+    <category><![CDATA[Ministerio de Sanidad]]></category>
+    <category><![CDATA[Dimisiones políticas]]></category>
+    <category><![CDATA[PP]]></category>
+    <category><![CDATA[Ministerios]]></category>
+    <category><![CDATA[España]]></category>
+    <category><![CDATA[Problemas sociales]]></category>
+    <category><![CDATA[Conflictos políticos]]></category>
+    <category><![CDATA[Partidos políticos]]></category>
+    <category><![CDATA[Política]]></category>
+    <category><![CDATA[Sociedad]]></category>
+    <category><![CDATA[Administración Estado]]></category>
+    <category><![CDATA[Administración pública]]></category>
+    <content:encoded><![CDATA[<p>Mariano Rajoy no tiene intenciones de aprovechar <a href="http://politica.elpais.com/politica/2014/11/26/actualidad/1417012981_141230.html">la caída de Ana Mato</a> para hacer una remodelación más profunda del Gobierno y de <a href="http://politica.elpais.com/politica/2014/11/30/actualidad/1417376781_490537.html">paso reorganizar el PP, como esperaban muchos en su partido</a>. El presidente ha dejado claro, en una rueda de prensa conjunta en París con François Hollande, que el único cambio que tiene previsto es <a href="http://politica.elpais.com/politica/2014/11/26/actualidad/1417030217_196085.html">el relevo de Mato</a>, probablemente el miércoles. En cuanto se realizó la pregunta, los siete ministros españoles que participaban en la XXIV cumbre franco-española, sentados en primera fila en una sala del Palacio del Elíseo, estallaron en una risa nerviosa hasta ver qué contestaba el presidente sobre posibles relevos en el Gobierno para dar un nuevo impulso político. Pero Rajoy los tranquilizó enseguida. “Estoy muy contento del trabajo y el esfuerzo de todos los ministros que he nombrado, por tanto el impulso político se va a quedar reducido a lo que se anunció en su momento”, esto es el relevo de la ministra de Sanidad, un puesto para el que la actual <a href="http://www.elpais.com/edigitales/entrevista.html?encuentro=11206">secretaria de Estado de Asuntos Sociales, Susana Camarero</a>, es una de las más firmes candidatas.</p>
+<p>Ante otra pregunta, Rajoy no ha querido cerrar la puerta a <a href="http://elpais.com/tag/pactos_postelectorales/a/">un posible pacto poselectoral</a> con el PSOE si no hay mayorías absolutas tras las elecciones, aunque ha insistido en que no es el momento para hablar de ese asunto sino para gobernar hasta que lleguen los comicios.</p>
+<p>Rajoy y Hollande han exhibido sintonía a pesar de que <a href="http://politica.elpais.com/politica/2014/08/25/actualidad/1408984115_080881.html">el presidente español es cada vez más visto en Europa como un aliado de Angela Merkel</a> en su defensa de las políticas de austeridad. El presidente se ha defendido y ha recibido el respaldo de Hollande. “Hablan ustedes de mi apoyo a las políticas de austeridad, cuando yo llegué al Gobierno había un déficit del 9,2%, la Comisión Europea fue flexible y marcó una senda de reducción. Nosotros en Europa siempre hemos estado a favor de una política de crecimiento y también de consolidación fiscal pero con plazos razonables. Tengo buena relación con Merkel pero también con Hollande”, ha explicado Rajoy.</p>
+<p>“Nunca, en ningún Consejo de la UE, he tenido la impresión de que España estuviera en una posición distinta de Francia en materia de flexibilidad a la hora de reducir el déficit. Actuamos juntos en 2012 para que Europa reaccionara. <a href="http://elpais.com/tag/jean_claude_juncker/a/">Francia y España están de acuerdo de cara al plan Juncker.</a> Debemos hacer más políticas de crecimiento, si no los que no nos van a seguir serán los pueblos, deben entender por qué se hacen los esfuerzos”, le apoyó Hollande.</p>
+<p>Ambos presidentes acordaron promover un asunto que interesa mucho a España, las interconexiones energéticas. Rajoy explicó que se ha acordado “<a href="http://economia.elpais.com/economia/2014/11/22/actualidad/1416685793_472130.html">solicitar financiación del plan Juncker</a> y del Presupuesto en vigor”, aunque no se han ofrecido más concreciones.</p>
+<p>También los dos lanzaron mensajes para que se acelere la aplicación de ese plan Juncker de 300.000 millones de euros, pero sobre todo lanzaron mensajes de apoyo a Mario Draghi, presidente del BCE, para que haga políticas monetarias “que garanticen la liquidez y eviten que la inflación siga tan baja en la zona euro” y para que tome medidas cuanto antes. "Confiamos mucho en que el BCE tome decisiones, debemos preservar el modelo social europeo, debemos ser tan eficaces en promover el crecimiento como lo hemos sido en garantizar la estabilidad", sentenció Hollande. Al finalizar la cumbre, como muestra de sintonía, ambos se fueron juntos a visitar el Museo Picasso.</p>
+<p>El presidente español lanzó desde París un mensaje a los clubes españoles para que no den ningún tipo de cobertura a los ultras, después de <a href="http://deportes.elpais.com/deportes/2014/11/30/actualidad/1417385174_346526.html">la muerte de uno de ellos en una pelea organizada entre ultras del Deportivo y del Atlético de Madrid.</a> Rajoy, gran aficionado al fútbol, defendió que se trata “de un deporte, emociones, compañerismo, pero debe servir para que la gente se lo pase bien, lo que ha sucedido es absolutamente lamentable. El Gobierno y los clubes debemos hacer esfuerzos para que esto no se vuelva a repetir, algunos clubes ya han hecho ellos solos un esfuerzo —dijo en clara referencia al Barcelona y el Madrid, aún sin citarlos— y sería bueno que todos los hiciéramos”. Rajoy <a href="http://deportes.elpais.com/deportes/2014/11/30/actualidad/1417380904_637524.html">evitó hacer autocrítica de la gestión del Gobierno</a> y aseguró que el secretario de Estado de Seguridad dará todas las explicaciones en el Congreso.</p>
+<p>Rajoy tampoco ha querido entrar en un asunto que puede ser decisivo para la estrategia política de su Gobierno, esto es <a href="http://politica.elpais.com/politica/2014/11/30/actualidad/1417369317_981775.html">el posible relevo del juez Pablo Ruz en la Audiencia Nacional</a>. Los vocales del Poder Judicial elegidos a propuesta del PP pueden decidir no renovar la plaza del juez hasta junio de 2015, con lo que no podría terminar la instrucción del caso Gürtel y tendría que hacerlo otro juez. Ruz es considerado dentro del PP como un enemigo, sobre todo después de que decidiera hacer público un durísimo auto, que forzó la dimisión de Mato, precisamente el día antes del debate sobre la corrupción de la semana pasada en el Congreso. Mientras en el PP muchos desean que Ruz no siga, Rajoy ha evitado mojarse: “No corresponde al Gobierno sino al Poder Judicial tomar esa decisión y por tanto no tengo nada que decir”.</p>
+<p>Hollande también evitó <a href="http://politica.elpais.com/politica/2014/11/29/actualidad/1417255965_699139.html">el asunto de Cataluña</a>, como una cuestión interna de España. “Esto tiene que ver únicamente con la soberanía de España, Francia no debe juzgar. Nosotros queremos una España estable, fuerte y aliada de Francia, como tenemos ahora”.</p>]]></content:encoded>
+    <enclosure url="http://ep00.epimg.net/politica/imagenes/2014/12/01/actualidad/1417445021_120053_1417450233_miniatura_normal.jpg" length="5381" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/politica/imagenes/2014/12/01/actualidad/1417445021_120053_1417450233_noticia_normal.jpg" length="26502" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/politica/imagenes/2014/12/01/actualidad/1417445021_120053_1417450233_portada_grande.jpg" length="18290" type="image/jpeg"  />
+    <comments><![CDATA[http://eskup.elpais.com/C1417445020-ec2f3aa13ea174e3ab8188ac4f274023]]></comments>
+    <enclosure url="http://ep00.epimg.net/politica/videos/2014/12/01/actualidad/1417445021_120053_1417452490.mp4" length="7762896" type="video/m4v"  />
+  </item>
+  <item>
+    <title><![CDATA[Onusida se da 15 años para acabar con el VIH]]></title>
+    <link><![CDATA[http://elpais.com/politica/2014/12/01/actualidad/1417467827_170498.html]]></link>
+    <guid isPermaLink="true"><![CDATA[http://elpais.com/politica/2014/12/01/actualidad/1417467827_170498.html]]></guid>
+    <dc:creator><![CDATA[Emilio de Benito]]></dc:creator>
+    <description><![CDATA[El 52% de los gais que se infectan en España tiene menos de 30 años]]></description>
+    <pubDate><![CDATA[Mon, 1 Dec 2014 22:03:47 +0100]]></pubDate>
+    <category><![CDATA[VIH SIDA]]></category>
+    <category><![CDATA[Enfermedades infecciosas]]></category>
+    <category><![CDATA[ETS]]></category>
+    <category><![CDATA[España]]></category>
+    <category><![CDATA[Problemas sociales]]></category>
+    <category><![CDATA[Enfermedades]]></category>
+    <category><![CDATA[Sociedad]]></category>
+    <category><![CDATA[Medicina]]></category>
+    <category><![CDATA[Salud]]></category>
+    <content:encoded><![CDATA[<p>Onusida se ha puesto 2030 como año para haber reducido <a href="http://elpais.com/elpais/2014/11/26/media/1417038653_019919.html">la epidemia de VIH (y del sida que causa) a su mínima expresión</a>. Con motivo del <a href="http://elpais.com/elpais/2014/12/01/album/1417429885_633273.html#1417429885_633273_1417442168">día internacional contra la enfermedad</a> que se conmemoró ayer, las grandes organizaciones (Onusida, el Fondo Mundial contra el Sida, la Tuberculosis y la Malaria o, en España, la Coordinadora Estatal de VIH / Sida, Cesida) hicieron votos por la ambiciosa propuesta, denominada 90-90-90. El objetivo es que en 2020 un 90% de los infectados lo sepan; de estos, que al menos un 90% reciba medicación, (actualmente lo hace el 37%) y, de ellos, que el 90% elimine el virus de su sangre (lo tenga indetectable). Entre 2020 y 2030 se elevarían estos porcentajes al 95%.</p>
+<p>Con ello, la ONU calcula que se podría pasar de más de dos millones de nuevas infecciones al año a 200.000, “y el VIH dejaría de ser un problema de salud pública mundial”. El objetivo parece optimista, pero Onusida afirma que ya se tiene el conocimiento y los medios (pruebas rápidas, medicación y preservativos) para lograrlo, y que lo que falta es el dinero. El Fondo Mundial calcula que se necesitarían 28.000 millones de euros en los primeros 15 años.</p>
+<p>Aunque el proyecto se centra en los países de ingresos medios o bajos, <a href="http://politica.elpais.com/politica/2014/11/26/actualidad/1416997680_947973.html">España también necesita mejorar</a>. Se calcula que en diagnósticos está alrededor del 70%, y que en eficacia del tratamiento ya se está en ese 95%, afirma Juan Berenguer, presidente del Grupo de Estudio de Sida (Gesida). Hay dudas respecto a los tratamientos. El miércoles pasado, la subdirectora general de Promoción de la Salud, Elena Andradas, dijo que más del 90% de los infectados recibían medicación. Berenguer admite que no tiene datos, pero cree que todavía hay bastantes infectados que no toman los fármacos.</p>
+<p>Sobre el estancamiento de los casos, el presidente de Gesida cree que hay que hacer campañas focalizadas, lo mismo que el presidente de Cesida, Juan Ramón Barrios. Se refieren, sobre todo, a los hombres que tienen sexo con hombres, que suponen más de la mitad de los nuevos contagios, y que va en aumento. Y que, además, tienen un perfil epidemiológico diferente. Mientras en la población en general los menores de 30 años representan el 26,4% de los diagnósticos, son casi el 52% entre los gais jóvenes.</p>
+<p>Barrios apunta a que es indispensable más educación, aunque coincide con Berenguer en que la transmisión sexual es de las más difíciles de combatir. “Cuando llega el momento, las prevenciones se olvidan”, dice, como demuestran las cifras de aborto, que tampoco bajan, dice. Por eso, aparte de las campañas, Berenguer pone el acento en otros dos aspectos: aflorar los casos no diagnosticados y darles tratamiento como medida para evitar nuevos contagios. “Intentar cambiar las costumbres es muy difícil”, afirma.</p>]]></content:encoded>
+    <enclosure url="http://ep00.epimg.net/politica/imagenes/2014/12/01/actualidad/1417467827_170498_1417468246_miniatura_normal.jpg" length="5307" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/politica/imagenes/2014/12/01/actualidad/1417467827_170498_1417468246_noticia_normal.jpg" length="23667" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/politica/imagenes/2014/12/01/actualidad/1417467827_170498_1417468246_portada_grande.jpg" length="15050" type="image/jpeg"  />
+    <comments><![CDATA[http://eskup.elpais.com/C1417467827-eee9f3a08786aee7f2598be0be0d2a27]]></comments>
+  </item>
+  <item>
+    <title><![CDATA[El hermano de Tania Sánchez logró contratos en Rivas por 1,2 millones]]></title>
+    <link><![CDATA[http://elpais.com/politica/2014/12/01/actualidad/1417463801_123941.html]]></link>
+    <guid isPermaLink="true"><![CDATA[http://elpais.com/politica/2014/12/01/actualidad/1417463801_123941.html]]></guid>
+    <dc:creator><![CDATA[Elisa Silió]]></dc:creator>
+    <description><![CDATA[La cooperativa tenía su sede en casa del padre, miembro de la Junta de Gobierno]]></description>
+    <pubDate><![CDATA[Mon, 1 Dec 2014 20:56:41 +0100]]></pubDate>
+    <category><![CDATA[Tania Sánchez]]></category>
+    <category><![CDATA[Rivas-Vaciamadrid]]></category>
+    <category><![CDATA[IU]]></category>
+    <category><![CDATA[Provincia Madrid]]></category>
+    <category><![CDATA[Comunidad de Madrid]]></category>
+    <category><![CDATA[Partidos políticos]]></category>
+    <category><![CDATA[España]]></category>
+    <category><![CDATA[Política]]></category>
+    <content:encoded><![CDATA[<p>La cooperativa de Héctor Sánchez, hermano de Tania Sánchez, <a href="http://ccaa.elpais.com/ccaa/2014/11/29/madrid/1417276226_167912.html">candidata desde el domingo de IU a las elecciones regionales</a>, consiguió 14 contratos entre 2002 y 2008 por valor de 1,2 millones en Rivas -Vaciamadrid, municipio del que su padre (Raúl Sánchez) es concejal y su hermana lo fue entre 2007 y 2011. Raúl Sánchez, como miembro de la Junta de Gobierno, firmó las adjudicaciones a la cooperativa cultural Aupa, del que su hijo era administrador único desde 2003. Al menos en una ocasión —en 2006 por 133.00 euros—, el progenitor no acudió a la reunión en la que se adjudicaba el contrato. La sede social de Aupa, que cerró en 2009, estaba registrada en casa del concejal.</p>
+<p>En la legislatura en la que Tania Sánchez fue edil en Rivas, Aupa logr<a href="http://ccaa.elpais.com/ccaa/2014/11/26/madrid/1417040279_799386.html">ó un único contrato por 137.000 euros en 2008. </a>En los papeles entregados por el Consistorio a EL PAÍS no consta que el padre de Tania Sánchez avisase de sus vínculos familiares con Héctor.</p>
+<p>Cuatro animadoras socioculturales, tres de ellas residentes en Rivas, constituyeron Aupa en la localidad en 2001. Al año siguiente, ganaron tres concursos para programar talleres musicales, proyectos para la Concejalía de Infancia y Juventud y asistencia a mujeres por un importe de 164.000 euros. En diciembre de 2003. la empresa —que obtiene ese año contratos por 62.000 euros— cambia su sede social a la casa de <a href="http://www.rivasciudad.es/portal/contenedor_ficha.jsp?seccion=s_fdes_d4_v3.jsp&contenido=381&nivel=1400&tipo=6&codResi=1&language=es&codMenuPN=34&codMenuSN=686&codMenu=107">Raúl Sánchez,</a> padre del nuevo administrador único, Héctor Sánchez.</p>
+<p>A partir de ese cambio, las cuantías se disparan. En 2004, consiguen contratos por valor de 553.734 euros. En fechas posteriores disminuyen: 160.000 (2005), 133.000 (2006) y 30.000 (2007) y 137.000 (2008). Además de contratos de música, los hay para el programa de verano de la Concejalía de Infancia y Juventud, un proyecto de educación de barrio o la red de centros juveniles.</p>
+<p>Fuentes del Ayuntamiento explican que es “absolutamente legal” la adjudicación y quieren “aclarar las sospechas que se han lanzado interesadamente”. Explican que en una de las adjudicaciones una empresa declinó seguir y otras dos no se presentaron; en tres ocasiones Aupa ganó a su competidor por razones técnicas; en otro, por 133.000 euros, fue la única empresa que cumplía las condiciones y, en un último caso, la otra firma no se ajustaba a los requisitos.</p>
+<p><a href="http://www.rivasciudad.es/portal/contenedor_ficha.jsp?seccion=s_fdes_d4_v3.jsp&contenido=309&nivel=1400&tipo=6&codResi=1&language=es&codMenuPN=34&codMenuSN=686&codMenu=107">Curro García Corrales,</a> portavoz del gobierno local de Rivas, insiste en que “no se trata de contratos de un concejal a un hijo, sino de una cooperativa que cumple las condiciones de procedimiento y fiscalización”. Y sostiene que son “servicios muy demandados y de los que se han beneficiado cientos de vecinos y vecinas”. Y remarca que mientras el PP destina el dinero a “proyectos fantasma, cuentas en Suiza, maletines y Sicav”, el Ayuntamiento de Rivas lo consagra, por ejemplo en este caso, “a políticas de juventud y educación no formal”.</p>
+<p>A Corrales no le sorprende que una cooperativa sume 1,2 millones en contratos. “Hay otros que Aupa no ganó. Lo explicaremos pronto. Apostamos por la economía social. Por los pequeños proveedores —no por las grandes constructoras— en la medida de lo posible”.</p>
+<p>Durante semanas la oposición ha reclamado tener acceso a los contratos y el Consistorio prueba que algunos sí que han consultado. Pero no todos. Mónica Carazo, del PSOE, subraya: Los primeros interesados en que salga a la luz todo somos los socialistas que estuvimos en el gobierno de Rivas”.</p>
+<p>El gobierno local se ha comprometido a presentar papeles en la reunión de la Junta de Portavoces del próximo jueves.</p>]]></content:encoded>
+    <enclosure url="http://ep00.epimg.net/politica/imagenes/2014/12/01/actualidad/1417463801_123941_1417465920_miniatura_normal.jpg" length="5540" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/politica/imagenes/2014/12/01/actualidad/1417463801_123941_1417466010_noticia_normal.jpg" length="29703" type="image/jpeg"  />
+    <comments><![CDATA[http://eskup.elpais.com/C1417463801-f71aa3dd1cab5284dc2ffa6ac2dbb7a9]]></comments>
+  </item>
+  <item>
+    <title><![CDATA[“El PP me pagó con billetes de 500 en b parte de una campaña”]]></title>
+    <link><![CDATA[http://elpais.com/politica/2014/11/30/actualidad/1417366127_817999.html]]></link>
+    <guid isPermaLink="true"><![CDATA[http://elpais.com/politica/2014/11/30/actualidad/1417366127_817999.html]]></guid>
+    <dc:creator><![CDATA[Rafael Méndez, José María Irujo]]></dc:creator>
+    <description><![CDATA[Habla el publicitario que dirigió en 2007 la elección clave para el ascenso de Sonia Castedo]]></description>
+    <pubDate><![CDATA[Mon, 1 Dec 2014 10:20:43 +0100]]></pubDate>
+    <category><![CDATA[Sonia Castedo]]></category>
+    <category><![CDATA[Alicante]]></category>
+    <category><![CDATA[Enrique Ruíz]]></category>
+    <category><![CDATA[Plan Rabasa]]></category>
+    <category><![CDATA[Caso Gürtel]]></category>
+    <category><![CDATA[Valencia]]></category>
+    <category><![CDATA[PGOU]]></category>
+    <category><![CDATA[Corrupción política]]></category>
+    <category><![CDATA[Planes urbanísticos]]></category>
+    <category><![CDATA[Casos judiciales]]></category>
+    <category><![CDATA[Corrupción]]></category>
+    <category><![CDATA[Comunidad Valenciana]]></category>
+    <category><![CDATA[Política urbanística]]></category>
+    <category><![CDATA[España]]></category>
+    <category><![CDATA[Desarrollo urbano]]></category>
+    <category><![CDATA[Delitos]]></category>
+    <category><![CDATA[Urbanismo]]></category>
+    <category><![CDATA[Política]]></category>
+    <category><![CDATA[Justicia]]></category>
+    <content:encoded><![CDATA[<p>La campaña electoral del PP en las elecciones municipales de 2007 en Alicante que coordinó la entonces concejal de Urbanismo y actual alcaldesa <a href="http://elpais.com/tag/sonia_castedo/a/">Sonia Castedo</a> superó los límites legales que marca la ley, se pagó en dinero negro y fue financiada en parte por el constructor <a href="http://ccaa.elpais.com/ccaa/2014/11/24/valencia/1416831878_492446.html">Enrique Ortiz</a> y otros promotores locales y nacionales, asegura Enrique Ruiz Córcoles, propietario de la agencia de publicidad ER Backspin al que se le encargaron casi todos los eventos. Castedo y Ortiz lo niegan.</p>
+<p>Ruiz Córcoles, de 49 años, entonces hombre de confianza de Castedo, diseñó una agresiva campaña que, según asegura, costó más de 450.000 euros, dio la mayoría al PP y aupó a la alcaldía a Luis Díaz Alperi, al que luego sucedió Castedo, hoy imputada junto a Ortiz por amañar supuestamente el Plan General Urbano de la ciudad y en el denominado <em>caso Rabassa.</em></p>
+<p>El dueño de ER Backspin afirma a EL PAÍS que no firmó ningún contrato con el PP y que preparó una factura por sus servicios de 21.000 euros porque la Ley Electoral impedía gastar más. “Me dieron 35.000 euros en b en el despacho de Luis Díaz Alperi, que estaba con Sonia Alegría [concejal del PP]. Me hizo contar el dinero delante de ellos. Posteriormente, durante la conversación comenté cómo fabricaban tan bonitos los billetes de 500. Sonia me dijo: ‘Esto lo mandan de Madrid”. Asegura que esto fue tres o cuatro días después de la jornada electoral. Alperi y Alegría lo niegan.</p>
+<p>Dentro del <a href="http://elpais.com/tag/caso_gurtel/a/"><em>caso Gürtel</em></a> que se instruye en Valencia, la Agencia Tributaria atribuye el pago de 88.000 euros en dinero b de parte de esa campaña del PP a “Sonia”.</p>
+<p>Ruiz afirma que el resto se lo abonaron varios constructores, entre los que cita a Enrique Ortiz. “Ortiz me pagó en billetes unos 30.000 o 40.000 euros. Fui a sus oficinas en Alfonso X El Sabio y una secretaria me dio un sobre diciéndome: ‘Esto han dejado para ti”. El constructor Ortiz niega el presunto pago.</p>
+<p>La campaña a las municipales en Alicante en 2007 fue clave porque semanas antes de las elecciones una encuesta del CIS apuntaba que el PP perdería la alcaldía. El partido se volcó con una ostentosa campaña electoral. La imagen de Díaz Alperi cubrió las fachadas de una docena de edificios en lonas de hasta 10 por 6 metros. Los carteles se colgaron en edificios en construcción y en otros protegidos de los barrios más emblemáticos. Una ordenanza, aprobada anteriormente por el propio Alperi y su grupo municipal, prohibía la instalación de carteles, exigía su retirada inmediata y multaba con hasta 3.000 euros a quien lo hiciera. La oposición denunció el despliegue de medios del que hizo gala el PP.</p>
+<p>“Sonia se ocupó de buscar todos los espacios y habló con los constructores y promotores que los cedieron. Les decía: ‘Hay que colaborar con la campaña’. Alquilar cada fachada podía costar entre 8.000 y 40.000 euros al mes. Logramos los mejores espacios de la ciudad. Movilicé a más de 150 personas durante 25 días”, asegura Ruiz.</p>
+<p>“Fue una campaña bestial. Había castillos hinchables, tirolinas, bandas de música, regalábamos <em>coca-colas.</em> Pusimos más de 150 vallas en Alicante, radios, publicidad estática, un folleto especial de 12 páginas buzoneado por todo Alicante... Invitábamos a todo el mundo”, recuerda Ruiz.</p>
+<p>La campaña no reparó en gastos. Una crónica del diario <em>Información</em> de Alicante del 15 de mayo de 2007 describe un mitin de Alperi: “La organización del PP montó en la plaza de San Blas todo tipo de atracciones para el público: invitó a comer y beber, entregó bolsas con obsequios, instaló juegos infantiles... hasta la banda de Los Claveles tocó”.</p>
+<p>Contra pronóstico, Alperi logró la alcaldía por 63.695 votos (15 concejales de 29). Fue la cuarta mayoría absoluta consecutiva de Alperi.</p>
+<p>“Cuando ganamos celebramos el fin de fiesta en el hotel Meliá y Sonia y Alperi y el resto de concejales me mantearon. Hubo barra libre para mil personas”, recuerda Ruiz, que afirma que organizó los actos y estrategia publicitaria salvo el primer mitin y el último. En ambos intervino Francisco Camps, entonces presidente de la Comunidad Valenciana. “Los actos de Camps los organizaba Orange Market”, apostilla el publicitario. Orange Market es una de las empresas investigadas en la trama Gürtel.</p>
+<p>El 17 de septiembre de 2008, menos de año y medio después de las elecciones, Alperi, entonces imputado, cedió el bastón de la alcaldía a Sonia Castedo, una periodista reconvertida en política. “Durante la campaña ya sabíamos que Alperi le dejaría el poder, que ella iba a ser la alcaldesa”, asegura Ruiz.</p>
+<p>El publicitario describe cómo el PP propuso pagarle la campaña: “Me dijeron que preparara una factura de 21.000 para el partido”. Era el máximo permitido por la ley. El resto procedió de constructores o de contratos troceados del consistorio después de ganar la alcaldía. Como ejemplo, cita la campaña divernadal de Navidad de ese año: “El presupuesto excedía lo que podía dar una sola concejalía, así que lo trocearon”. Para probarlo muestra 15 facturas de distintos departamentos. “Me avisaban antes de cuál era la mejor oferta de los competidores para que la mejorara”.</p>
+<p>Aun así, los contratos no conseguían saldar la deuda: “En 2009 comencé a tener problemas porque seguían sin pagarme; yo a mi vez dejé deudas a varios proveedores y todo se me vino abajo. Me decían que me pagarían con concesiones municipales, pero me ofrecían tonterías y acabé arruinado”. Así era el sistema que supuestamente utilizaron Alperi y Castedo para favorecer a los constructores que financiaron su campaña: “Les pagaban los favores con concesiones municipales. Todo era una farsa y lo sabíamos mucha gente. Los empresarios de Alicante están sangrados”.</p>
+<p>El dueño de la agencia ER Backspin afirma que el constructor Enrique Ortiz regaló joyas y relojes a concejales y a Sonia Castedo. “Ella le decía: ‘Enrique, no me hagas estos regalos que no sé como te los voy a pagar’. Y él respondía: ‘Ya sabes cómo’. Eran relojes y joyas de 6.000 y 7.000 euros. He escuchado conversaciones alucinantes entre Ortiz y Sonia. Entonces la corrupción era lo normal. Yo he visto cómo les llevaban al coche neceseres. Y a Alperi con bolsas negras liadas, aunque nunca vi lo que iba dentro”.</p>
+<p>Ruiz define la relación del constructor con la alcaldesa como “muy estrecha” y afirma que esta “ha estado muchísimas veces en el barco de Ortiz en Ibiza”. Unas fotografías de ambos con unos amigos celebrando las Navidades en un hotel de Andorra lo demuestran.</p>
+<p>El publicitario se lamenta de que lleva años intentando cobrar los 140.000 euros que aún le deben. “He ido a la sede del PP en Génova a reclamar la deuda y la única respuesta que me dan es que ya me llamarán”, se lamenta. Dice que cayó en desgracia en el entorno de Castedo porque “vieron que trataba con José Antonio Sobrino”, un concejal del PP ahora enfrentado a la alcaldesa.</p>
+<p>Ruiz vendió el catamarán que tenía atracado en el puerto de Alicante y se marchó a Argelia en febrero de 2012 en busca de trabajo. Dejó un reguero de deudas. Y concluye: “Ellos viviendo de puta madre y yo de la limosna. Lo he pasado muy mal, aunque ahora he conseguido rehacer mi vida. Esta gente no imaginaba que algún día me atrevería a contar la verdad. Llevo siete años callado y me apetecía hacer esto. Hoy he descansado”.</p>
+<p><strong>investigacion@elpais.es</strong></p>]]></content:encoded>
+    <enclosure url="http://ep00.epimg.net/politica/imagenes/2014/11/30/actualidad/1417366127_817999_1417367373_miniatura_normal.jpg" length="3861" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/politica/imagenes/2014/11/30/actualidad/1417366127_817999_1417367373_noticia_normal.jpg" length="26348" type="image/jpeg"  />
+    <comments><![CDATA[http://eskup.elpais.com/C1417366127-5f0a4d8774c61a35ebed3d5222e9e779]]></comments>
+  </item>
+  <item>
+    <title><![CDATA[Desafíos globales]]></title>
+    <link><![CDATA[http://elpais.com/elpais/2014/11/28/planeta_futuro/1417180438_053825.html]]></link>
+    <guid isPermaLink="true"><![CDATA[http://elpais.com/elpais/2014/11/28/planeta_futuro/1417180438_053825.html]]></guid>
+    <dc:creator><![CDATA[El País]]></dc:creator>
+    <description><![CDATA[La cofundadora e impulsora de la Gates Foundation, dedicada a la solidaridad y el desarrollo, analiza cómo a través del apoyo a las mujeres se puede lograr un mundo mejor. Por MELINDA GATES]]></description>
+    <pubDate><![CDATA[Mon, 1 Dec 2014 10:58:21 +0100]]></pubDate>
+    <category><![CDATA[Fundación Bill y Melinda Gates]]></category>
+    <category><![CDATA[Agenda Post-2015]]></category>
+    <category><![CDATA[Objetivos Milenio]]></category>
+    <category><![CDATA[Derechos mujer]]></category>
+    <category><![CDATA[Pobreza]]></category>
+    <category><![CDATA[Programas ONU]]></category>
+    <category><![CDATA[Desarrollo sostenible]]></category>
+    <category><![CDATA[Fundaciones]]></category>
+    <category><![CDATA[ONU]]></category>
+    <category><![CDATA[Mujeres]]></category>
+    <category><![CDATA[Problemas sociales]]></category>
+    <category><![CDATA[Organizaciones internacionales]]></category>
+    <category><![CDATA[Sociedad]]></category>
+    <category><![CDATA[Relaciones exteriores]]></category>
+    <category><![CDATA[Medio ambiente]]></category>
+    <content:encoded><![CDATA[<p>Cada 15 años, la comunidad internacional se reúne para planificar la lucha contra la pobreza extrema, las enfermedades y los retos que continúan asolando a los países en vías de desarrollo. En el año 2000, líderes de todo el mundo se reunieron en la sede de Naciones Unidas para declarar los <a href="http://elpais.com/tag/odm_objetivos_desarrollo_milenio/a/" target="_blank">Objetivos del Milenio</a>, y el año que viene lo harán de nuevo para debatir los Objetivos de Desarrollo Sostenible, una ambiciosa lista para los próximos 15 años. Son reuniones de una importancia increíble, pero no constituyen más que una pequeña parte de la vía para avanzar. En realidad, la mayoría de las decisiones que impulsan el desarrollo mundial no son las que se toman en alguna reunión de Naciones Unidas. Tampoco las que se ­toman en la sede del Banco Mundial en Washington DC, ni en la Organización Mundial de la Salud, en Ginebra. Son las decisiones que se toman cada día —en este mismo momento— en los hogares de los lugares más pobres del mundo.</p>
+<p>En el caso de mujeres como Anna, que vive en una pequeña granja en Tanzania, es la decisión de utilizar el dinero que le han prestado sus amigos para poner en marcha un pequeño negocio de venta de huevos y obtener unos ingresos extra para su familia. En el caso de Sharmila, que vive en el norte de India, es la apuesta por empezar a usar anticonceptivos, pese a que con esa acción se opone a los deseos de su suegra. En el caso de Sebsebila, que vive en Etiopía, es la de vacunar a su hija contra las enfermedades infantiles.</p>
+<p>El impulso para que el mundo progrese no empieza en una reunión de dirigentes políticos. Empieza en las vidas cotidianas de mujeres corrientes en todo el mundo. Cuando mujeres como Anna, Sharmila y Sebsebila tienen la capacidad de tomar decisiones cruciales sobre su vida y su futuro –y cuando, cosa también importante, tienen la capacidad de llevar esas decisiones a la práctica–, todos resultan beneficiados.</p>
+<p>En todos los países a los que voy contemplo que las mujeres son el factor más importante para construir un futuro más sano y próspero. Por desgracia, también observo que en muchas partes del mundo no se las trata en consecuencia. Lo mismo en los países ricos que en los pobres, las mujeres se enfrentan a barreras específicas debido a su sexo, en forma de políticas públicas, expectativas culturales y reglas sociales. Esa situación impide el progreso no solo de las mujeres, sino de toda la población. Cuando a las mujeres se les niega la posibilidad de construir sus vidas y su futuro, el mundo pierde un arma crucial para combatir la pobreza y la enfermedad. Por eso es tan importante empezar a abordar de forma sistemática las desigualdades de género. Y, para organizaciones como la <a href="http://elpais.com/tag/fundacion_bill_melinda_gates/a/" target="_blank">Gates Foundation</a>, ha llegado la hora de que nos comprometamos a que las mujeres y las niñas sean el objetivo fundamental de nuestra labor de desarrollo.</p>
+<h3>Argumentos para invertir en las mujeres y las niñas</h3>
+<p>Mi formación académica es informática y económica, pero he hecho del desarrollo global mi segunda vocación. Hace 15 años, mi marido, Bill, y yo decidimos crear una fundación con el fin de devolver a la sociedad lo que hemos obtenido con Microsoft. Reflexionamos largo y tendido sobre qué forma de invertir nuestros recursos nos permitiría causar el mayor efecto posible y mejorar el mayor número de vidas posibles.</p>
+<p>Desde el principio tuvimos algo claro: queríamos dedicarnos a los problemas de los más pobres del mundo. Para mí era una cuestión de justicia social, un valor que había aprendido en el colegio, en mi casa y a través de mi educación católica. Pero además era para los dos la oportunidad de poner en práctica un principio que nos enseñaron nuestros padres: que todas las vidas tienen el mismo valor. Queríamos que nuestra fundación contribuyera a crear un mundo en el que todos los niños tengan la oportunidad de vivir una vida sana y productiva, que les permita hacer realidad todas sus aspiraciones.</p>
+<p>Poner esto en marcha era abrumador. Los dos somos informáticos, de modo que estamos acostumbrados a desentrañar un código línea a línea, a descomponer un gran problema en todos sus elementos. En la fundación empezamos por estudiar todos los datos posibles sobre los problemas de los más pobres del mundo y después utilizamos nuestras conclusiones para decidir a qué dedicar el dinero.</p>
+<p>Una de nuestras primeras inversiones fue una organización que ayudaba a los países pobres a comprar vacunas para proteger a los niños de enfermedades prevenibles, porque las pruebas demostraban que existía una gran necesidad y que la repercusión sería inmensa.</p>
+<p>Es un proceso analítico que hemos repetido una y otra vez, a medida que nuestra fundación crecía y se expandía en nuevas direcciones. Hoy, ese proceso nos ha llevado a la conclusión de que, para causar el máximo efecto, debemos centrar nuestros esfuerzos en las mujeres y las niñas.</p>
+<p>Por supuesto, invertir en las mujeres es algo justo. Pero además es lo más inteligente. Durante la mayor parte de la historia, las mujeres han vivido infravaloradas, con pocos recursos y escaso apoyo en todas las economías del mundo. Ninguna sociedad puede hacer realidad todas sus aspiraciones si mantiene a la mitad de su población marginada.</p>
+<p>Las pruebas demuestran de manera inequívoca que la desigualdad entre los sexos es un obstáculo para el progreso general. Por ejemplo, <a href="http://economia.elpais.com/economia/2014/01/10/actualidad/1389384548_180170.html" target="_blank">si se equiparara la presencia de hombres y mujeres en el mercado de trabajo en Estados Unidos, el PIB del país aumentaría un 5%</a>. En otros países, las posibilidades son aún mayores, y ese aumento podría ser incluso de hasta un 27%.</p>
+<p>Cuando invertimos en las mujeres y las niñas estamos dando dinero a unas personas que invierten en los demás. Se ha descubierto que cuando las mujeres tienen la capacidad de ganar y controlar su propio dinero, tienden a invertir una mayor parte de lo que ganan en el bienestar familiar: hasta 10 veces más que los hombres. Asimismo, las mujeres gastan el dinero de forma distinta que los hombres. Dan prioridad a aspectos como la salud, los alimentos y la educación; por eso, cuando la madre controla el presupuesto de la familia, sus hijos tienen un 20% más de probabilidades de sobrevivir. En otras palabras, invertir en las mujeres es una decisión que sigue dando frutos en la generación siguiente, puesto que unos niños más sanos y mejor educados hoy crearán unas comunidades más sanas y prósperas mañana.</p>
+<p>Este círculo virtuoso es posible, pero no está garantizado. La única forma de iniciarlo es hacer unos esfuerzos sistemáticos y deliberados para desmontar la desigualdad de género en todos los países. Y no es una tarea sencilla. Es un tema muy complicado, que depende enormemente del contexto cultural y de cómo percibimos nuestra propia identidad. Sin embargo, hay varios elementos que las mujeres de todo el mundo tienen en común. Antes de empezar a desarrollar el potencial de las mujeres como agentes del cambio, debemos empezar por colaborar con ellas para satisfacer tres necesidades básicas.</p>
+<h3>Salud</h3>
+<p>Es la primera necesidad. Independientemente de quiénes sean o dónde vivan, todas las mujeres necesitan un sistema de salud del que se puedan fiar. El embarazo y el parto son todavía las principales causas de muerte e incapacitación de las mujeres en edad fértil, en parte porque muchas de las más pobres del mundo siguen dando a luz lejos de instalaciones médicas y sin la presencia de personal cualificado.</p>
+<p>Las mujeres de los países en vías de desarrollo tienen tres veces menos probabilidades de contar con un profesional en el momento del parto que las de los países ricos. Ese es un problema que podemos y debemos solucionar: hay que aumentar el número de profesionales sanitarios de atención primaria y conseguir que lleguen a más rincones. Pero también podemos ayudar a salvar las vidas de las madres y los recién nacidos de otras maneras.</p>
+<p>Por ejemplo, en las zonas rurales de Ghana, la Grameen Foundation, uno de los socios de nuestra fundación, colabora estrechamente con las mujeres locales para elaborar y perfeccionar una maravillosa iniciativa llamada MOTECH. En una región en la que la mortalidad materno-infantil es una amenaza constante, MOTECH utiliza los teléfonos móviles para transmitir información sanitaria esencial a las embarazadas.</p>
+<p>Ahora bien, una gran idea, por sí sola, no basta para garantizar un gran programa. Como las vidas de las mujeres en unos sitios y otros son tan diferentes, hemos aprendido que, para aumentar la eficacia de los programas dirigidos a ellas, lo mejor es contar con su propia ayuda a la hora de elaborarlos. En lugar de ver a las mujeres y las niñas como objetivos de la ayuda, debemos considerar que son nuestras socias y trabajan con nosotros en la cooperación al desarrollo.</p>
+<p>¿Qué quiero decir con esto? El plan inicial de la Grameen Foundation era enviar la información sobre salud a las mujeres a través de mensajes de texto. Pero cuando los responsables preguntaron a estas mujeres su opinión, descubrieron que muchas no sabían leer y preferían recibir la información en el buzón de voz. También descubrieron que los maridos solían controlar el teléfono durante gran parte del día, así que se pusieron de acuerdo con ellas con el fin de averiguar los mejores momentos para enviar esos mensajes.</p>
+<p>Gracias a considerar a las mujeres como socias y colaborar con ellas, la ­<a href="http://www.grameenfoundation.org/" target="_blank">Grameen Foundation</a> consiguió que el programa MOTECH fuera muchísimo más eficaz. Los ajustes de este tipo, incluso tan pequeños como el de este caso, pueden suponer la diferencia crucial entre vivir o morir para una mujer y su bebé. Y cuando se van sumando una y otra vez, pueden acabar provocando un cambio trascendental.</p>
+<h3>Oportunidades económicas</h3>
+<p>Además de la salud, las mujeres necesitan también tener acceso a las oportunidades económicas, la posibilidad de ganar dinero y controlar sus ingresos. Por desgracia, en la mayor parte del mundo siguen existiendo barreras culturales, legales y de otros tipos que impiden la plena participación económica de las mujeres. En muchos países africanos, por ejemplo, las pequeñas campesinas producen siempre mucho menos que los hombres que trabajan en condiciones similares. Los motivos son complejos. A veces es porque las mujeres tienen más responsabilidades en el cuidado de los hijos y, por consiguiente, menos tiempo para trabajar el campo. Otras mujeres tienen un menor acceso a ciertos avances como las semillas mejoradas o los fertilizantes, porque disponen de menos dinero para comprarlas. Y en otros casos las mujeres no son dueñas de la tierra que trabajan.</p>
+<p>Esta desigualdad persistente acarrea un coste enorme para la sociedad. Si las mujeres campesinas tuvieran el mismo acceso a la tierra, la mano de obra, la información, la tecnología, el fertilizante y el agua –además de las mismas oportunidades para utilizar eficazmente esos recursos–, la producción agraria en toda África se incrementaría un 20%. Por el contrario, la gente está pasando hambre mientras tratamos de descubrir cómo acabar con esas diferencias.</p>
+<p>Nuestra fundación ha visto que, incluso cuando logramos que las campesinas de pequeña escala mejoren su productividad, puede seguir habiendo desigualdades. Una consecuencia del aumento de la productividad es que, al llegar la época de la cosecha, es frecuente que los maridos se queden con los beneficios del trabajo de sus mujeres. Por ejemplo, la organización humanitaria CARE [siglas que corresponden a <a href="http://www.google.es/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CCMQFjAA&url=http%3A%2F%2Fwww.care.org%2F&ei=9Zd4VKefOYut7gbuzoHAAg&usg=AFQjCNEOhFRg4o4HuRMLstTTrPxgs57-pA&bvm=bv.80642063,d.ZGU" target="_blank">Cooperative for Assistance and Relief Everywhere</a>, Cooperativa para la Ayuda y el Auxilio en todo el Mundo], que trabaja con campesinos africanos, calcula que solo tres de cada diez mujeres consiguen hacerse cargo del dinero obtenido de las cosechas de gandul [un tipo de guisante africano] que plantan. Para solucionarlo, CARE ha empezado a reunirse con matrimonios y a organizar diálogos sobre el gasto doméstico y las responsabilidades familiares para asegurar que lo obtenido con el trabajo de las mujeres redunde en beneficio de ellas y de todos los miembros del hogar. Como muestra este ejemplo, ayudar a las mujeres a tener acceso a las oportunidades económicas es una cuestión con muchas facetas que es preciso abordar, pero si se colabora con ellas para diseñar formas de actuación que tengan en cuenta la compleja realidad de sus vidas, es posible hacer grandes avances.</p>
+<h3>Poder de decisión</h3>
+<p>Sin embargo, aunque las oportunidades económicas son importantes, no bastan por sí solas. Para controlar su futuro, las mujeres necesitan contar con la capacidad de tomar decisiones sobre sí mismas, sus familias y sus recursos. También este es un problema complicado y no existe una solución sencilla. Pero es posible dar pasos en la dirección adecuada.</p>
+<p>Un programa que me parece admirable es la iniciativa <a href="http://brasil.elpais.com/brasil/2014/09/21/politica/1411323977_583913.html" target="_blank">Bolsa Familia de Brasil</a>. Se trata de un programa de transferencias de dinero en efectivo que asigna unos subsidios mensuales en metálico a las mujeres de las familias más pobres de Brasil. Aunque las cantidades son pequeñas, el programa pretende algo más que prestar ayuda monetaria inmediata: su objetivo es otorgar a esas mujeres el poder de tener voz y tomar decisiones en sus familias. Las investigaciones han demostrado que cuando las mujeres tienen acceso a los recursos y pueden controlarlos, su capacidad de decisión en el hogar se incrementa.</p>
+<p>Lo mejor de todo es que este es un proceso que se retroalimenta. Una vez que las mujeres tienen la oportunidad de controlar las finanzas familiares, empiezan a sentirse poderosas también en otros ámbitos de la vida. Las que participan en Bolsa Familia en áreas urbanas de Brasil dicen que se sienten más dueñas de sus decisiones personales, como usar o no anticonceptivos o cómo abordar los gastos sanitarios y la educación de sus hijos.</p>
+<p>El resultado es que incluso la pequeña cantidad de dinero que reciben las beneficiarias cada mes ofrece a las mujeres más pobres de Brasil una posibilidad de romper el ciclo de pobreza. Hoy día, países de todo el mundo están estudiando el programa brasileño con la esperanza de poder adaptarlo a sus propias circunstancias, un paso mínimo, pero importante, para lograr que mujeres como Anna, Sharmila y Sebsebila lleguen a tener la capacidad de actuar en interés de ellas mismas, sus familias y sus comunidades.</p>
+<h3>Por qué soy optimista</h3>
+<p>Al pensar en cómo van a ser los próximos 15 años, me siento más optimista que nunca. En función de prácticamente cualquier criterio que utilicemos, el mundo no ha estado jamás tan bien como ahora. La gente tiene vidas más sanas y plenas. Nunca ha habido tantos niños como ahora que sobrevivan hasta más allá de los cinco años. Ni tantas madres que sobrevivan al parto. Hemos dado la vuelta a la situación en ­enfermedades como la malaria, la tubercu­losis y el sida, y estamos a punto de erradicar la polio. Hemos sido testigos inequívocos de que es posible progresar.</p>
+<p>No obstante, ahora que los líderes mundiales se reúnen para planificar los próximos 15 años, les pido que recuerden que esos progresos no se logran por sí solos. El mundo avanza en la buena dirección gracias a que mujeres como Anna, Sharmila y Sebsebila están empujando. Si unimos nuestras fuerzas y las organizaciones mundiales de desarrollo las apoyan, el mundo irá aún más allá y avanzará más deprisa, y los progresos que hemos visto en nuestro tiempo no serán más que el principio</p>]]></content:encoded>
+    <enclosure url="http://ep00.epimg.net/elpais/imagenes/2014/11/28/planeta_futuro/1417180438_053825_1417426693_miniatura_normal.jpg" length="4546" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/elpais/imagenes/2014/11/28/planeta_futuro/1417180438_053825_1417426693_noticia_normal.jpg" length="21919" type="image/jpeg"  />
+    <comments><![CDATA[http://eskup.elpais.com/C1417426830-092d751ed0a8aaf1aefebb8f899bb477]]></comments>
+  </item>
+</channel>
+</rss>

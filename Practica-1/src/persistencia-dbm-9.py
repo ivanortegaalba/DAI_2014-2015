@@ -15,7 +15,7 @@ urls = ('/', 'index',
 		'/pagina3', 'pagina3',
 		'/pagina4', 'pagina4',
 		'/registro', 'Registro',
-		'/modificar', 'Modificar'
+		'/modificar', 'Modificar',
 		'/salir','cerrarSesion')
 
 app = web.application(urls, locals(),autoreload=False)
@@ -161,8 +161,6 @@ def vaciarBD():
 		datos[k] = ""
 	miDB.close()
 
-
-# https://docs.python.org/2/library/anydbm.html Doc anydbm
 def leerDatosBD():
 	datos = {}
 	miDB= anydbm.open('miDatabase', 'r')
@@ -179,16 +177,16 @@ class index:
 		if 'user' not in session:
 			loginForm = login() 
 			registroForm = FormularioRegistro()
-			return makos.mako_template(varDep = "", titulo = self.paginaActual, form = loginForm)
+			return makos.mako_template(titulo = self.paginaActual, form = loginForm)
 		else:
 			insertarUltimaPagina(self.paginaActual)
-			return makos.mako_template(varDep = "",titulo = self.paginaActual, ultimas = mostrarUltimas(), formRegistro = registro, content = contentbody, mensaje = (session.user) + mensaje)
+			return makos.mako_template(titulo = self.paginaActual, ultimas = mostrarUltimas(), formRegistro = registro, content = contentbody, mensaje = (session.user) + mensaje)
 
 	def POST(self):
 		loginForm = login()
 		registroForm = FormularioRegistro()
 		if not loginForm.validates():
-			return makos.mako_template(varDep = "",titulo = self.paginaActual, form = loginForm)	
+			return makos.mako_template(titulo = self.paginaActual, form = loginForm)	
 
 		else:
 			input_t = web.input()
@@ -197,7 +195,7 @@ class index:
 			session.pag1 = "null"
 			session.pag2 = "null"
 			session.pag3 = "null"
-			return makos.mako_template(varDep = "",titulo = self.paginaActual, mensaje = (session.user) + mensaje)
+			return makos.mako_template(titulo = self.paginaActual, mensaje = (session.user) + mensaje)
 
 class pagina1:
 	paginaActual = "Pagina 1"
@@ -205,16 +203,16 @@ class pagina1:
 		if 'user' not in session:
 			loginForm=login()
 			registroForm = FormularioRegistro()
-			return makos.mako_template(varDep = "",titulo =self.paginaActual, form = loginForm)
+			return makos.mako_template(titulo =self.paginaActual, form = loginForm)
 		else:
 			insertarUltimaPagina(self.paginaActual)
-			return makos.mako_template(varDep = "",titulo = self.paginaActual, ultimas = mostrarUltimas(), content = contentbody, mensaje = (session.user) + mensaje)
+			return makos.mako_template(titulo = self.paginaActual, ultimas = mostrarUltimas(), content = contentbody, mensaje = (session.user) + mensaje)
 
 	def POST(self):
 		loginForm = login()
 		registroForm = FormularioRegistro()
 		if not loginForm.validates():
-			return makos.mako_template(varDep = "",form = loginForm)		
+			return makos.mako_template(form = loginForm)		
 		else:
 			input_t = web.input()
 			user = input_t.Usuario
@@ -222,7 +220,7 @@ class pagina1:
 			session.pag1 = "null"
 			session.pag2 = "null"
 			session.pag3 = "null"
-			return makos.mako_template(varDep = "",titulo = self.paginaActual, mensaje = (session.user) + mensaje)
+			return makos.mako_template(titulo = self.paginaActual, mensaje = (session.user) + mensaje)
 
 class pagina2:
 	paginaActual = "Pagina 2"
@@ -231,16 +229,16 @@ class pagina2:
 		if 'user' not in session:
 			loginForm =login()
 			registroForm = FormularioRegistro()
-			return makos.mako_template(varDep = "",titulo =self.paginaActual, form = loginForm )
+			return makos.mako_template(titulo =self.paginaActual, form = loginForm )
 		else:
 			insertarUltimaPagina(self.paginaActual)
-			return makos.mako_template(varDep = "",titulo = self.paginaActual, ultimas = mostrarUltimas(), content = contentbody, mensaje = (session.user) + mensaje)
+			return makos.mako_template(titulo = self.paginaActual, ultimas = mostrarUltimas(), content = contentbody, mensaje = (session.user) + mensaje)
 
 	def POST(self):
 		loginForm = login()
 		registroForm = FormularioRegistro()
 		if not loginForm.validates():
-			return makos.mako_template(varDep = "",form = loginForm)		
+			return makos.mako_template(form = loginForm)		
 		else:
 			input_t = web.input()
 			user = input_t.Usuario
@@ -248,7 +246,7 @@ class pagina2:
 			session.pag1 = "null"
 			session.pag2 = "null"
 			session.pag3 = "null"
-			return makos.mako_template(varDep = "",titulo =self.paginaActual, mensaje = (session.user) + mensaje)
+			return makos.mako_template(titulo =self.paginaActual, mensaje = (session.user) + mensaje)
 
 class pagina3:
 	paginaActual = "Pagina 3"
@@ -256,16 +254,16 @@ class pagina3:
 		if 'user' not in session:
 			loginForm = login() 
 			registroForm = FormularioRegistro()
-			return makos.mako_template(varDep = "",titulo =self.paginaActual, form = loginForm)
+			return makos.mako_template(titulo =self.paginaActual, form = loginForm)
 		else:
 			insertarUltimaPagina(self.paginaActual)
-			return makos.mako_template(varDep = "",titulo = self.paginaActual, ultimas = mostrarUltimas(), content = contentbody, mensaje = (session.user) + mensaje)
+			return makos.mako_template(titulo = self.paginaActual, ultimas = mostrarUltimas(), content = contentbody, mensaje = (session.user) + mensaje)
 
 	def POST(self):
 		loginForm = login()
 		registroForm = FormularioRegistro()
 		if not loginForm.validates():
-			return makos.mako_template(varDep = "",form = loginForm)		
+			return makos.mako_template(form = loginForm)		
 		else:
 			input_t = web.input()
 			user = input_t.Usuario
@@ -273,7 +271,7 @@ class pagina3:
 			session.pag1 = "null"
 			session.pag2 = "null"
 			session.pag3 = "null"
-			return makos.mako_template(varDep = "",titulo =self.paginaActual, mensaje = (session.user) + mensaje)
+			return makos.mako_template(titulo =self.paginaActual, mensaje = (session.user) + mensaje)
 
 class pagina4:
 	paginaActual = "Pagina 4"
@@ -281,16 +279,16 @@ class pagina4:
 		if 'user' not in session:
 			loginForm = login()
 			registroForm = FormularioRegistro()
-			return makos.mako_template(varDep = "",titulo =self.paginaActual, form = loginForm)
+			return makos.mako_template(titulo =self.paginaActual, form = loginForm)
 		else:
 			insertarUltimaPagina(self.paginaActual)
-			return makos.mako_template(varDep = "",titulo = self.paginaActual, ultimas = mostrarUltimas(), content = contentbody, mensaje = (session.user) + mensaje)
+			return makos.mako_template(titulo = self.paginaActual, ultimas = mostrarUltimas(), content = contentbody, mensaje = (session.user) + mensaje)
 
 	def POST(self):
 		loginForm = login()
 		registroForm = FormularioRegistro()
 		if not loginForm.validates():
-			return makos.mako_template(varDep = "",form = loginForm)		
+			return makos.mako_template(form = loginForm)		
 		else:
 			input_t = web.input()
 			user = input_t.Usuario
@@ -298,28 +296,48 @@ class pagina4:
 			session.pag1 = "null"
 			session.pag2 = "null"
 			session.pag3 = "null"
-			return makos.mako_template(varDep = "",titulo =self.paginaActual, mensaje = (session.user) + mensaje)
+			return makos.mako_template(titulo =self.paginaActual, mensaje = (session.user) + mensaje)
 
 class Registro:
 	paginaActual = "Registro"
 	def GET(self):
 		registroForm = FormularioRegistro()
-		return makos.mako_template(varDep = "", titulo = self.paginaActual, formRegistro = registroForm)
+		return makos.mako_template(titulo = self.paginaActual, formRegistro = registroForm)
 	
 	def POST(self):
 		registroForm = FormularioRegistro()
 		if not registroForm.validates():
-			return makos.mako_template(varDep = "",titulo = self.paginaActual, formRegistro = registroForm )
+			return makos.mako_template(titulo = self.paginaActual, formRegistro = registroForm )
 		else:
 			datos = web.input()
 			insertarDatosBD(datos)
 			datos = leerDatosBD()
 			registroForm = insertarDatosForm(datos)
 			web.debug(datos)
-			contenido = imprimirDatosBD()
-			return makos.mako_template(varDep = "", titulo = self.paginaActual, formRegistro = registroForm ,mensaje = "Registro exitoso", content = contenido)
+			return makos.mako_template(titulo = self.paginaActual, formRegistro = registroForm ,mensaje = "Registro exitoso")
 
-			
+
+class Modificar:
+	paginaActual = "Modifica"
+	def GET(self):
+		datos = leerDatosBD()
+		registroForm = insertarDatosForm(datos)
+		web.debug(datos)
+		return makos.mako_template(titulo = self.paginaActual, formRegistro = registroForm)
+	
+	def POST(self):
+		registroForm = FormularioRegistro()
+		if not registroForm.validates():
+			return makos.mako_template(titulo = self.paginaActual, formRegistro = registroForm )
+		else:
+			datos = web.input()
+			insertarDatosBD(datos)
+			datos = leerDatosBD()
+			registroForm = insertarDatosForm(datos)
+			web.debug(datos)
+			return makos.mako_template(titulo = self.paginaActual, formRegistro = registroForm ,mensaje = "Registro exitoso")
+
+	
 class cerrarSesion:
 	def GET(self):
 		session.kill()
