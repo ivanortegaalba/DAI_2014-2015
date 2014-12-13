@@ -4,7 +4,6 @@
 		<item value="org.python.pydev.ui.wizards.project.PythonProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
 		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
 			<item value="org.python.pydev.PythonCategory"/>
-			<item value="org.eclipse.ui.Examples"/>
 		</list>
 	</section>
 </section>
