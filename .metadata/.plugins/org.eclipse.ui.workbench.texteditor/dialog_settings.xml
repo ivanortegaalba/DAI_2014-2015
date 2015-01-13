@@ -2,12 +2,13 @@
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
 		<item value="false" key="isRegEx"/>
-		<item value="" key="selection"/>
+		<item value="&apos;" key="selection"/>
 		<item value="false" key="casesensitive"/>
 		<item value="false" key="incremental"/>
 		<item value="true" key="wrap"/>
 		<item value="false" key="wholeword"/>
 		<list key="findhistory">
+			<item value="’"/>
 			<item value="formtest"/>
 			<item value="borrar"/>
 			<item value="#container"/>
@@ -15,9 +16,9 @@
 			<item value="insertar"/>
 			<item value="imprimi"/>
 			<item value="varDep = &quot;&quot;,"/>
-			<item value="varDep = &quot;&quot;, "/>
 		</list>
 		<list key="replacehistory">
+			<item value="&apos;"/>
 			<item value="#grafico"/>
 			<item value=""/>
 			<item value="Direccion"/>
@@ -25,7 +26,6 @@
 			<item value="FormularioRegistro()"/>
 			<item value="registroForm"/>
 			<item value="miDB"/>
-			<item value="datos"/>
 		</list>
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
