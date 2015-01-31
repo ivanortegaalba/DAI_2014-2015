@@ -1,0 +1,20 @@
+-- VERSION_4
+-- START DISKCACHE
+/Users/ivanortegaalba/Dropbox/UNIVERSIDAD_14-15/DAI/PRACTICAS/python_exercises/.metadata/.plugins/org.eclipse.core.resources/.projects/Pruebas/com.python.pydev.analysis/v2_indexcache
+prueba1|1422446552000|/Users/ivanortegaalba/Dropbox/UNIVERSIDAD_14-15/DAI/PRACTICAS/python_exercises/Pruebas/prueba1.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+1=prueba1
+2=hola
+-- END DICTIONARY
+-- START TREE 1
+3
+app|1|app!11@
+hol|1|hola!9@
+url|1|urls!11@
+-- END TREE
+-- START TREE 2
+1
+get|1|GET!2&10@
+-- END TREE

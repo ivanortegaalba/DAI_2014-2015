@@ -2,20 +2,20 @@
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
 		<item value="false" key="isRegEx"/>
-		<item value="&apos;" key="selection"/>
+		<item value="dump" key="selection"/>
 		<item value="false" key="casesensitive"/>
 		<item value="false" key="incremental"/>
 		<item value="true" key="wrap"/>
 		<item value="false" key="wholeword"/>
 		<list key="findhistory">
+			<item value="dump"/>
+			<item value="dumps"/>
+			<item value="$"/>
+			<item value="position"/>
+			<item value="location"/>
+			<item value="geo"/>
+			<item value="geo_id"/>
 			<item value="’"/>
-			<item value="formtest"/>
-			<item value="borrar"/>
-			<item value="#container"/>
-			<item value="salir"/>
-			<item value="insertar"/>
-			<item value="imprimi"/>
-			<item value="varDep = &quot;&quot;,"/>
 		</list>
 		<list key="replacehistory">
 			<item value="&apos;"/>
@@ -32,7 +32,7 @@
 		<item value="265" key="DIALOG_WIDTH"/>
 		<item value="1|.Helvetica Neue DeskInterface|11.0|0|COCOA|1|.HelveticaNeueDeskInterface-Regular" key="DIALOG_FONT_NAME"/>
 		<item value="399" key="DIALOG_HEIGHT"/>
-		<item value="637" key="DIALOG_X_ORIGIN"/>
-		<item value="239" key="DIALOG_Y_ORIGIN"/>
+		<item value="323" key="DIALOG_X_ORIGIN"/>
+		<item value="397" key="DIALOG_Y_ORIGIN"/>
 	</section>
 </section>

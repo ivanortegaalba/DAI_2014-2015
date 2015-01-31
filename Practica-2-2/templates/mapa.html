@@ -1,0 +1,82 @@
+$def with (form,puntos)
+<!DOCTYPE link PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap-theme.min.css">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+
+<meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+
+<style>
+header{
+	background-color:red;
+	margin-bottom:20px;
+	color:white;
+	padding: 10px;
+}
+form * {
+	margin: 5px;
+}
+form{
+border: 1px inset #4d4d4d;
+padding: 10px;
+}
+.error, .wrong{
+	color: red;
+}
+#map-canvas {
+        height: 100%;
+        margin: 0px;
+        padding: 0px
+}
+</style>
+<script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyB4_8JwKM_0AkAM0YJouBBg0wYhWs8dHpY&sensor=false"></script>
+    <script>
+var map;
+function initialize() {
+  var mapOptions = {
+    zoom: 8,
+    center: new google.maps.LatLng$geocoder.google('Andalucia').location
+  };
+  map = new google.maps.Map(document.getElementById('map-canvas'),
+      mapOptions);
+  $for punto in puntos :
+	  var myLatlng = new google.maps.LatLng($punto["x"] , $punto["y"]);
+	
+	  var marker = new google.maps.Marker({
+	      position: myLatlng,
+	      map: map,
+	      title:"$punto["nombre"]"		
+	  });
+}
+
+google.maps.event.addDomListener(window, 'load', initialize);
+
+    </script>
+
+</head>
+<body>
+<header class="col-xs-12">
+<h1 >Uso de Maps</h1>
+<h3> Representación de puntos por coordenadas</h3>
+</header>
+<div class="container">
+
+<form role="form" class ="col-xs-6" name="main" method="post">
+<div class="form-groups ">
+$if not form.valid: <p class="error">Inténtelo de nuevo</p>
+$:form.render()
+<input class="button-default form-control" type="submit" />    
+</div>
+</form>
+<div id="map-canvas" class="col-xs-12"></div>
+</div>
+</body>
+</html>

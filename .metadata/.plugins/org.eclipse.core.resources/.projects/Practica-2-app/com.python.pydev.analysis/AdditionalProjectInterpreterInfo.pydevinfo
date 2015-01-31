@@ -1,0 +1,39 @@
+-- VERSION_4
+-- START DISKCACHE
+/Users/ivanortegaalba/Dropbox/UNIVERSIDAD_14-15/DAI/PRACTICAS/python_exercises/.metadata/.plugins/org.eclipse.core.resources/.projects/Practica-2-app/com.python.pydev.analysis/v2_indexcache
+app|1421140990000|/Users/ivanortegaalba/Dropbox/UNIVERSIDAD_14-15/DAI/PRACTICAS/python_exercises/Practica-2-app/app.py
+streamer|1421090942000|/Users/ivanortegaalba/Dropbox/UNIVERSIDAD_14-15/DAI/PRACTICAS/python_exercises/Practica-2-app/streamer.py
+-- END DISKCACHE
+-- START DICTIONARY
+5
+1=app
+2=streamer
+3=index
+4=ajax
+5=StreamListener
+-- END DICTIONARY
+-- START TREE 1
+16
+acc|4|access_token!11@access_token_secret!19@access_token_secret!11@access_token!19@
+aja|1|ajax!9@
+api|2|api!19@api!11@
+app|2|app!11@app!19@
+aut|2|auth!19@auth!11@
+bus|1|buscarTweets!10@
+cli|1|client!11@
+con|4|consumer_key!19@consumer_key!11@consumer_secret!11@consumer_secret!19@
+db|1|db!11@
+hac|1|hacerConteo!10@
+ind|2|index!9@index!17@
+myf|1|myform!11@
+ren|2|render!19@render!11@
+str|2|StreamListener!17@streamAPI!18@
+twe|1|tweetCol!11@
+url|2|urls!11@urls!19@
+-- END TREE
+-- START TREE 2
+3
+get|3|GET!3&18@GET!3&10@GET!4&10@
+on_|3|on_error!5&18@on_limit!5&18@on_data!5&18@
+pos|1|POST!3&10@
+-- END TREE

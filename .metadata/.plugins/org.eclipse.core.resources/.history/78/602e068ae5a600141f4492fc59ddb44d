@@ -1,0 +1,26 @@
+#encoding:utf-8
+'''
+Created on 26/1/2015
+
+@author: ivanortegaalba
+'''
+
+# -*- encoding: utf-8 -*-
+import web
+        
+# Asocia cualquier ruta url con la clase 'hola'
+urls = (
+    '/(.*)', 'hola'  # Expresión regular, clase asociada
+)
+app = web.application(urls, globals())
+
+class hola:        
+    # name es el contenido del primer paréntesis    
+    def GET(self, name):    # petición GET
+        if not name:  name = 'mundo'
+        return 'Hola, ' + name + '!'
+
+# Para que se ejecute como aplicación independiente 
+# con el servidor de web propio
+if __name__ == "__main__":
+    app.run()
